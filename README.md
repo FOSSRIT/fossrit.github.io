@@ -9,7 +9,7 @@ This is a website for communicating essential information to the [Free and Open 
 It is intentionally a simple website and communicates essential information.
 The website accomplishes the following objectives:
 
-* Communicating when FOSS Hours meet are
+* Communicating when and where FOSS Hours are held
 * How to become involved with the group
 * Platforms / tools for communicating with the group
 
