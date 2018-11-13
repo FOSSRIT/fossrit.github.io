@@ -7,6 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Official site for the Free and Open Source Software initiative
   at the RIT MAGIC Center. Learn about open source activities and
   courses at the Rochester Institute of Technology.
+github-repo: 'https://github.com/FOSSRIT/fossrit.github.io'
 
 url: 'https://fossrit.github.io'
 # Build settings
