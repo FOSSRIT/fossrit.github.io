@@ -1,22 +1,19 @@
-# FOSS@MAGIC on GitHub ([fossrit.github.io](https://fossrit.github.io))
+[fossrit.github.io](https://fossrit.github.io)
+==============================================
 
-Student-created [FOSS@MAGIC website](https://fossrit.github.io) to promote program and provide information and resources
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+
+Official website for Free and Open Source Software @ RIT MAGIC Center and FOSS academia
 
 
 ## About
 
-This is a website for communicating essential information to the [Free and Open Source Software program](http://foss.rit.edu) at the [Rochester Institute of Technology](https://www.rit.edu).
-It is intentionally a simple website and communicates essential information.
-The website accomplishes the following objectives:
-
-* Communicating when and where FOSS Hours are held
-* How to become involved with the group
-* Platforms / tools for communicating with the group
-
-This website is managed by students and not officially associated with the RIT FOSS@MAGIC program (yet).
+This is the website for the Free and Open Source Software initiative at the [RIT MAGIC Center](https://magic.rit.edu/ "RIT MAGIC Center - website").
+This website covers both institution programs and work as well as the FOSS academic courses.
+It is also used to communicate other information of interest to the RIT FOSS community.
 
 
-## Legal
+## Legal notes
 
-This website is licensed under the [GNU Public License v3](https://www.gnu.org/licenses/gpl-3.0.html).
-The template currently being used is licensed under the [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/).
+This website is licensed under the [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/).
+It is based off of [RITlug/ritlug.github.io](https://github.com/RITlug/ritlug.github.io), a [Creative Commons Zero v1.0 Universal](https://github.com/RITlug/ritlug.github.io/blob/fe94d190d92ae3d13bbc743f81eab2d004ba5f16/LICENSE) project.

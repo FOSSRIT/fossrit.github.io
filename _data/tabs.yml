@@ -1,0 +1,20 @@
+- name: Home
+  link: /
+
+- name: About
+  link: /about/
+
+- name: Announcements
+  link: /announcements/
+
+- name: Talks
+  link: /talks/
+
+- name: Projects
+  link: /projects/
+
+- name: Events
+  link: /events/
+
+- name: Get Involved
+  link: /get-involved/

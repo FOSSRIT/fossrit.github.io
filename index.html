@@ -1,55 +1,64 @@
-<!DOCTYPE HTML>
-<!--
-	Spectral by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
-	<head>
-		<title>FOSS@RIT</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-	</head>
-	<body class="landing">
+---
+layout: default
+title: Home
+---
 
-		<!-- Page Wrapper -->
-			<div id="page-wrapper">
-				<!-- Banner -->
-					<section id="banner">
-						<div class="inner">
-							<h2>FOSS@MAGIC</h2>
-							<p>FOSS Hours can be found<br />
-							<strong>5-7pm</strong> in room <strong>3190</strong> in <strong>MAGIC Spell Studios (MSS)</strong><br />
-              every <strong>Tuesday</strong></p>
-							<ul class="actions">
-								<li><a href="http://foss.rit.edu" class="button special">Learn More</a></li>
-							</ul>
-						</div>
-					</section>
+<section id="home-about" class="jumbotron jumbotron-fluid">
+    <div class="container">
+        <h1 class="display-4">{{ site.title }}</h1>
+        <p class="lead">Free and open source software at the Rochester Institute of Technology.</p>
+        <hr class="lead-4" />
+        <!-- <p>Work on projects and discuss interesting topics in the Linux &amp; open source communities.</p> -->
+        <p>Weekly FOSS Hours held every {{ site.meeting-day }}, {{ site.meeting-time }} in {{ site.meeting-place }}.</p>
+    </div>
+</section>
+
+<section id="do-stuff" class="container">
+    <div class="row" style="margin-bottom:-1.2em;">
+        <div class="col-12 col-md-6" style="margin-bottom:1.2em;">
+            <h2>Discuss</h2>
+            <div class="list-group">
+                <a href="https://rit-lug.slack.com/" class="list-group-item list-group-item-action">Slack (needs <code>@rit.edu</code> email)</a>
+                <a href="https://lists.fedoraproject.org/admin/lists/fossrit.lists.fedorahosted.org/" class="list-group-item list-group-item-action">Mailing List</a>
+                <a href="https://webchat.freenode.net/?channels=rit-foss" class="list-group-item list-group-item-action"><code>#rit-foss</code> on Freenode IRC</a>
+                <a href="https://twitter.com/RITMAGIC" class="list-group-item list-group-item-action">Twitter</a>
+            </div>
+        </div>
+        <div class="col-12 col-md-6" style="margin-bottom:1.2em;">
+            <h2>Do</h2>
+            <div class="list-group">
+            <a href="/about" class="list-group-item list-group-item-action">About</a>
+            <a href="/get-involved" class="list-group-item list-group-item-action">Get Involved</a>
+            <a href="/events" class="list-group-item list-group-item-action">Events</a>
+            <a href="/talks" class="list-group-item list-group-item-action">Talks</a>
+            <a href="/projects" class="list-group-item list-group-item-action">Projects</a>
+            <a href="https://github.com/FOSSRIT" class="list-group-item list-group-item-action">GitHub</a>
+            </div>
+        </div>
+    </div>
+</section>
 
 
-				<!-- Footer -->
-					<footer id="footer">
-						<ul class="icons">
-							<li><a href="https://github.com/FOSSRIT" class="icon fa-github"><span class="label">GitHub</span></a></li>
-							<li><a href="https://lists.fedoraproject.org/admin/lists/fossrit.lists.fedorahosted.org/" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
-							<li><a href="https://webchat.freenode.net/?channels=rit-foss" class="icon fa-comment-o"><span class="label">IRC</span></a></li>
-						</ul>
-					</footer>
-			</div>
+<section class="container">
+    <h1>Latest News{% comment %} <a href="https://groups.google.com/forum/#!forum/ritlug-announce"><i class="fas fa-envelope icon-orange"></i></a> <a href="/feeds/latest.xml"><i class="fas fa-rss-square icon-orange"></i></a>{% endcomment %}</h1>
 
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/skel.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-			<script src="assets/js/main.js"></script>
-
-	</body>
-</html>
+    <p><em>Announcements can now be found on our <a href="https://lists.fedoraproject.org/admin/lists/fossrit.lists.fedorahosted.org/" target="_blank">mailing list</a>.</em></p>
+    {% comment %}
+    {% for post in site.categories.announcements limit: 1 %}
+    <article class="card">
+        <div class="card-body">
+            <h2>{{ post.title }}</h2>
+            <p><em>{{ post.date | date_to_long_string }}</em></p>
+            {% comment %} http://briankhuu.com/blog/self/jekyll/2014/12/03/post-truncation-in-jekyll.html {% endcomment %}
+            {% assign truncatedContent = '' %}
+            {% assign paragraphs = post.content | split:'</p>' %}
+            {% for paragraph in paragraphs limit:2 %}
+                {{ truncatedContent | append: paragraph }}
+                {{ truncatedContent | append: '</p>' }}
+            {% endfor %}
+            <a class="btn btn-primary btn-block" href="{{ post.url }}">Continue Reading</a>
+        </div>
+    </article>
+    {% endfor %}
+    {% endcomment %}
+</section>
