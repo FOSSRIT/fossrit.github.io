@@ -3,39 +3,35 @@ layout: page
 title: Get Involved
 ---
 
-More info on how to get involved goes here.
-Soon.
+Join our IRC channel [#rit-foss on Freenode IRC](https://webchat.freenode.net/?channels=rit-foss) or the [Telegram group](https://telegram.me/fossrit).
+There are also FOSS Hours every {{ site.meeting-day }} from {{ site.meeting-time }} in {{ site.meeting-place }}.
+Come meet other students and faculty involved with FOSS efforts at RIT!
 
-<!-- Meetings are open to anyone interested, new members and old.
-RITlug meets on every {{ site.meeting-day }}, {{ site.meeting-time }} in {{ site.meeting-place }}.
-If you can't make the whole time, that's fine!
-Meetings typically have a presentation first, then we open the floor to discussion and technical help.
-We also hold "Project Collaboration" sessions where you can come and work on projects, homework, or just hang out.
-**_Interested? Just show up!_**
+Be sure to sign up for our [mailing list](https://lists.fedoraproject.org/admin/lists/fossrit.lists.fedorahosted.org/ "FOSS@MAGIC mailing list") to keep updated with events, news, and community discussions.
 
-Looking for more information? Email us at {{ site.email }}.
+Want to take the extra step?
+Look into our [FOSS minor and FOSS-related classes](https://www.rit.edu/gccis/igm/sites/rit.edu.gccis.igm/files/images/FOSS-MN%20Semesters.pdf "FOSS-MN - overview").
+
+Looking for more information? Email Prof. Stephen Jacobs at {{ site.email }}.
 
 
 ##### Discussion
 
-* Come to meetings!
-* [Slack (for RIT Students)](https://rit-lug.slack.com/)
-* [Telegram](https://telegram.me/ritlugclub)
-* [IRC Channel](ircs://irc.freenode.net/ritlug) ([webchat](https://webchat.freenode.net/?channels=ritlug))
-* [Facebook page](https://facebook.com/groups/RITlug) (restricted to past and present RIT students and staff only, sorry!)
-* [Twitter](https://twitter.com/RITlug)
-* [Reddit](https://www.reddit.com/r/RITlug)
+* Come to FOSS Hours!
+* [Slack (RIT email required)](https://rit-lug.slack.com/)
+* [Telegram](https://telegram.me/fossrit)
+* [IRC channel](ircs://irc.freenode.net/rit-foss) ([web chat](https://webchat.freenode.net/?channels=rit-foss))
+* [Twitter](https://twitter.com/RITMAGIC)
 
 
-##### Open Source Code and Governance
+##### Open source projects
 
-* [Github Organization](https://github.com/RITlug) (club governing documents, website, and projects)
+* [GitHub organization](https://github.com/FOSSRIT)
 
 
 ##### Events
 
-* Weekly Meetings on {{ site.meeting-day }}s, {{ site.meeting-time }}
-* RIT Club Fairs
-* Occasional [FOSS@MAGIC](http://foss.rit.edu) Events
+* Weekly FOSS Hours on {{ site.meeting-day }}s, {{ site.meeting-time }}
+* FOSS Talks: monthly guest speakers on topics related to FOSS
+* Hackathons (e.g. Election Night Hackathon)
 * [ImagineRIT](https://rit.edu/imagine)
- -->
