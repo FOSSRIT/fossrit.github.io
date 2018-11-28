@@ -3,7 +3,7 @@
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     <meta property="og:site_name" content="{{ site.title }}" />
     <meta name="application-name" content="{{ site.title }}" />
-    <meta name="twitter:site" content="@RITlug" />
+    <meta name="twitter:site" content="{{ site.twitter_account }}" />
     <meta name="twitter:card" content="summary_large_image" />
     {% if page.excerpt %}
         <meta name="description" content="{{ page.excerpt | strip_html | truncate: 155 }}" />
@@ -45,19 +45,19 @@
         <meta property="og:image" content="{{ site.url }}{{ page.images.first }}" />
         <meta name="twitter:image" content="{{ site.url }}{{ page.images.first }}" />
     {% else %}
-        <meta property="og:image" content="{{ site.url }}/img/ritlug-large.png" />
-        <meta name="twitter:image" content="{{ site.url }}/img/ritlug-large.png" />
+        <meta property="og:image" content="{{ site.url }}/img/logo.png" />
+        <meta name="twitter:image" content="{{ site.url }}/img/logo.png" />
     {% endif %}
     <script type="application/ld+json">
     {
         "@context": "http://schema.org",
         "@type": "Organization",
-        "name": "RIT Linux Users Group",
-        "alternateName": "RITlug",
-        "logo": "{{ site.url }}/img/ritlug-large.png",
+        "name": "{{ site.title }}",
+        "alternateName": "{{ site.title-abbrev }}",
+        "logo": "{{ site.url }}/img/logo.png",
         "url": "{{ site.url }}",
         "sameAs": [
-            "https://twitter.com/RITlug"
+            "https://twitter.com/{{ site.twitter_account }}"
         ],
         "knowsAbout": [
             "Linux",
