@@ -1,9 +1,7 @@
 ---
-short: LibreCorps
+layout: page
 title: LibreCorps
 slug: librecorps
-date: 2018-11-28
-layout: page
 ---
 
 LibreCorps is a FOSS@MAGIC Initiative connecting RIT students interested in open source to Humanitarian and Civic coding opportunities.
