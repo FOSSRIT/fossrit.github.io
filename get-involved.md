@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Get Involved
+slug: get-involved
 ---
 
 Join our IRC channel [#rit-foss on Freenode IRC](https://webchat.freenode.net/?channels=rit-foss) or the [Telegram group](https://telegram.me/fossrit).

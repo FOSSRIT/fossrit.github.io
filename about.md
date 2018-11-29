@@ -1,10 +1,9 @@
 ---
-short: About
+layout: page
 title: About
 slug: about
-date: 2014-08-21 14:06
-layout: page
 ---
+
 *{{ site.title-abbrev }} hosts weekly meetings every week of classes at RIT. Meetings are {{ site.meeting-day }}s {{ site.meeting-time }} in {{ site.meeting-place }}.*
 
 FOSS@MAGIC is the Free and Open Source Software (FOSS) program at the [RIT MAGIC Center](https://magic.rit.edu/).
