@@ -19,6 +19,14 @@ description: >  # this symbol ignores newlines
 
 email: sj@magic.rit.edu
 github-repo: "https://github.com/FOSSRIT/fossrit.github.io"
+seo_keywords: >  # this symbol ignores newlines
+  "FOSS@MAGIC",
+  "FOSSRIT",
+  "RIT FOSS",
+  "RIT MAGIC Center",
+  "Rochester Institute of Technology",
+  "open source",
+  "Stephen Jacobs"
 twitter_account: "@RITMAGIC"
 url: "https://fossrit.github.io"
 
