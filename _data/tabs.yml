@@ -7,14 +7,17 @@
 - name: Announcements
   link: /announcements/
 
-- name: Talks
-  link: /talks/
+- name: Events
+  link: /events/
+
+- name: LibreCorps
+  link: /librecorps/
 
 - name: Projects
   link: /projects/
 
-- name: Events
-  link: /events/
+- name: Talks
+  link: /talks/
 
 - name: Get Involved
   link: /get-involved/
