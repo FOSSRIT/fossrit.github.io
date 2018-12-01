@@ -20,7 +20,7 @@ describe "Footer links", type: :feature, js: true do
     it "renders the links" do
       expect(@links[0].text).to eq('Home')
       expect(@links[1].text).to eq('Announcements')
-      expect(@links[2].text).to eq('Talks')
+      expect(@links[2].text).to eq('Events')
       expect(@links[3].text).to eq('About')
       expect(@links[4].text).to eq('Get Involved')
       expect(@links[5].text).to eq('CampusGroups')
@@ -73,7 +73,7 @@ describe "Footer links", type: :feature, js: true do
     
     it "renders the links" do
       expect(@links[0].text).to eq('Announcements')
-      expect(@links[1].text).to eq('Talks')
+      expect(@links[1].text).to eq('Events')
     end
   end
   
