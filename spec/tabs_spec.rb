@@ -16,7 +16,7 @@ describe "Navigation tabs", type: :feature, js: true do
     it "renders the tabs" do
       expect(@tabs[0].text).to eq('HOME')
       expect(@tabs[1].text).to eq('ANNOUNCEMENTS')
-      expect(@tabs[2].text).to eq('TALKS')
+      expect(@tabs[2].text).to eq('EVENTS')
       expect(@tabs[3].text).to eq('ABOUT')
       expect(@tabs[4].text).to eq('GET INVOLVED')
       expect(@tabs[5].text).to eq('CAMPUSGROUPS')
@@ -42,19 +42,19 @@ describe "Navigation tabs", type: :feature, js: true do
       expect(page).to have_current_path('/announcements/')
     end
     
-    it "redirects to /talks/ after clicking Talks tab" do
+    it "redirects to /events/ after clicking Events tab" do
       @tabs[2].click
-      expect(page).to have_current_path('/talks/')
+      expect(page).to have_current_path('/events/')
     end
     
     it "redirects to /about/ after clicking About tab" do
       @tabs[3].click
-      expect(page).to have_current_path('/about.html')
+      expect(page).to have_current_path('/about/')
     end
     
     it "redirects to /get-involved.html after clicking Get Involved tab" do
       @tabs[4].click
-      expect(page).to have_current_path('/get-involved.html')
+      expect(page).to have_current_path('/get-involved/')
     end
   end
   
@@ -69,9 +69,9 @@ describe "Navigation tabs", type: :feature, js: true do
       expect(find('.mdl-layout__tab.is-active').text).to eq('ANNOUNCEMENTS')
     end
     
-    it "Talks tab is active on /talks/ route" do
-      visit '/talks/'
-      expect(find('.mdl-layout__tab.is-active').text).to eq('TALKS')
+    it "Events tab is active on /events/ route" do
+      visit '/events/'
+      expect(find('.mdl-layout__tab.is-active').text).to eq('EVENTS')
     end
     
     it "About tab is active on /about.html route" do

@@ -30,6 +30,11 @@ seo_keywords: >  # this symbol ignores newlines
 twitter_account: "@RITMAGIC"
 url: "https://fossrit.github.io"
 
+# --- events page settings ---
+
+page_events:
+  description: "Upcoming events in RIT FOSS community"
+
 
 # --- build settings ---
 
