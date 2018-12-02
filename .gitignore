@@ -1,2 +1,10 @@
+# --- jekyll builds ---
+
+_site/
+
+
+# --- misc. ---
+
+*.swp
 .sass-cache/
 *.css.map
