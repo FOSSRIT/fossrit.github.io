@@ -17,7 +17,7 @@ There are four types of tickets to open:
 
 If you need help, want to request a new web app, or think something could be better with FOSSRIT infrastructure, let us know!
 The repository is monitored by FOSS@MAGIC student employees and other community members.
-If you have questions or have other thoughts, say hello in our [IRC channel](https://webchat.freenode.net/?channels=rit-foss) or [Telegram group](https://t.me/fossrit).
+If you have questions or have other thoughts, say hello in our [IRC channel](https://webchat.freenode.net/?channels=rit-foss-admin) or [Telegram group](https://t.me/joinchat/Ahf4clgueWa9pCYrAJwWrw).
 
 
 Cheers,
