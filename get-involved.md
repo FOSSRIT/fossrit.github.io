@@ -28,11 +28,14 @@ Looking for more information? Email Prof. Stephen Jacobs at {{ site.email }}.
 ##### Open source projects
 
 * [GitHub organization](https://github.com/FOSSRIT)
+* [foss-profiles](https://github.com/FOSSRIT/foss-profiles): Students, faculty, and alums affiliated with RIT FOSS community
+* [infrastructure](https://github.com/FOSSRIT/infrastructure): Open source configuration management for FOSS@MAGIC server infrastructure
 
 
 ##### Events
 
 * Weekly FOSS Hours on {{ site.meeting-day }}s, {{ site.meeting-time }}
 * FOSS Talks: monthly guest speakers on topics related to FOSS
-* Hackathons (e.g. Election Night Hackathon)
-* [ImagineRIT](https://rit.edu/imagine)
+* Hackathons (e.g. [Election Night Hackathon](/events/2018/11/06/election-night-hackathon))
+* [Rochester Maker Faire](https://rochester.makerfaire.com/)
+* [Imagine RIT](https://rit.edu/imagine)

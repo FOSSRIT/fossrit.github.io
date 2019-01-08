@@ -3,12 +3,12 @@ layout: event
 title: Election Night Hackathon 2018
 authors:
 - Justin W. Flory
-excerpt: Students and faculty collaborate and work on projects during the 2018 US midterm elections.
+excerpt: Students and faculty collaborated and worked on projects during the 2018 US midterm elections.
 images:
 - /events/assets/2018/11/election-night-hackathon-01.jpg
 - /events/assets/2018/11/election-night-hackathon-02.jpg
 ---
-Students and faculty collaborate and work on projects during the 2018 US midterm elections.
+Students and faculty collaborated and worked on projects during the 2018 US midterm elections.
 
 {% include content-blocks/gallery.html %}
 
