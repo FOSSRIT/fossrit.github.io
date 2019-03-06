@@ -28,6 +28,22 @@ The [roundtable](https://schedule.gdconf.com/session/bridging-the-open-source-an
 You must be an attendee of the Game Developer's Conference with at least an "Expo Pass" to attend the roundtable.
 
 
+## Roundtable Agenda
+
+1. Call to order / brief explanation of the FOSS SIG and day's topic
+2. Linux Foundation and Red Hat representative introductions
+3. Attendee introductions
+4. Informal Presentation:
+    * What the Linux Foundation does
+    * What the ASF is
+    * How it was formed
+    * What its goals are
+    * How ASF perceives game industry participation and role
+5. Discussion:
+    * ASF and Games Industry: what they could do
+    * If they're a fit or if a different foundation needs to be set up because of significant different needs within the Games industry or is a formal sub-entity should be considered under ASF
+
+
 ## Get involved
 
 Want to get involved before the conference kicks off?
