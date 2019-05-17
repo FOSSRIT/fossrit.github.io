@@ -21,7 +21,7 @@ Install Docker:
   * [Fedora](https://developer.fedoraproject.org/tools/docker/docker-installation.html)
   * [Ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 * [macOS](https://docs.docker.com/docker-for-mac/install/)
-* [Windows](https://docs.docker.com/docker-for-windows/install/)
+* [Windows](https://docs.docker.com/toolbox/overview/)
 
 ### Run development script
 
