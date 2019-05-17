@@ -1,0 +1,43 @@
+---
+author: Kent Reese
+title: "Call for Proposals The Future is Open 2019"
+layout: post
+date: 2019-05-21
+---
+
+The Free and Open Source Software initiative at the Rochester Institute of Technology is proud to announce the debut of the first-ever The Future is Open mini-conference.
+The Future is Open is a one-day event to engage the wider RIT community with open source opportunities, projects, and research happening on campus.
+We invite alums, friends of the program, and those interested in learning about open source on RIT's campus to join current students, faculty, and staff for the event.
+
+A call for proposals (CfP) is now open. 
+We are looking for different types of engagement in the open source movement, including but not limited to programming.
+
+
+## Dates to Remember
+
+-   Day of Event: October 12th, 2019
+-   CFP close date: August 2nd, 2019
+-   CFP notification date: August 30th, 2019
+
+## Suggested Tracks
+
+-   Open source research
+-   Student / club projects
+-   Miscellaneous
+
+## Session Types
+
+-   25 or 50 minute lectures with Q&A
+-   90 minute workshops
+
+## Preparing your Proposal
+
+[Submit to the CfP here.](https://www.google.com/url?q=https://forms.gle/563vz3qZAgMXRJNk9&sa=D&ust=1558124859124000)
+
+
+## Accessibility
+FOSS\@MAGIC is committed to hosting a conference available to everyone.
+The conference hall and stage are fully wheelchair accessible. 
+Speakers are encouraged to use their own computers to present, although we'll also have spares on hand. 
+We also do our best to make the conference as accessible as possible for our attendees in a variety of ways (live ASL interpretation, gender-neutral restrooms, quiet spaces, etc). 
+Please don't hesitate to let us know, if your talk is accepted, what we can do to make your speaking arrangement comfortable.
