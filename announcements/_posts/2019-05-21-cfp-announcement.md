@@ -42,5 +42,5 @@ We are seeking presentations in the following topics:
 FOSS@MAGIC is committed to hosting a conference available to everyone.
 The conference hall and stage are fully wheelchair accessible. 
 Speakers are encouraged to use their own computers to present, although we'll also have spares on hand. 
-We also do our best to make the conference as accessible as possible for our attendees in a variety of ways (live ASL interpretation, gender-neutral restrooms, quiet spaces, etc). 
+We do our best to make the conference as accessible as possible for our attendees in a variety of ways (live ASL interpretation, gender-neutral restrooms, quiet spaces, etc). 
 Please don't hesitate to let us know, if your talk is accepted, what we can do to make your speaking arrangement comfortable.
