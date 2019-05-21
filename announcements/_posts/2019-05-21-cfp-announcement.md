@@ -7,7 +7,7 @@ date: 2019-05-21
 
 FOSS@MAGIC is proud to announce the debut of the first-ever The Future is Open mini-conference.
 The Future is Open is a one-day event to engage the wider RIT community with open source opportunities, projects, and research happening on campus.
-We invite alums, friends of the program, and those interested in learning about open source on RIT's campus to join current students, faculty, and staff for the event.
+We invite alumni, friends of the program, and those interested in learning about a variety of open source projects and programs created on RIT's campus to join current students, faculty, and staff for the event.
 
 A call for proposals (CfP) is now [open](https://www.google.com/url?q=https://forms.gle/563vz3qZAgMXRJNk9&sa=D&ust=1558124859124000). 
 All backgrounds are encouraged and welcomed. We hope for the content of our talks not only cover software development but many topics beyond.
