@@ -5,7 +5,7 @@ layout: post
 date: 2019-05-21
 ---
 
-The Free and Open Source Software initiative at the Rochester Institute of Technology is proud to announce the debut of the first-ever The Future is Open mini-conference.
+FOSS@MAGIC is proud to announce the debut of the first-ever The Future is Open mini-conference.
 The Future is Open is a one-day event to engage the wider RIT community with open source opportunities, projects, and research happening on campus.
 We invite alums, friends of the program, and those interested in learning about open source on RIT's campus to join current students, faculty, and staff for the event.
 
