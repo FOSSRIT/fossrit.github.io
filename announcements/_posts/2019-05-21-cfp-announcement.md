@@ -36,7 +36,7 @@ We are seeking presentations in the following topics:
 
 ## Preparing your Proposal
 
-If you are interesting in submitting to the CfP, please do so by [filling out this form.](https://www.google.com/url?q=https://forms.gle/563vz3qZAgMXRJNk9&sa=D&ust=1558124859124000)
+**If you are interesting in submitting to the CfP, [please do so by filling out this form](https://forms.gle/563vz3qZAgMXRJNk9).**
 
 
 ## Accessibility
