@@ -69,7 +69,7 @@ Humanitarian organizations are using open data and cloud services to help disast
                 <div class="card">
                     <div class="card-body">
                         <h3 class="card-title">Remy DeCausemaker</h3>
-                        <p class="card-text">A Life in Open Source, Open Source Office Director, Twitter, SOIS ‘15</p>
+                        <p class="card-text">Open Source Office Director, Twitter, SOIS ‘15</p>
                     </div>
                 </div>
             </div>
@@ -140,12 +140,8 @@ Humanitarian organizations are using open data and cloud services to help disast
         <div class="card mb-4">
             <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">Closing Keynote</div>
             <div class="card-body">
-                <p class="card-text">Remy DeCausemaker</p>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Open Source Office Director, Twitter, SOIS ‘15</p>
-                </div>
+                <h4 class="card-title">A Life in Open Source</h4>
+                <p class="card-text">Remy DeCausemaker, Open Source Office Director, Twitter, SOIS ‘15</p>
             </div>
         </div>
     </div>
