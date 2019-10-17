@@ -2,8 +2,7 @@
 layout: event
 title: The Future is Open 2019
 authors:
-- Justin W. Flory
-- Christian Martin
+- RIT's FOSS initiative at the MAGIC Center
 excerpt: Join the RIT community on Saturday, Oct. 26th at MAGIC Spell Studios to discover free and open source software and culture in Rochester.
 ---
 
