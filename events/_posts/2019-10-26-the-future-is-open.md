@@ -115,7 +115,7 @@ Humanitarian organizations are using open data and cloud services to help disast
             <div class="col-12 col-md-4 p-2">
                 <div class="card">
                     <div class="card-body">
-                        <h3 class="card-title">Jeffery Russel</h3>
+                        <h3 class="card-title">Jeffery Russell</h3>
                         <p class="card-text">RIT student, president of RIT Linux Users Group</p>
                     </div>
                 </div>
@@ -326,7 +326,7 @@ Humanitarian organizations are using open data and cloud services to help disast
             </div>
             <div class="list-group list-group-flush">
                 <div class="list-group-item">
-                    <p class="mb-0">Moderated by Jeffery Russel</p>
+                    <p class="mb-0">Moderated by Jeffery Russell</p>
                 </div>
             </div>
         </div>
