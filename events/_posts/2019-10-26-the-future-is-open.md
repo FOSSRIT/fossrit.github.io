@@ -92,7 +92,7 @@ Humanitarian organizations are using open data and cloud services to help disast
                 <div class="card">
                     <div class="card-body">
                         <h3 class="card-title">Nate Levesque</h3>
-                        <p class="card-text">Software Engineer, Datto, SWEN '15</p>
+                        <p class="card-text">Software Engineer, Datto, SWEN '16</p>
                     </div>
                 </div>
             </div>
