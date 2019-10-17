@@ -11,7 +11,7 @@ Come meet other students and faculty involved with FOSS efforts at RIT!
 Be sure to sign up for our [mailing list](https://lists.fedoraproject.org/admin/lists/fossrit.lists.fedorahosted.org/ "FOSS@MAGIC mailing list") to keep updated with events, news, and community discussions.
 
 Want to take the extra step?
-Look into our [FOSS minor and FOSS-related classes](https://www.rit.edu/gccis/igm/sites/rit.edu.gccis.igm/files/images/FOSS-MN%20Semesters.pdf "FOSS-MN - overview").
+Look into our [FOSS minor and FOSS-related classes](https://www.rit.edu/study/free-and-open-source-software-and-free-culture-minor).
 
 Looking for more information? Email Prof. Stephen Jacobs at {{ site.email }}.
 
