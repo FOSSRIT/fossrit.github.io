@@ -159,6 +159,7 @@ Humanitarian organizations are using open data and cloud services to help disast
                     <p class="mb-0">Mike Nolan</p>
                 </div>
             </div>
+        </div>
         <div class="card mb-4">
             <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
                 <span class="badge" style="background-color:white;color:#F76902;">11:30am-12pm</span>
