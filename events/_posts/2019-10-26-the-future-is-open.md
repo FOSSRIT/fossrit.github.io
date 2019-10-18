@@ -146,18 +146,12 @@ Humanitarian organizations are using open data and cloud services to help disast
                 Alumni Panel
             </div>
             <div class="card-body">
-                <p class="card-text">How FOSS courses kick-started our careers</p>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Jenn Kotler</p>
-                </div>
-                <div class="list-group-item">
-                    <p class="mb-0">Brendan Whitfield</p>
-                </div>
-                <div class="list-group-item">
-                    <p class="mb-0">Mike Nolan</p>
-                </div>
+                <h4 class="card-title">How FOSS courses kick-started our careers</h4>
+                <p class="card-text">
+                    Jenn Kotler<br />
+                    Brendan Whitfield<br />
+                    Mike Nolan
+                </p>
             </div>
         </div>
         <div class="card mb-4">
@@ -166,87 +160,79 @@ Humanitarian organizations are using open data and cloud services to help disast
                 Lunch
             </div>
         </div>
-        <div class="card mb-4">
-            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                <span class="badge" style="background-color:white;color:#F76902;">12pm-12:55pm</span>
-                Track A
+        <div class="row">
+            <div class="col-12 col-md-4">
+                <div class="card mb-4">
+                    <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
+                        <span class="badge" style="background-color:white;color:#F76902;">12pm-12:55pm</span>
+                        Track A
+                    </div>
+                        <div class="card-body">
+                            <h4 class="card-title">e-NABLE: a NONO (non-organization of non-organizations) making free open-source 3D-printed prosthetics</h4>
+                            <p class="card-text">Jonathan Schull</p>
+                        </div>
+                </div>
             </div>
-            <div class="card-body">
-                <p class="card-text">e-NABLE: a NONO (non-organization of non-organizations) making free open-source 3D-printed prosthetics</p>
+            <div class="col-12 col-md-4">
+                <div class="card mb-4">
+                    <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
+                        <span class="badge" style="background-color:white;color:#F76902;">12pm-12:55pm</span>
+                        Track B
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">5 Years Working as a Designer - from Corporate Tech to Open Science</h4>
+                        <p class="card-text">Jenn Kotler</p>
+                    </div>
+                </div>
             </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Jonathan Schull</p>
+            <div class="col-12 col-md-4">
+                <div class="card mb-4">
+                    <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
+                        <span class="badge" style="background-color:white;color:#F76902;">12pm-12:55pm</span>
+                        Track C
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">TBD</h4>
+                        <p class="card-text">Mike Nolan</p>
+                    </div>
                 </div>
             </div>
         </div>
-        <div class="card mb-4">
-            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                <span class="badge" style="background-color:white;color:#F76902;">12pm-12:55pm</span>
-                Track B
-            </div>
-            <div class="card-body">
-                <p class="card-text">5 Years Working as a Designer - from Corporate Tech to Open Science</p>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Jenn Kotler</p>
+        <div class="row">
+            <div class="col-12 col-md-4">
+                <div class="card mb-4">
+                    <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
+                        <span class="badge" style="background-color:white;color:#F76902;">1pm-1:25pm</span>
+                        Track A
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">Testing Open Source Software for Accessibility</h4>
+                        <p class="card-text">Yasmine El-Glaly</p>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="card mb-4">
-            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                <span class="badge" style="background-color:white;color:#F76902;">12pm-12:55pm</span>
-                Track C
-            </div>
-            <div class="card-body">
-                <p class="card-text">TBD</p>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Mike Nolan</p>
+            <div class="col-12 col-md-4">
+                <div class="card mb-4">
+                    <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
+                        <span class="badge" style="background-color:white;color:#F76902;">1pm-1:25pm</span>
+                        Track B
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">Open Source within the Maker Movement</h4>
+                        <p class="card-text">Dan Schneiderman</p>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="card mb-4">
-            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                <span class="badge" style="background-color:white;color:#F76902;">1pm-1:25pm</span>
-                Track A
-            </div>
-            <div class="card-body">
-                <p class="card-text">Testing Open Source Software for Accessibility</p>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Yasmine El-Glaly</p>
-                </div>
-            </div>
-        </div>
-        <div class="card mb-4">
-            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                <span class="badge" style="background-color:white;color:#F76902;">1pm-1:25pm</span>
-                Track B
-            </div>
-            <div class="card-body">
-                <p class="card-text">Open Source within the Maker Movement</p>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Dan Schneiderman</p>
-                </div>
-            </div>
-        </div>
-        <div class="card mb-4">
-            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                <span class="badge" style="background-color:white;color:#F76902;">1pm-1:25pm</span>
-                Track C
-            </div>
-            <div class="card-body">
-                <p class="card-text">Supporting the Open Web in FOSS</p>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Nate Levesque</p>
+            <div class="col-12 col-md-4">
+                <div class="card mb-4">
+                    <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
+                        <span class="badge" style="background-color:white;color:#F76902;">1pm-1:25pm</span>
+                        Track C
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">Supporting the Open Web in FOSS</h4>
+                        <p class="card-text">Nate Levesque</p>
+                    </div>
                 </div>
             </div>
         </div>
@@ -256,97 +242,82 @@ Humanitarian organizations are using open data and cloud services to help disast
                 Coffee / snack break
             </div>
         </div>
-        <div class="card mb-4">
-            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                <span class="badge" style="background-color:white;color:#F76902;">2pm-2:55pm</span>
-                Track A
+        <div class="row">
+            <div class="col-12 col-md-4">
+                <div class="card mb-4">
+                    <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
+                        <span class="badge" style="background-color:white;color:#F76902;">2pm-2:55pm</span>
+                        Track A
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">TigerOS - A Linux distribution built for RIT students</h4>
+                        <p class="card-text">Tim Zabel</p>
+                    </div>
+                </div>
             </div>
-            <div class="card-body">
-                <p class="card-text">TigerOS - A Linux distribution built for RIT students</p>
+            <div class="col-12 col-md-4">
+                <div class="card mb-4">
+                    <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
+                        <span class="badge" style="background-color:white;color:#F76902;">2pm-2:55pm</span>
+                        Track B
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">Csound: A Case Study in Open Source and Culture</h4>
+                        <p class="card-text">Stephen Yi</p>
+                    </div>
+                </div>
             </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Tim Zabel</p>
+            <div class="col-12 col-md-4">
+                <div class="card mb-4">
+                    <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
+                        <span class="badge" style="background-color:white;color:#F76902;">2pm-2:55pm</span>
+                        Track C
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">Open Mapping Data and Digital Humanities</h4>
+                        <p class="card-text">Jessica Lieberman</p>
+                    </div>
                 </div>
             </div>
         </div>
-        <div class="card mb-4">
-            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                <span class="badge" style="background-color:white;color:#F76902;">2pm-2:55pm</span>
-                Track B
-            </div>
-            <div class="card-body">
-                <p class="card-text">Csound: A Case Study in Open Source and Culture</p>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Stephen Yi</p>
+        <div class="row">
+            <div class="col-12 col-md-4">
+                <div class="card mb-4">
+                    <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
+                        <span class="badge" style="background-color:white;color:#F76902;">3pm-3:55pm</span>
+                        Track A
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">Is there a (mis)perception of quality metrics among developers? An empirical study in FOSS</h4>
+                        <p class="card-text">Mohamed Wiem Mkaouer</p>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="card mb-4">
-            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                <span class="badge" style="background-color:white;color:#F76902;">2pm-2:55pm</span>
-                Track C
-            </div>
-            <div class="card-body">
-                <p class="card-text">Open Mapping Data and Digital Humanities</p>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Jessica Lieberman</p>
+            <div class="col-12 col-md-4">
+                <div class="card mb-4">
+                    <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
+                        <span class="badge" style="background-color:white;color:#F76902;">3pm-3:55pm</span>
+                        Track B
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">Student Panel on Open Source Software</h4>
+                        <p class="card-text">RIT Linux Users Group, Moderated by Jeffery Russell</p>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="card mb-4">
-            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                <span class="badge" style="background-color:white;color:#F76902;">3pm-3:55pm</span>
-                Track A
-            </div>
-            <div class="card-body">
-                <p class="card-text">Is there a (mis)perception of quality metrics among developers? An empirical study in FOSS</p>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Mohamed Wiem Mkaouer</p>
-                </div>
-            </div>
-        </div>
-        <div class="card mb-4">
-            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                <span class="badge" style="background-color:white;color:#F76902;">3pm-3:55pm</span>
-                Track B
-            </div>
-            <div class="card-body">
-                <p class="card-text">Student Panel on Open Source Software</p>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">RIT Linux Users Group</p>
-                </div>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Moderated by Jeffery Russell</p>
-                </div>
-            </div>
-        </div>
-        <div class="card mb-4">
-            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                <span class="badge" style="background-color:white;color:#F76902;">2pm-2:55pm</span>
-                Track C
-            </div>
-            <div class="card-body">
-                <p class="card-text">Open source in educational games</p>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Victoria Van Voorhis</p>
-                </div>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Brian Regan</p>
+            <div class="col-12 col-md-4">
+                <div class="card mb-4">
+                    <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
+                        <span class="badge" style="background-color:white;color:#F76902;">2pm-2:55pm</span>
+                        Track C
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">Open source in educational games</h4>
+                        <p class="card-text">
+                            Victoria Van Voorhis<br />
+                            Brian Regan
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
@@ -356,12 +327,10 @@ Humanitarian organizations are using open data and cloud services to help disast
                 Install Fest
             </div>
             <div class="card-body">
-                <p class="card-text">Installing Linux for a better future</p>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Led by Will Nilges</p>
-                </div>
+                <p class="card-text">
+                    Installing Linux for a better future<br />
+                    Led by Will Nilges
+                </p>
             </div>
         </div>
         <div class="card mb-4">
