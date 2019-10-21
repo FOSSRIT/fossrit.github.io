@@ -192,10 +192,19 @@ Humanitarian organizations are using open data and cloud services to help disast
                         Track C
                     </div>
                     <div class="card-body">
-                        <h4 class="card-title">TBD</h4>
+                        <h4 class="card-title">Making software that hopefully won't ruin society. (and other fun stories)</h4>
                         <p class="card-text">Mike Nolan</p>
                     </div>
                 </div>
+            </div>
+        </div>
+        <div class="card mb-4">
+            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
+                <span class="badge" style="background-color:white;color:#F76902;">12pm-4pm</span>
+                Install Fest
+            </div>
+            <div class="card-body">
+                <p class="card-text">Led by Will Nilges</p>
             </div>
         </div>
         <div class="row">
@@ -301,14 +310,17 @@ Humanitarian organizations are using open data and cloud services to help disast
                     </div>
                     <div class="card-body">
                         <h4 class="card-title">Student Panel on Open Source Software</h4>
-                        <p class="card-text">RIT Linux Users Group, Moderated by Jeffery Russell</p>
+                        <p class="card-text">
+                            RIT Linux Users Group<br />
+                            Moderated by Jeffery Russell
+                        </p>
                     </div>
                 </div>
             </div>
             <div class="col-12 col-md-4">
                 <div class="card mb-4">
                     <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                        <span class="badge" style="background-color:white;color:#F76902;">2pm-2:55pm</span>
+                        <span class="badge" style="background-color:white;color:#F76902;">3pm-3:55pm</span>
                         Track C
                     </div>
                     <div class="card-body">
@@ -319,18 +331,6 @@ Humanitarian organizations are using open data and cloud services to help disast
                         </p>
                     </div>
                 </div>
-            </div>
-        </div>
-        <div class="card mb-4">
-            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                <span class="badge" style="background-color:white;color:#F76902;">12pm-4pm</span>
-                Install Fest
-            </div>
-            <div class="card-body">
-                <p class="card-text">
-                    Installing Linux for a better future<br />
-                    Led by Will Nilges
-                </p>
             </div>
         </div>
         <div class="card mb-4">
