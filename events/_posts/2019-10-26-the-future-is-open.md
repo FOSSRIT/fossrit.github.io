@@ -143,7 +143,7 @@ Humanitarian organizations are using open data and cloud services to help disast
         <div class="card mb-4">
             <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
                 <span class="badge" style="background-color:white;color:#F76902;">10am-11:30am</span>
-                Alumni Panel
+                Alum Panel
             </div>
             <div class="card-body">
                 <h4 class="card-title">How FOSS courses kick-started our careers</h4>
