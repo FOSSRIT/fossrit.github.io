@@ -150,7 +150,8 @@ Humanitarian organizations are using open data and cloud services to help disast
                 <p class="card-text">
                     Jenn Kotler<br />
                     Brendan Whitfield<br />
-                    Mike Nolan
+                    Mike Nolan<br />
+                    Nando Ellis
                 </p>
             </div>
         </div>
