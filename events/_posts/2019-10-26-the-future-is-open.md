@@ -178,7 +178,7 @@ Humanitarian organizations are using open data and cloud services to help disast
             </div>
         </div>
         <div class="row">
-            <div class="col-12 col-md-4">
+            <div class="col-12 col-md-6 col-lg-3">
                 <div class="card mb-4">
                     <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
                         <span class="badge" style="background-color:white;color:#F76902;">12pm-12:55pm</span>
@@ -190,7 +190,7 @@ Humanitarian organizations are using open data and cloud services to help disast
                         </div>
                 </div>
             </div>
-            <div class="col-12 col-md-4">
+            <div class="col-12 col-md-6 col-lg-3">
                 <div class="card mb-4">
                     <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
                         <span class="badge" style="background-color:white;color:#F76902;">12pm-12:55pm</span>
@@ -202,7 +202,7 @@ Humanitarian organizations are using open data and cloud services to help disast
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-md-4">
+            <div class="col-12 col-md-6 col-lg-3">
                 <div class="card mb-4">
                     <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
                         <span class="badge" style="background-color:white;color:#F76902;">12pm-12:55pm</span>
@@ -214,15 +214,17 @@ Humanitarian organizations are using open data and cloud services to help disast
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="card mb-4">
-            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                <span class="badge" style="background-color:white;color:#F76902;">12pm-12:55pm</span>
-                Track D
-            </div>
-            <div class="card-body">
-                <h4 class="card-title">Tracking the impact of zoo conservation</h4>
-                <p class="card-text">Tom Snyder</p>
+            <div class="col-12 col-md-6 col-lg-3">
+                <div class="card mb-4">
+                    <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
+                        <span class="badge" style="background-color:white;color:#F76902;">12pm-12:55pm</span>
+                        Track D
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">Tracking the impact of zoo conservation</h4>
+                        <p class="card-text">Tom Snyder</p>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="card mb-4">
