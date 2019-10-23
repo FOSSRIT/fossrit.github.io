@@ -136,6 +136,14 @@ Humanitarian organizations are using open data and cloud services to help disast
                     </div>
                 </div>
             </div>
+            <div class="col-12 col-md-4 p-2">
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Nando Ellis</h3>
+                        <p class="card-text">Middleware Consultant, Red Hat, Computer Science '15</p>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
     <div class="tab-pane fade" id="schedule" role="tabpanel" aria-labelledby="schedule-tab">
