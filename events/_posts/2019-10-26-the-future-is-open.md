@@ -35,48 +35,8 @@ Humanitarian organizations are using open data and cloud services to help disast
             <div class="col-12 col-md-4 p-2">
                 <div class="card">
                     <div class="card-body">
-                        <h3 class="card-title">Brendan Whitfield</h3>
-                        <p class="card-text">Sr. Autopilot Software Engineer, Tesla, New Media Interactive Development ‘15</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 col-md-4 p-2">
-                <div class="card">
-                    <div class="card-body">
-                        <h3 class="card-title">Jenn Kotler</h3>
-                        <p class="card-text">User Experience Designer for Space Telescope Science Institute, Medical Illustration ‘14</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 col-md-4 p-2">
-                <div class="card">
-                    <div class="card-body">
-                        <h3 class="card-title">Mike Nolan</h3>
-                        <p class="card-text">Open Source and Ethical AI mentor, UNICEF, New Media Interactive Development ‘15</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 col-md-4 p-2">
-                <div class="card">
-                    <div class="card-body">
-                        <h3 class="card-title">Mohammed Wiem Mkaouer</h3>
-                        <p class="card-text">Software Engineering Faculty</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 col-md-4 p-2">
-                <div class="card">
-                    <div class="card-body">
                         <h3 class="card-title">Remy DeCausemaker</h3>
-                        <p class="card-text">Open Source Office Director, Twitter, SOIS ‘15</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 col-md-4 p-2">
-                <div class="card">
-                    <div class="card-body">
-                        <h3 class="card-title">Stephen Yi</h3>
-                        <p class="card-text">Interactive Games & Media Faculty</p>
+                        <p class="card-text">Open Source Office Director, Twitter; SOIS ‘15</p>
                     </div>
                 </div>
             </div>
@@ -91,8 +51,24 @@ Humanitarian organizations are using open data and cloud services to help disast
             <div class="col-12 col-md-4 p-2">
                 <div class="card">
                     <div class="card-body">
+                        <h3 class="card-title">Nando Ellis</h3>
+                        <p class="card-text">Middleware Consultant, Red Hat; Computer Science '15</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4 p-2">
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Jenn Kotler</h3>
+                        <p class="card-text">User Experience Designer, Space Telescope Science Institute; Medical Illustration ‘14</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4 p-2">
+                <div class="card">
+                    <div class="card-body">
                         <h3 class="card-title">Nate Levesque</h3>
-                        <p class="card-text">Software Engineer, Datto, SWEN '16</p>
+                        <p class="card-text">Software Engineer, Datto; Software Engineering '16</p>
                     </div>
                 </div>
             </div>
@@ -100,7 +76,15 @@ Humanitarian organizations are using open data and cloud services to help disast
                 <div class="card">
                     <div class="card-body">
                         <h3 class="card-title">Jessica Lieberman</h3>
-                        <p class="card-text">RIT Faculty</p>
+                        <p class="card-text">Digital Humanities & Social Sciences Faculty & Program Director</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4 p-2">
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Mohammed Wiem Mkaouer</h3>
+                        <p class="card-text">Software Engineering Faculty</p>
                     </div>
                 </div>
             </div>
@@ -108,7 +92,23 @@ Humanitarian organizations are using open data and cloud services to help disast
                 <div class="card">
                     <div class="card-body">
                         <h3 class="card-title">Will Nilges</h3>
-                        <p class="card-text">RIT student</p>
+                        <p class="card-text">RIT Student</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4 p-2">
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Mike Nolan</h3>
+                        <p class="card-text">Open Source and Ethical AI Mentor, UNICEF; New Media Interactive Development ‘15</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4 p-2">
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Brian Regan</h3>
+                        <p class="card-text">Lead Game Producer, Second Avenue Learning</p>
                     </div>
                 </div>
             </div>
@@ -116,7 +116,7 @@ Humanitarian organizations are using open data and cloud services to help disast
                 <div class="card">
                     <div class="card-body">
                         <h3 class="card-title">Jeffery Russell</h3>
-                        <p class="card-text">RIT student, president of RIT Linux Users Group</p>
+                        <p class="card-text">RIT Student; President, RIT Linux Users Group</p>
                     </div>
                 </div>
             </div>
@@ -124,23 +124,15 @@ Humanitarian organizations are using open data and cloud services to help disast
                 <div class="card">
                     <div class="card-body">
                         <h3 class="card-title">Daniel Schneiderman</h3>
-                        <p class="card-text">Rochester Maker Faire, maker extraordinaire</p>
+                        <p class="card-text">Co-Chair, Maker Faire Rochester; Information Technology '12</p>
                     </div>
                 </div>
             </div>
             <div class="col-12 col-md-4 p-2">
                 <div class="card">
                     <div class="card-body">
-                        <h3 class="card-title">Tim Zabel</h3>
-                        <p class="card-text">RIT student, vice president of RIT Linux Users Group</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 col-md-4 p-2">
-                <div class="card">
-                    <div class="card-body">
-                        <h3 class="card-title">Nando Ellis</h3>
-                        <p class="card-text">Middleware Consultant, Red Hat, Computer Science '15</p>
+                        <h3 class="card-title">Jonathan Schull</h3>
+                        <p class="card-text">President, e-NABLE</p>
                     </div>
                 </div>
             </div>
@@ -148,7 +140,39 @@ Humanitarian organizations are using open data and cloud services to help disast
                 <div class="card">
                     <div class="card-body">
                         <h3 class="card-title">Tom Snyder</h3>
-                        <p class="card-text">Seneca Park Zoo</p>
+                        <p class="card-text">Director of Programming and Conservation Action, Seneca Park Zoo</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4 p-2">
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Victoria Van Voorhis</h3>
+                        <p class="card-text">CEO, Second Avenue Learning</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4 p-2">
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Brendan Whitfield</h3>
+                        <p class="card-text">Sr. Autopilot Software Engineer, Tesla; New Media Interactive Development ‘15</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4 p-2">
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Stephen Yi</h3>
+                        <p class="card-text">Interactive Games & Media Faculty</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4 p-2">
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Tim Zabel</h3>
+                        <p class="card-text">RIT Student; Vice President, RIT Linux Users Group</p>
                     </div>
                 </div>
             </div>
