@@ -163,7 +163,7 @@ Humanitarian organizations are using open data and cloud services to help disast
             <div class="col-12 col-md-4 p-2">
                 <div class="card">
                     <div class="card-body">
-                        <h3 class="card-title">Stephen Yi</h3>
+                        <h3 class="card-title">Steven Yi</h3>
                         <p class="card-text">Interactive Games & Media Faculty</p>
                     </div>
                 </div>
@@ -325,7 +325,7 @@ Humanitarian organizations are using open data and cloud services to help disast
                     </div>
                     <div class="card-body">
                         <h4 class="card-title">Csound: A Case Study in Open Source and Culture</h4>
-                        <p class="card-text">Stephen Yi</p>
+                        <p class="card-text">Steven Yi</p>
                     </div>
                 </div>
             </div>
