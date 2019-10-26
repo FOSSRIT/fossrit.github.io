@@ -139,14 +139,6 @@ Humanitarian organizations are using open data and cloud services to help disast
             <div class="col-12 col-md-4 p-2">
                 <div class="card">
                     <div class="card-body">
-                        <h3 class="card-title">Tom Snyder</h3>
-                        <p class="card-text">Director of Programming and Conservation Action, Seneca Park Zoo</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 col-md-4 p-2">
-                <div class="card">
-                    <div class="card-body">
                         <h3 class="card-title">Victoria Van Voorhis</h3>
                         <p class="card-text">CEO, Second Avenue Learning</p>
                     </div>
@@ -191,7 +183,8 @@ Humanitarian organizations are using open data and cloud services to help disast
                     Jenn Kotler<br />
                     Brendan Whitfield<br />
                     Mike Nolan<br />
-                    Nando Ellis
+                    Nando Ellis<br />
+                    Wegmans Theater
                 </p>
             </div>
         </div>
@@ -202,19 +195,22 @@ Humanitarian organizations are using open data and cloud services to help disast
             </div>
         </div>
         <div class="row">
-            <div class="col-12 col-md-6 col-lg-3">
+            <div class="col-12 col-md-4">
                 <div class="card mb-4">
                     <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
                         <span class="badge" style="background-color:white;color:#F76902;">12pm-12:55pm</span>
                         Track A
                     </div>
-                        <div class="card-body">
-                            <h4 class="card-title">e-NABLE: a NONO (non-organization of non-organizations) making free open-source 3D-printed prosthetics</h4>
-                            <p class="card-text">Jonathan Schull</p>
-                        </div>
+                    <div class="card-body">
+                        <h4 class="card-title">e-NABLE: a NONO (non-organization of non-organizations) making free open-source 3D-printed prosthetics</h4>
+                        <p class="card-text">
+                            Jonathan Schull<br />
+                            MSS-2150
+                        </p>
+                    </div>
                 </div>
             </div>
-            <div class="col-12 col-md-6 col-lg-3">
+            <div class="col-12 col-md-4">
                 <div class="card mb-4">
                     <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
                         <span class="badge" style="background-color:white;color:#F76902;">12pm-12:55pm</span>
@@ -222,11 +218,14 @@ Humanitarian organizations are using open data and cloud services to help disast
                     </div>
                     <div class="card-body">
                         <h4 class="card-title">5 Years Working as a Designer - from Corporate Tech to Open Science</h4>
-                        <p class="card-text">Jenn Kotler</p>
+                        <p class="card-text">
+                            Jenn Kotler<br />
+                            MSS-2175
+                        </p>
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-md-6 col-lg-3">
+            <div class="col-12 col-md-4">
                 <div class="card mb-4">
                     <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
                         <span class="badge" style="background-color:white;color:#F76902;">12pm-12:55pm</span>
@@ -234,19 +233,10 @@ Humanitarian organizations are using open data and cloud services to help disast
                     </div>
                     <div class="card-body">
                         <h4 class="card-title">Making software that hopefully won't ruin society. (and other fun stories)</h4>
-                        <p class="card-text">Mike Nolan</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 col-md-6 col-lg-3">
-                <div class="card mb-4">
-                    <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                        <span class="badge" style="background-color:white;color:#F76902;">12pm-12:55pm</span>
-                        Track D
-                    </div>
-                    <div class="card-body">
-                        <h4 class="card-title">Tracking the impact of zoo conservation</h4>
-                        <p class="card-text">Tom Snyder</p>
+                        <p class="card-text">
+                            Mike Nolan<br />
+                            MSS-2100 (Sound Mixing Room)
+                        </p>
                     </div>
                 </div>
             </div>
@@ -257,7 +247,10 @@ Humanitarian organizations are using open data and cloud services to help disast
                 Install Fest
             </div>
             <div class="card-body">
-                <p class="card-text">Led by Will Nilges</p>
+                <p class="card-text">
+                    Led by Will Nilges<br />
+                    MSS-3190 (upstairs)
+                </p>
             </div>
         </div>
         <div class="row">
@@ -269,7 +262,10 @@ Humanitarian organizations are using open data and cloud services to help disast
                     </div>
                     <div class="card-body">
                         <h4 class="card-title">Testing Open Source Software for Accessibility</h4>
-                        <p class="card-text">Yasmine El-Glaly</p>
+                        <p class="card-text">
+                            Yasmine El-Glaly<br />
+                            MSS-2150
+                        </p>
                     </div>
                 </div>
             </div>
@@ -281,7 +277,10 @@ Humanitarian organizations are using open data and cloud services to help disast
                     </div>
                     <div class="card-body">
                         <h4 class="card-title">Open Source within the Maker Movement</h4>
-                        <p class="card-text">Dan Schneiderman</p>
+                        <p class="card-text">
+                            Dan Schneiderman<br />
+                            MSS-2175
+                        </p>
                     </div>
                 </div>
             </div>
@@ -293,7 +292,10 @@ Humanitarian organizations are using open data and cloud services to help disast
                     </div>
                     <div class="card-body">
                         <h4 class="card-title">Supporting the Open Web in FOSS</h4>
-                        <p class="card-text">Nate Levesque</p>
+                        <p class="card-text">
+                            Nate Levesque<br />
+                            MSS-2100 (Sound Mixing Room)
+                        </p>
                     </div>
                 </div>
             </div>
@@ -313,7 +315,10 @@ Humanitarian organizations are using open data and cloud services to help disast
                     </div>
                     <div class="card-body">
                         <h4 class="card-title">TigerOS - A Linux distribution built for RIT students</h4>
-                        <p class="card-text">Tim Zabel</p>
+                        <p class="card-text">
+                            Tim Zabel<br />
+                            MSS-2150
+                        </p>
                     </div>
                 </div>
             </div>
@@ -325,7 +330,10 @@ Humanitarian organizations are using open data and cloud services to help disast
                     </div>
                     <div class="card-body">
                         <h4 class="card-title">Csound: A Case Study in Open Source and Culture</h4>
-                        <p class="card-text">Steven Yi</p>
+                        <p class="card-text">
+                            Steven Yi<br />
+                            MSS-2175
+                        </p>
                     </div>
                 </div>
             </div>
@@ -337,7 +345,10 @@ Humanitarian organizations are using open data and cloud services to help disast
                     </div>
                     <div class="card-body">
                         <h4 class="card-title">Open Mapping Data and Digital Humanities</h4>
-                        <p class="card-text">Jessica Lieberman</p>
+                        <p class="card-text">
+                            Jessica Lieberman<br />
+                            MSS-2100 (Sound Mixing Room)
+                        </p>
                     </div>
                 </div>
             </div>
@@ -351,7 +362,10 @@ Humanitarian organizations are using open data and cloud services to help disast
                     </div>
                     <div class="card-body">
                         <h4 class="card-title">Is there a (mis)perception of quality metrics among developers? An empirical study in FOSS</h4>
-                        <p class="card-text">Mohamed Wiem Mkaouer</p>
+                        <p class="card-text">
+                            Mohamed Wiem Mkaouer<br />
+                            MSS-2150
+                        </p>
                     </div>
                 </div>
             </div>
@@ -365,7 +379,8 @@ Humanitarian organizations are using open data and cloud services to help disast
                         <h4 class="card-title">Student Panel on Open Source Software</h4>
                         <p class="card-text">
                             RIT Linux Users Group<br />
-                            Moderated by Jeffery Russell
+                            Moderated by Jeffery Russell<br />
+                            MSS-2175
                         </p>
                     </div>
                 </div>
@@ -380,7 +395,8 @@ Humanitarian organizations are using open data and cloud services to help disast
                         <h4 class="card-title">Open source in educational games</h4>
                         <p class="card-text">
                             Victoria Van Voorhis<br />
-                            Brian Regan
+                            Brian Regan<br />
+                            MSS-2100 (Sound Mixing Room)
                         </p>
                     </div>
                 </div>
@@ -393,7 +409,10 @@ Humanitarian organizations are using open data and cloud services to help disast
             </div>
             <div class="card-body">
                 <h4 class="card-title">A Life in Open Source</h4>
-                <p class="card-text">Remy DeCausemaker, Open Source Office Director, Twitter, SOIS ‘15</p>
+                <p class="card-text">
+                    Remy DeCausemaker, Open Source Office Director, Twitter, SOIS ‘15<br />
+                    Wegmans Theater
+                </p>
             </div>
         </div>
     </div>
