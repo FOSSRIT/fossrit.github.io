@@ -4,6 +4,12 @@ title: The Future is Open 2019
 authors:
 - RIT's FOSS initiative at the MAGIC Center
 excerpt: Join the RIT community on Saturday, Oct. 26th at MAGIC Spell Studios to discover free and open source software and culture in Rochester.
+images:
+- /events/assets/2019/10/fio-panel-discussion.jpg
+- /events/assets/2019/10/fio-balcony-view.jpg
+- /events/assets/2019/10/fio-tim-zabel-tigeros.jpg
+- /events/assets/2019/10/fio-lunch-break.jpg
+- /events/assets/2019/10/fio-red-hat-swag.jpg
 ---
 
 Join us on Saturday, October 26th at 10am-5pm at the RIT MAGIC Spell Studios to discover free and open source software and culture in the RIT community.
