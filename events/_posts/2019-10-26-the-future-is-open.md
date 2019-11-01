@@ -30,9 +30,9 @@ Humanitarian organizations are using open data and cloud services to help disast
     <li class="nav-item">
         <a class="nav-link" id="schedule-tab" data-toggle="tab" href="#schedule" role="tab" aria-controls="schedule" aria-selected="false">Schedule</a>
     </li>
-    <!--<li class="nav-item">
+    <li class="nav-item">
         <a class="nav-link" id="photos-tab" data-toggle="tab" href="#photos" role="tab" aria-controls="photos" aria-selected="false">Photos</a>
-    </li>-->
+    </li>
 </ul>
 <div class="tab-content" id="futureIsOpenTabContent">
     <div class="tab-pane fade show active" id="speakers" role="tabpanel" aria-labelledby="speakers-tab">
@@ -422,8 +422,8 @@ Humanitarian organizations are using open data and cloud services to help disast
             </div>
         </div>
     </div>
-    <!--<div class="tab-pane fade" id="photos" role="tabpanel" aria-labelledby="photos-tab">
+    <div class="tab-pane fade" id="photos" role="tabpanel" aria-labelledby="photos-tab">
         <h2>Photos</h2>
         {% include content-blocks/gallery.html %}
-    </div>-->
+    </div>
 </div>
