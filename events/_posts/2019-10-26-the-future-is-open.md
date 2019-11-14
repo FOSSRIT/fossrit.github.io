@@ -4,6 +4,12 @@ title: The Future is Open 2019
 authors:
 - RIT's FOSS initiative at the MAGIC Center
 excerpt: Join the RIT community on Saturday, Oct. 26th at MAGIC Spell Studios to discover free and open source software and culture in Rochester.
+images:
+- /events/assets/2019/10/fio-panel-discussion.jpg
+- /events/assets/2019/10/fio-balcony-view.jpg
+- /events/assets/2019/10/fio-tim-zabel-tigeros.jpg
+- /events/assets/2019/10/fio-lunch-break.jpg
+- /events/assets/2019/10/fio-red-hat-swag.jpg
 ---
 
 Join us on Saturday, October 26th at 10am-5pm at the RIT MAGIC Spell Studios to discover free and open source software and culture in the RIT community.
@@ -24,9 +30,9 @@ Humanitarian organizations are using open data and cloud services to help disast
     <li class="nav-item">
         <a class="nav-link" id="schedule-tab" data-toggle="tab" href="#schedule" role="tab" aria-controls="schedule" aria-selected="false">Schedule</a>
     </li>
-    <!--<li class="nav-item">
+    <li class="nav-item">
         <a class="nav-link" id="photos-tab" data-toggle="tab" href="#photos" role="tab" aria-controls="photos" aria-selected="false">Photos</a>
-    </li>-->
+    </li>
 </ul>
 <div class="tab-content" id="futureIsOpenTabContent">
     <div class="tab-pane fade show active" id="speakers" role="tabpanel" aria-labelledby="speakers-tab">
@@ -35,48 +41,8 @@ Humanitarian organizations are using open data and cloud services to help disast
             <div class="col-12 col-md-4 p-2">
                 <div class="card">
                     <div class="card-body">
-                        <h3 class="card-title">Brendan Whitfield</h3>
-                        <p class="card-text">Sr. Autopilot Software Engineer, Tesla, New Media Interactive Development ‘15</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 col-md-4 p-2">
-                <div class="card">
-                    <div class="card-body">
-                        <h3 class="card-title">Jenn Kotler</h3>
-                        <p class="card-text">User Experience Designer for Space Telescope Science Institute, Medical Illustration ‘14</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 col-md-4 p-2">
-                <div class="card">
-                    <div class="card-body">
-                        <h3 class="card-title">Mike Nolan</h3>
-                        <p class="card-text">Open Source and Ethical AI mentor, UNICEF, New Media Interactive Development ‘15</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 col-md-4 p-2">
-                <div class="card">
-                    <div class="card-body">
-                        <h3 class="card-title">Mohammed Wiem Mkaouer</h3>
-                        <p class="card-text">Software Engineering Faculty</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 col-md-4 p-2">
-                <div class="card">
-                    <div class="card-body">
                         <h3 class="card-title">Remy DeCausemaker</h3>
-                        <p class="card-text">Open Source Office Director, Twitter, SOIS ‘15</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 col-md-4 p-2">
-                <div class="card">
-                    <div class="card-body">
-                        <h3 class="card-title">Stephen Yi</h3>
-                        <p class="card-text">Interactive Games & Media Faculty</p>
+                        <p class="card-text">Open Source Office Director, Twitter; SOIS ‘15</p>
                     </div>
                 </div>
             </div>
@@ -91,8 +57,24 @@ Humanitarian organizations are using open data and cloud services to help disast
             <div class="col-12 col-md-4 p-2">
                 <div class="card">
                     <div class="card-body">
+                        <h3 class="card-title">Nando Ellis</h3>
+                        <p class="card-text">Middleware Consultant, Red Hat; Computer Science '15</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4 p-2">
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Jenn Kotler</h3>
+                        <p class="card-text">User Experience Designer, Space Telescope Science Institute; Medical Illustration ‘14</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4 p-2">
+                <div class="card">
+                    <div class="card-body">
                         <h3 class="card-title">Nate Levesque</h3>
-                        <p class="card-text">Software Engineer, Datto, SWEN '15</p>
+                        <p class="card-text">Software Engineer, Datto; Software Engineering '16</p>
                     </div>
                 </div>
             </div>
@@ -100,7 +82,15 @@ Humanitarian organizations are using open data and cloud services to help disast
                 <div class="card">
                     <div class="card-body">
                         <h3 class="card-title">Jessica Lieberman</h3>
-                        <p class="card-text">RIT Faculty</p>
+                        <p class="card-text">Digital Humanities & Social Sciences Faculty & Program Director</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4 p-2">
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Mohammed Wiem Mkaouer</h3>
+                        <p class="card-text">Software Engineering Faculty</p>
                     </div>
                 </div>
             </div>
@@ -108,7 +98,23 @@ Humanitarian organizations are using open data and cloud services to help disast
                 <div class="card">
                     <div class="card-body">
                         <h3 class="card-title">Will Nilges</h3>
-                        <p class="card-text">RIT student</p>
+                        <p class="card-text">RIT Student</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4 p-2">
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Mike Nolan</h3>
+                        <p class="card-text">Open Source and Ethical AI Mentor, UNICEF; New Media Interactive Development ‘15</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4 p-2">
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Brian Regan</h3>
+                        <p class="card-text">Lead Game Producer, Second Avenue Learning</p>
                     </div>
                 </div>
             </div>
@@ -116,7 +122,7 @@ Humanitarian organizations are using open data and cloud services to help disast
                 <div class="card">
                     <div class="card-body">
                         <h3 class="card-title">Jeffery Russell</h3>
-                        <p class="card-text">RIT student, president of RIT Linux Users Group</p>
+                        <p class="card-text">RIT Student; President, RIT Linux Users Group</p>
                     </div>
                 </div>
             </div>
@@ -124,7 +130,39 @@ Humanitarian organizations are using open data and cloud services to help disast
                 <div class="card">
                     <div class="card-body">
                         <h3 class="card-title">Daniel Schneiderman</h3>
-                        <p class="card-text">Rochester Maker Faire, maker extraordinaire</p>
+                        <p class="card-text">Co-Chair, Maker Faire Rochester; Information Technology '12</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4 p-2">
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Jonathan Schull</h3>
+                        <p class="card-text">President, e-NABLE</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4 p-2">
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Victoria Van Voorhis</h3>
+                        <p class="card-text">CEO, Second Avenue Learning</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4 p-2">
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Brendan Whitfield</h3>
+                        <p class="card-text">Sr. Autopilot Software Engineer, Tesla; New Media Interactive Development ‘15</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4 p-2">
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Steven Yi</h3>
+                        <p class="card-text">Interactive Games & Media Faculty</p>
                     </div>
                 </div>
             </div>
@@ -132,7 +170,7 @@ Humanitarian organizations are using open data and cloud services to help disast
                 <div class="card">
                     <div class="card-body">
                         <h3 class="card-title">Tim Zabel</h3>
-                        <p class="card-text">RIT student, vice president of RIT Linux Users Group</p>
+                        <p class="card-text">RIT Student; Vice President, RIT Linux Users Group</p>
                     </div>
                 </div>
             </div>
@@ -143,209 +181,69 @@ Humanitarian organizations are using open data and cloud services to help disast
         <div class="card mb-4">
             <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
                 <span class="badge" style="background-color:white;color:#F76902;">10am-11:30am</span>
-                Alumni Panel
+                Alum Panel
             </div>
             <div class="card-body">
-                <p class="card-text">How FOSS courses kick-started our careers</p>
+                <h4 class="card-title">How FOSS courses kick-started our careers</h4>
+                <p class="card-text">
+                    Jenn Kotler<br />
+                    Brendan Whitfield<br />
+                    Mike Nolan<br />
+                    Nando Ellis<br />
+                    Wegmans Theater
+                </p>
             </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Jenn Kotler</p>
-                </div>
-                <div class="list-group-item">
-                    <p class="mb-0">Brendan Whitfield</p>
-                </div>
-                <div class="list-group-item">
-                    <p class="mb-0">Mike Nolan</p>
-                </div>
-            </div>
+        </div>
         <div class="card mb-4">
             <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
                 <span class="badge" style="background-color:white;color:#F76902;">11:30am-12pm</span>
                 Lunch
             </div>
         </div>
-        <div class="card mb-4">
-            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                <span class="badge" style="background-color:white;color:#F76902;">12pm-12:55pm</span>
-                Track A
-            </div>
-            <div class="card-body">
-                <p class="card-text">e-NABLE: a NONO (non-organization of non-organizations) making free open-source 3D-printed prosthetics</p>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Jonathan Schull</p>
+        <div class="row">
+            <div class="col-12 col-md-4">
+                <div class="card mb-4">
+                    <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
+                        <span class="badge" style="background-color:white;color:#F76902;">12pm-12:55pm</span>
+                        Track A
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">e-NABLE: a NONO (non-organization of non-organizations) making free open-source 3D-printed prosthetics</h4>
+                        <p class="card-text">
+                            Jonathan Schull<br />
+                            MSS-2150
+                        </p>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="card mb-4">
-            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                <span class="badge" style="background-color:white;color:#F76902;">12pm-12:55pm</span>
-                Track B
-            </div>
-            <div class="card-body">
-                <p class="card-text">5 Years Working as a Designer - from Corporate Tech to Open Science</p>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Jenn Kotler</p>
+            <div class="col-12 col-md-4">
+                <div class="card mb-4">
+                    <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
+                        <span class="badge" style="background-color:white;color:#F76902;">12pm-12:55pm</span>
+                        Track B
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">5 Years Working as a Designer - from Corporate Tech to Open Science</h4>
+                        <p class="card-text">
+                            Jenn Kotler<br />
+                            MSS-2175
+                        </p>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="card mb-4">
-            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                <span class="badge" style="background-color:white;color:#F76902;">12pm-12:55pm</span>
-                Track C
-            </div>
-            <div class="card-body">
-                <p class="card-text">TBD</p>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Mike Nolan</p>
-                </div>
-            </div>
-        </div>
-        <div class="card mb-4">
-            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                <span class="badge" style="background-color:white;color:#F76902;">1pm-1:25pm</span>
-                Track A
-            </div>
-            <div class="card-body">
-                <p class="card-text">Testing Open Source Software for Accessibility</p>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Yasmine El-Glaly</p>
-                </div>
-            </div>
-        </div>
-        <div class="card mb-4">
-            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                <span class="badge" style="background-color:white;color:#F76902;">1pm-1:25pm</span>
-                Track B
-            </div>
-            <div class="card-body">
-                <p class="card-text">Open Source within the Maker Movement</p>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Dan Schneiderman</p>
-                </div>
-            </div>
-        </div>
-        <div class="card mb-4">
-            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                <span class="badge" style="background-color:white;color:#F76902;">1pm-1:25pm</span>
-                Track C
-            </div>
-            <div class="card-body">
-                <p class="card-text">Supporting the Open Web in FOSS</p>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Nate Levesque</p>
-                </div>
-            </div>
-        </div>
-        <div class="card mb-4">
-            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                <span class="badge" style="background-color:white;color:#F76902;">1:30pm-2pm</span>
-                Coffee / snack break
-            </div>
-        </div>
-        <div class="card mb-4">
-            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                <span class="badge" style="background-color:white;color:#F76902;">2pm-2:55pm</span>
-                Track A
-            </div>
-            <div class="card-body">
-                <p class="card-text">TigerOS - A Linux distribution built for RIT students</p>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Tim Zabel</p>
-                </div>
-            </div>
-        </div>
-        <div class="card mb-4">
-            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                <span class="badge" style="background-color:white;color:#F76902;">2pm-2:55pm</span>
-                Track B
-            </div>
-            <div class="card-body">
-                <p class="card-text">Csound: A Case Study in Open Source and Culture</p>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Stephen Yi</p>
-                </div>
-            </div>
-        </div>
-        <div class="card mb-4">
-            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                <span class="badge" style="background-color:white;color:#F76902;">2pm-2:55pm</span>
-                Track C
-            </div>
-            <div class="card-body">
-                <p class="card-text">Open Mapping Data and Digital Humanities</p>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Jessica Lieberman</p>
-                </div>
-            </div>
-        </div>
-        <div class="card mb-4">
-            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                <span class="badge" style="background-color:white;color:#F76902;">3pm-3:55pm</span>
-                Track A
-            </div>
-            <div class="card-body">
-                <p class="card-text">Is there a (mis)perception of quality metrics among developers? An empirical study in FOSS</p>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Mohamed Wiem Mkaouer</p>
-                </div>
-            </div>
-        </div>
-        <div class="card mb-4">
-            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                <span class="badge" style="background-color:white;color:#F76902;">3pm-3:55pm</span>
-                Track B
-            </div>
-            <div class="card-body">
-                <p class="card-text">Student Panel on Open Source Software</p>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">RIT Linux Users Group</p>
-                </div>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Moderated by Jeffery Russell</p>
-                </div>
-            </div>
-        </div>
-        <div class="card mb-4">
-            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
-                <span class="badge" style="background-color:white;color:#F76902;">2pm-2:55pm</span>
-                Track C
-            </div>
-            <div class="card-body">
-                <p class="card-text">Open source in educational games</p>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Victoria Van Voorhis</p>
-                </div>
-            </div>
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Brian Regan</p>
+            <div class="col-12 col-md-4">
+                <div class="card mb-4">
+                    <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
+                        <span class="badge" style="background-color:white;color:#F76902;">12pm-12:55pm</span>
+                        Track C
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">Making software that hopefully won't ruin society. (and other fun stories)</h4>
+                        <p class="card-text">
+                            Mike Nolan<br />
+                            MSS-2100 (Sound Mixing Room)
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
@@ -355,11 +253,164 @@ Humanitarian organizations are using open data and cloud services to help disast
                 Install Fest
             </div>
             <div class="card-body">
-                <p class="card-text">Installing Linux for a better future</p>
+                <p class="card-text">
+                    Led by Will Nilges<br />
+                    MSS-3190 (upstairs)
+                </p>
             </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-md-4">
+                <div class="card mb-4">
+                    <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
+                        <span class="badge" style="background-color:white;color:#F76902;">1pm-1:25pm</span>
+                        Track A
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">Testing Open Source Software for Accessibility</h4>
+                        <p class="card-text">
+                            Yasmine El-Glaly<br />
+                            MSS-2150
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4">
+                <div class="card mb-4">
+                    <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
+                        <span class="badge" style="background-color:white;color:#F76902;">1pm-1:25pm</span>
+                        Track B
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">Open Source within the Maker Movement</h4>
+                        <p class="card-text">
+                            Dan Schneiderman<br />
+                            MSS-2175
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4">
+                <div class="card mb-4">
+                    <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
+                        <span class="badge" style="background-color:white;color:#F76902;">1pm-1:25pm</span>
+                        Track C
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">Supporting the Open Web in FOSS</h4>
+                        <p class="card-text">
+                            Nate Levesque<br />
+                            MSS-2100 (Sound Mixing Room)
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card mb-4">
+            <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
+                <span class="badge" style="background-color:white;color:#F76902;">1:30pm-2pm</span>
+                Coffee / snack break
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-md-4">
+                <div class="card mb-4">
+                    <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
+                        <span class="badge" style="background-color:white;color:#F76902;">2pm-2:55pm</span>
+                        Track A
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">TigerOS - A Linux distribution built for RIT students</h4>
+                        <p class="card-text">
+                            Tim Zabel<br />
+                            MSS-2150
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4">
+                <div class="card mb-4">
+                    <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
+                        <span class="badge" style="background-color:white;color:#F76902;">2pm-2:55pm</span>
+                        Track B
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">Csound: A Case Study in Open Source and Culture</h4>
+                        <p class="card-text">
+                            Steven Yi<br />
+                            MSS-2175
+                        </p>
+                    </div>
+                </div>
+            </div>
+<<<<<<< HEAD
             <div class="list-group list-group-flush">
                 <div class="list-group-item">
-                    <p class="mb-0">Led by Will Nilges</p>
+                    <p class="mb-0">Moderated by Jeffery Russell</p>
+=======
+            <div class="col-12 col-md-4">
+                <div class="card mb-4">
+                    <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
+                        <span class="badge" style="background-color:white;color:#F76902;">2pm-2:55pm</span>
+                        Track C
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">Open Mapping Data and Digital Humanities</h4>
+                        <p class="card-text">
+                            Jessica Lieberman<br />
+                            MSS-2100 (Sound Mixing Room)
+                        </p>
+                    </div>
+>>>>>>> 51e8f2e1642701361585424dade73b4957c19f8d
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-md-4">
+                <div class="card mb-4">
+                    <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
+                        <span class="badge" style="background-color:white;color:#F76902;">3pm-3:55pm</span>
+                        Track A
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">Is there a (mis)perception of quality metrics among developers? An empirical study in FOSS</h4>
+                        <p class="card-text">
+                            Mohamed Wiem Mkaouer<br />
+                            MSS-2150
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4">
+                <div class="card mb-4">
+                    <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
+                        <span class="badge" style="background-color:white;color:#F76902;">3pm-3:55pm</span>
+                        Track B
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">Student Panel on Open Source Software</h4>
+                        <p class="card-text">
+                            RIT Linux Users Group<br />
+                            Moderated by Jeffery Russell<br />
+                            MSS-2175
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4">
+                <div class="card mb-4">
+                    <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
+                        <span class="badge" style="background-color:white;color:#F76902;">3pm-3:55pm</span>
+                        Track C
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">Open source in educational games</h4>
+                        <p class="card-text">
+                            Victoria Van Voorhis<br />
+                            Brian Regan<br />
+                            MSS-2100 (Sound Mixing Room)
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
@@ -370,12 +421,15 @@ Humanitarian organizations are using open data and cloud services to help disast
             </div>
             <div class="card-body">
                 <h4 class="card-title">A Life in Open Source</h4>
-                <p class="card-text">Remy DeCausemaker, Open Source Office Director, Twitter, SOIS ‘15</p>
+                <p class="card-text">
+                    Remy DeCausemaker, Open Source Office Director, Twitter, SOIS ‘15<br />
+                    Wegmans Theater
+                </p>
             </div>
         </div>
     </div>
-    <!--<div class="tab-pane fade" id="photos" role="tabpanel" aria-labelledby="photos-tab">
+    <div class="tab-pane fade" id="photos" role="tabpanel" aria-labelledby="photos-tab">
         <h2>Photos</h2>
         {% include content-blocks/gallery.html %}
-    </div>-->
+    </div>
 </div>
