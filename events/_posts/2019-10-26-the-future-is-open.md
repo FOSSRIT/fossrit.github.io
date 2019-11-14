@@ -343,11 +343,6 @@ Humanitarian organizations are using open data and cloud services to help disast
                     </div>
                 </div>
             </div>
-<<<<<<< HEAD
-            <div class="list-group list-group-flush">
-                <div class="list-group-item">
-                    <p class="mb-0">Moderated by Jeffery Russell</p>
-=======
             <div class="col-12 col-md-4">
                 <div class="card mb-4">
                     <div class="card-header" style="background-color:#F76902;color:white;font-size:larger;">
@@ -361,7 +356,6 @@ Humanitarian organizations are using open data and cloud services to help disast
                             MSS-2100 (Sound Mixing Room)
                         </p>
                     </div>
->>>>>>> 51e8f2e1642701361585424dade73b4957c19f8d
                 </div>
             </div>
         </div>
@@ -433,3 +427,4 @@ Humanitarian organizations are using open data and cloud services to help disast
         {% include content-blocks/gallery.html %}
     </div>
 </div>
+
