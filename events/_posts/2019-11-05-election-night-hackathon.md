@@ -6,8 +6,10 @@ authors:
 - D. Joe Anderson
 excerpt: Help transcribe suffragist papers or hack on other project during Election Night.
 images:
-- /events/assets/2018/11/election-night-hackathon-01.jpg
-- /events/assets/2018/11/election-night-hackathon-02.jpg
+- /events/assets/2019/11/election1.jpg
+- /events/assets/2019/11/election2.jpg
+- /events/assets/2019/11/election3.jpg
+- /events/assets/2019/11/election4.jpg
 ---
 Students and faculty collaborated and worked on projects during the 2018 US midterm elections.
 
