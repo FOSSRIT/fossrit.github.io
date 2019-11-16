@@ -4,11 +4,11 @@ title: LibreCorps
 slug: librecorps
 ---
 
-LibreCorps is a FOSS@MAGIC initiative connecting RIT students interested in open source to humanitarian and civic coding opportunities.
+LibreCorps is a FOSS@MAGIC initiative connecting RIT students interested in open source to humanitarian and civic opportunities.
 Specifically, opportunities for **Co-Operative Education Placements**, a.k.a. Co-Ops (full-time paid internships), that are part of graduation requirements.
-Students were successfully placed in both technical and community positions with…
+LibreCorps has contracted with and/or successfully placed students both in technical and community positions with organizations like:
 
-* [UNICEF Innovation](http://unicefstories.org/2012/05/18/rits-partnership-with-the-kosovo-innovation-lab/)
+* [UNICEF Innovation](https://www.unicef.org/innovation/) and [Innovation Fund](https://unicefinnovationfund.org/ "UNICEF Innovation Fund")
 * [Open APS](https://openaps.org/)
 * [Night Scout](http://www.nightscout.info/)
 * [Sugar Labs](https://sugarlabs.org/) and [OLPC](http://one.laptop.org/)
