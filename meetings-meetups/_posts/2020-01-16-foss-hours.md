@@ -7,4 +7,4 @@ location: "MSS-3190"
 title: "FOSS Hours"
 rrule: "FREQ=WEEKLY;UNTIL=20200423T190000"
 ---
-Not a RITlug event, but one we think is worthwhile to share and you'll likely see some of us there
+Come meet other students and faculty involved with FOSS efforts at RIT!
