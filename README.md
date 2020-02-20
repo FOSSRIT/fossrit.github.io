@@ -8,14 +8,14 @@ Official website for Free and Open Source Software @ RIT MAGIC Center and FOSS a
 
 ## About
 
-This is the website for the Free and Open Source Software initiative at the [RIT MAGIC Center](https://magic.rit.edu/ "RIT MAGIC Center - website").
-This website covers both institution programs and work as well as the FOSS academic courses.
-It is also used to communicate other information of interest to the RIT FOSS community.
+This is the website for the Free and Open Source Software initiative at the [RIT MAGIC Center](https://www.rit.edu/magic/ "RIT MAGIC Center - website").
+This website includes content for community initiatives, FOSS academic courses, and more.
+It is also used to communicate announcements to the RIT FOSS community.
 
 
-## Contributing
+## How to contribute
 
-For help with contributing and making a development environment, see [CONTRIBUTING.md](https://github.com/FOSSRIT/fossrit.github.io/blob/master/.github/CONTRIBUTING.md).
+See the [_Website (fossrit.github.io)_](https://runbook.fossrit.community/infra/website/ "Website (fossrit.github.io) - FOSSRIT Runbook") page in the [FOSSRIT Runbook](https://runbook.fossrit.community/).
 
 
 ## Legal
