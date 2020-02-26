@@ -22,3 +22,4 @@ See the [_Website (fossrit.github.io)_](https://runbook.fossrit.community/infra/
 
 This website is licensed under the [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/).
 It is based off of [RITlug/ritlug.github.io](https://github.com/RITlug/ritlug.github.io), a [Creative Commons Zero v1.0 Universal](https://github.com/RITlug/ritlug.github.io/blob/fe94d190d92ae3d13bbc743f81eab2d004ba5f16/LICENSE) project.
+However it does not have full feature parity with the RITlug site (see [FOSSRIT/fossrit.github.io#87](https://github.com/FOSSRIT/fossrit.github.io/issues/87 "Differences between RITlug and FOSS@MAGIC website") for details).
