@@ -39,6 +39,7 @@ page_events:
 # --- build settings ---
 
 excerpt_separator: <!--more-->
+exclude: [vendor] # https://jekyllrb.com/docs/continuous-integration/travis-ci/
 future: true  # allow events in the future (for calendar feed)
 markdown: kramdown
 permalink: pretty  # no .html extensions
