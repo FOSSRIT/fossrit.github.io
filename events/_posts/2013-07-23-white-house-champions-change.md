@@ -4,9 +4,14 @@ title: White House Champions of Change
 authors:
 - Remy DeCausemaker
 excerpt: Student-led project entitled “Sky Time” selected for inclusion in the White House Champions of Change event on July 23rd, 2013 in Washington, D.C.
+images:
+- /events/assets/2013/07/skytime-in-white-house.png
 ---
 
-The [RIT Center for Media, Arts, Games, Interaction & Creativity](https://www.rit.edu/magic/) (MAGIC) is pleased to announce that a student-led project entitled “[Sky Time](https://github.com/FOSSRIT/SkyTime)” has been selected for inclusion in the White House Champions of Change event on July 23rd in Washington, D.C.
+The [RIT Center for Media, Arts, Games, Interaction & Creativity](https://www.rit.edu/magic/) (MAGIC) is pleased to announce that a student-led project entitled “[Sky Time](/projects/skytime)” has been selected for inclusion in the White House Champions of Change event on July 23rd in Washington, D.C.
+
+{% include content-blocks/gallery.html %}
+
 SkyTime is an educational game for the [Sugar Desktop Environment](https://sugarlabs.org/) running on the XO laptop of the [One Laptop Per Child (OLPC)](https://web.archive.org/web/20191221235809/http://one.laptop.org/about/mission) initiative.
 The event celebrates the best projects to emerge from the nationwide Hack for Change event that was part of the National Day of Civic Hacking.
 In particular, the Champions of Change program will highlight “…extraordinary leaders in transformative civic hacking and civic engagement” and we are thrilled that RIT students have been chosen to be included in this event.
