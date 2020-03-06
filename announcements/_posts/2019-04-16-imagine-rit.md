@@ -24,7 +24,7 @@ FOSS Letters are four 1 ft. tall letters that spell the word "FOSS" originally c
 They are illuminated by RGB LED strips.
 The letter colors are controlled by an [open source web interface](https://github.com/FOSSRIT/FOSSLetters) in front of the display.
 The web interface is hosted on a Raspberry Pi and publicly accessible to anyone on the Internet.
-FOSS Letters were created out of the [IGME 585 Project in Free and Open Source Software Development](https://www.rit.edu/gccis/igm/sites/rit.edu.gccis.igm/files/images/FOSS-MN%20Semesters.pdf) class at RIT.
+FOSS Letters were created out of the [IGME 585 Project in Free and Open Source Software Development](https://www.rit.edu/study/curriculum/e4af015b-d2bf-4a7e-9a48-08c7d25dc4d1) class at RIT.
 
 ### Arduino heartbeat sensor
 
