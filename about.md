@@ -9,7 +9,7 @@ Meetings are {{ site.meeting-day }}s {{ site.meeting-time }} in {{ site.meeting-
 
 FOSS@MAGIC is the Free and Open Source Software (FOSS) program at the [RIT MAGIC Center](https://magic.rit.edu/).
 Founded in 2009, it is an initiative created to help develop and support FOSS efforts at RIT.
-A leader in academia for open source education, the program has created the [first-ever minor](https://www.rit.edu/gccis/igm/sites/rit.edu.gccis.igm/files/images/FOSS-MN%20Semesters.pdf "FOSS-MN - overview") in Free and Open Source Software in the country and supports students with finding co-ops and jobs in the industry.
+A leader in academia for open source education, the program has created the [first-ever minor](https://www.rit.edu/study/curriculum/e4af015b-d2bf-4a7e-9a48-08c7d25dc4d1 "Free and Open Source Software and Free Culture Minor - Curriculum") in Free and Open Source Software in the country and supports students with finding co-ops and jobs in the industry.
 
 The initiative is active and engaged with the open source community at large.
 It is sponsored since 2010 by [Red Hat, Inc](https://www.redhat.com/).
@@ -33,3 +33,4 @@ On campus, FOSS@MAGIC does the following:
 * Partners with [RIT Linux Users Group](https://ritlug.com/) and [Women in Computing](http://wic.rit.edu/) organizations
 * Brings industry leaders to our FOSS Talks speaker series
 * Support student and faculty projects
+* Organizes [Future is Open conference](/events/2019/10/26/the-future-is-open) to showcase open source accomplishments of students, faculty, and alums
