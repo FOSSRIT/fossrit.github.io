@@ -9,11 +9,9 @@ script:
   - bundle exec htmlproofer --empty-alt-ignore --http-status-ignore=999 --url-ignore "/projects/" ./_site
 
 deploy:
-  cleanup: false
-  keep_history: true
-  provider: pages
-  target_branch: master
+  provider: pages:git
   token: "$GITHUB_TOKEN"
+  edge: true
 
 env:
   global:
