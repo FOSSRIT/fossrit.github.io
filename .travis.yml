@@ -9,11 +9,14 @@ script:
   - bundle exec htmlproofer --empty-alt-ignore --http-status-ignore=999 --url-ignore "/projects/" ./_site
 
 deploy:
-  cleanup: false
+  committer_from_gh: true
   keep_history: true
+  local_dir: "_site/"
   provider: pages
-  target_branch: master
+  skip_cleanup: true
   token: "$GITHUB_TOKEN"
+  on:
+    branch: master
 
 env:
   global:
