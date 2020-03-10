@@ -18,7 +18,7 @@ title: Calendar
             <span id="renderRange" class="render-range"></span>
         </div>
         <br>
-        
+
         <div id="calendar"></div>
         <br>
     </div>
@@ -89,12 +89,8 @@ fetch('/feeds/calendar.ics').then((res) => {
                 // (Convert iCal property names to tui.calendar property names)
                 i[1].forEach((j) => {
                     switch (j[0]) {
-                        //case 'uid':
-                        //    obj.id = j[3];
-                        //    break;
                         case 'summary':
-                            // Remove prefix added in iCal generation
-                            obj.title = (j[3].startsWith('RITlug: ') ? j[3].substring(8) : j[3]);
+                            obj.title = j[3];
                             break;
                         case 'description':
                             obj.body = j[3];
