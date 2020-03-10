@@ -10,13 +10,13 @@ script:
 
 deploy:
   committer_from_gh: true
-  keep_history: true
   local_dir: "_site/"
   provider: pages
   skip_cleanup: true
+  target_branch: master
   token: "$GITHUB_TOKEN"
   on:
-    branch: master
+    branch: src
 
 env:
   global:
