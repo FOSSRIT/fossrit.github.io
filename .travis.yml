@@ -1,12 +1,12 @@
 ---
 os: linux
+dist: bionic
 language: ruby
 rvm:
   - 2.6.5
 
 script:
-  - bundle exec jekyll build
-  - bundle exec htmlproofer --empty-alt-ignore --http-status-ignore=999 --url-ignore "/projects/" ./_site
+  - bundle exec rake test
 
 deploy:
   committer_from_gh: true
@@ -26,5 +26,7 @@ env:
 addons:
   apt_packages: libcurl4-openssl-dev
 
-# caching bundler gem packages will speed up build
-cache: bundler
+cache:
+  bundler: true
+  directories:
+    - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
