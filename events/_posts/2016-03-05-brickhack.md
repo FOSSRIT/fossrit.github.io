@@ -16,6 +16,7 @@ images:
 - /events/assets/2016/03/brickhack-2016-cprofitt.jpg
 - /events/assets/2016/03/brickhack-2016-nolski-judging.jpg
 - /events/assets/2016/03/brickhack-2016-decause-nolski.jpg
+- /events/assets/2016/03/brickhack-2016-decause-teaching.jpg
 ---
 
 _An event report was published by RIT FOSS student [Justin W. Flory](https://justinwflory.com/) on the [Fedora Community Blog](https://communityblog.fedoraproject.org/brickhack-2016-event-report/)._
