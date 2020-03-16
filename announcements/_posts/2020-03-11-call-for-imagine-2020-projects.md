@@ -1,7 +1,12 @@
 ---
 author: Justin W. Flory
-title: "Imagine RIT 2020: Call for projects"
+title: "CANCELED: Imagine RIT 2020: Call for projects"
 layout: post
+---
+
+Unfortunately, [Imagine RIT 2020 was canceled](https://twitter.com/Imagine_RIT/status/1239558520984547328).
+We hope to see you next at [Maker Faire Rochester](https://rochester.makerfaire.com/) in November 2020!
+
 ---
 
 Greetings!
