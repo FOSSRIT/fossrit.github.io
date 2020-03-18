@@ -9,6 +9,7 @@ group :test do
   gem 'html-proofer'
   gem 'pry'
   gem 'rack-jekyll'
+  gem 'rake'
   gem 'rspec'
   gem 'selenium-webdriver'
   gem 'webdrivers'
