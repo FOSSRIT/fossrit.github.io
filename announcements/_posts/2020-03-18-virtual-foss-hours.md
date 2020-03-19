@@ -1,6 +1,6 @@
 ---
 author: Justin W. Flory
-title: "Virtual FOSS Hours: Thursdays 5pm-7pm US EDT"
+title: "Virtual FOSS Hours: Thursdays 5pm-6pm US EDT"
 layout: post
 ---
 
