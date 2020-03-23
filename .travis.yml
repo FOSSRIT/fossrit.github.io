@@ -5,24 +5,6 @@ language: ruby
 rvm:
   - 2.6.5
 
-script:
-  - bundle exec rake test
-
-deploy:
-  committer_from_gh: true
-  local_dir: "_site/"
-  provider: pages
-  skip_cleanup: true
-  target_branch: master
-  token: "$GITHUB_TOKEN"
-  on:
-    branch: src
-
-env:
-  global:
-    - NOKOGIRI_USE_SYSTEM_LIBRARIES: true
-    - secure: cEWgFXZ7aNgM8iCgNz6j1laT/8tZh257UX4IYDlOXlxzKkjlqFnT7H6lSch53TEwF8HuUMS6lMCFBgPic5R96dHEmxqZocmSWYyPcuzpZRgDHrVJ8v6e8Ja4bdAUeEit0dN5veQI1H45ydfs/6m25O7W/EROUyDG7/dAZ71mxXLO9u2Nj8rmvfD0MNe/s8E7h5yfa7wuDS5ToW4O0PwwgUo24w35QYmFcc7qWtmVWKGsZoesWGu/TRbGYrZhC5B+ZoXP3N2sswJUPmJDCOZLcdoxmLnRRmnnVJAu7r6v1Ejds1UaXBdCzl/mrMy4Uk7Dhjw6i+sHU3N0szcfqT1KEyaOLiYC6/9KT4U5VUl1Jw7dfzy6Ew7eVsSQLBMMd5gElr+ivyIalSRar4JLDtdIACnqsmebHF0K2B1hlES7wcB4MC91us7AZBfzBxL7lsK8UWJCze4apDLaAP+F/Rdj6MbJ4hHeCChRFFWfxidCC6VFS+13ALAFbaY2lVGcnIGKv04mcSGfoISlTJQ4aEhH488/wcmYX/s1Kwzgg+POrfba2c9030a2jnUMChe0oBeGhiR8BBg5e8Z9+rhfG9ZyO9xlP1EDL1+CkYSabn8DewLAl3jPzAHV2lXihEBMaVqqqUCzTR1K19AfuoO8Ab0yaQ88exauZOhU7Mf8H5WW+Fo=
-
 addons:
   apt_packages: libcurl4-openssl-dev
 
@@ -30,3 +12,10 @@ cache:
   bundler: true
   directories:
     - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
+
+script:
+  - bundle exec rake test
+
+env:
+  global:
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES: true
