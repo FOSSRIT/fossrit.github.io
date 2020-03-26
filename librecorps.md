@@ -22,3 +22,9 @@ LibreCorps worked with UNICEF Innovation this past year to do just that and exam
 
 Up until now, LibreCorps runs single instance by single instance.
 Our three-year plan builds it into an on-going, student-driven, faculty-managed, standing FOSS consultancy program.
+
+
+## Resources
+
+Need help or advice on building an open source project and community?
+Check out the [**LibreCorps Resources**](https://librecorps.github.io/resources/) site, a self-serve knowledgebase of information on open source best practices.
