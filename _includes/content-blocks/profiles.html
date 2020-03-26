@@ -6,48 +6,46 @@
         {% if page_category != "index" and category_key != page_category%}
             {% continue %}
         {% endif %}
-        {% if page.title %}
-        {% else %}
-            <h1>{{ category_key | capitalize }}</h1>
-        {% endif %}
 
-        <div class="category"> 
+        <div class="row"> 
             {% for person_key_pair in category_value %}
                 {% assign person = person_key_pair[1] %}
-                <div class="person">
-                    <h3>
-                    {% if person.blog %}
-                    <a target="_blank" href="{{person.blog}}">{{ person.name }}</a>
-                    {% else %}
-                    {{ person.name }}        
-                    {% endif %}   
-                    </h3> 
-                    {% if person.bio %}
-                    <blockquote>{{ person.bio | truncate: 140, '...'}}</blockquote>
-                    {% endif %}
-                    <ul>
-                        
-                        <li><strong>Major/Year</strong>: {{person.major}} {% if person.graduation %}({{person.graduation}}){% endif %}</li>
-                        {% if person.company %}
-                        <li><strong>Company</strong>: {{person.company}} </li>
-                        {% endif %}
-                        <li><strong>Username</strong>: {{person.handle}}</li>
-                        {% if person.forges %}
-                        <li>
-                            <strong>Code Forges</strong>:
-                            <ul class="social-media-list">
-                                {% for forges_pair in person.forges %}
-                                    {% assign forge_key = forges_pair[0] | downcase %}
-                                    {% assign forge_value = forges_pair[1] %}
-                                    <li><a target="_blank" href="{{forge_value}}">{{ forge_key | capitalize }}</a></li>
-                                {% endfor %}
-                            </ul>
-                        </li>
-                        {% endif %}
-                    </ul>
+                <div class="col-12 col-md-6 col-lg-4 p-2">
+                    <div class="card">
+                        <div class="card-body">
+                            <h3 class="card-title">
+                                {% if person.blog %}
+                                <a target="_blank" href="{{ person.blog }}">{{ person.name }}</a>
+                                {% else %}
+                                {{ person.name }}        
+                                {% endif %}  
+                            </h3>
+                            {% if person.bio %}
+                            <p class="card-text">{{ person.bio | truncate: 140, '...'}}</p>
+                            {% endif %}
+                        </div>
+                        <div class="list-group list-group-flush">
+                            <div class="list-group-item"><strong>Major/Year</strong>: {{person.major}} {% if person.graduation %}({{person.graduation}}){% endif %}</div>
+                            {% if person.company %}
+                            <div class="list-group-item"><strong>Company</strong>: {{person.company}} </div>
+                            {% endif %}
+                            <div class="list-group-item"><strong>Username</strong>: <code>{{person.handle}}</code></div>
+                            {% if person.forges %}
+                            <div class="list-group-item">
+                                <strong>Code Forges:</strong>
+                                <ul class="social-media-list mb-0">
+                                    {% for forges_pair in person.forges %}
+                                        {% assign forge_key = forges_pair[0] | downcase %}
+                                        {% assign forge_value = forges_pair[1] %}
+                                        <li><a target="_blank" href="{{forge_value}}">{{ forge_key | capitalize | replace: "Github", "GitHub" | replace: "Gitlab", "GitLab" }}</a></li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                            {% endif %}
+                        </div>
+                    </div>
                 </div>
             {% endfor %}
         </div>
     {% endfor %}
 </div>
-Built on {{ site.time | date_to_rfc822 }}
