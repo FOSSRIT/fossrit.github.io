@@ -6,6 +6,9 @@
         {% if page_category != "index" and category_key != page_category%}
             {% continue %}
         {% endif %}
+        {% if page_category == "index" %}
+            <h2>{{ category_key | capitalize }}</h2>
+        {% endif %}
 
         <div class="row"> 
             {% for person_key_pair in category_value %}
