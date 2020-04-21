@@ -11,7 +11,8 @@ task :test do
     :url_ignore => [/projects/],
     :cache => {
       :timeframe => '6w'
-    }
+    },
+    :allow_hash_href => true
   }
   HTMLProofer.check_directory("./_site/", options).run
 end
