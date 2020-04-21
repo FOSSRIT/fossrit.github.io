@@ -11,13 +11,24 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                 {% for tab in site.data.tabs %}
-                    {% if page.url == tab.link %}
-                    <li class="nav-item active">
+                    {% if tab.dropdown %}
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ tab.name }}</a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                {% for ditem in tab.dropdown %}
+                                <a class="dropdown-item" href="{{ ditem.link }}">{{ ditem.name }}</a>
+                                {% endfor %}
+                            </div>
+                        </li>
                     {% else %}
-                    <li class="nav-item">
+                        {% if page.url == tab.link %}
+                        <li class="nav-item active">
+                        {% else %}
+                        <li class="nav-item">
+                        {% endif %}
+                            <a class="nav-link" href="{{ tab.link }}">{{ tab.name }}</a>
+                        </li>
                     {% endif %}
-                        <a class="nav-link" href="{{ tab.link }}">{{ tab.name }}</a>
-                    </li>
                 {% endfor %}
                 </ul>
             </div>
