@@ -2,19 +2,21 @@
   link: /
 
 - name: About
-  link: /about/
+  dropdown:
+  - name: About
+    link: /about/
+  - name: LibreCorps
+    link: /librecorps/
+  - name: Events
+    link: /events/
+  - name: Projects
+    link: /projects/
 
 - name: Announcements
   link: /announcements/
 
-- name: Events
-  link: /events/
-
-- name: LibreCorps
-  link: /librecorps/
-
-- name: Projects
-  link: /projects/
+- name: Calendar
+  link: /calendar/
 
 - name: Get Involved
   link: /get-involved/
