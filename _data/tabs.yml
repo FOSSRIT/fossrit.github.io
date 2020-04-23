@@ -1,16 +1,19 @@
+---
 - name: Home
   link: /
 
 - name: About
   dropdown:
-  - name: About
-    link: /about/
-  - name: LibreCorps
-    link: /librecorps/
-  - name: Events
-    link: /events/
-  - name: Projects
-    link: /projects/
+    - name: About
+      link: /about/
+    - name: LibreCorps
+      link: /librecorps/
+    - name: Open@RIT
+      link: /open-rit/
+    - name: Events
+      link: /events/
+    - name: Projects
+      link: /projects/
 
 - name: Announcements
   link: /announcements/
