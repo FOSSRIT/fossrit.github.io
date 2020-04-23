@@ -7,12 +7,12 @@
 
 # --- base website settings ---
 
-title: Free and Open Source Software @ RIT MAGIC Center
-title-abbrev: FOSS@MAGIC
+title: Free and Open Source Software @ RIT
+title-abbrev: FOSS@RIT
 description: >  # this symbol ignores newlines
-  Official site for the Free and Open Source Software initiative
-  at the RIT MAGIC Center. Learn about open source activities and
-  courses at the Rochester Institute of Technology.
+  Center of gravity for Free and Open Source Software at the Rochester
+  Institute of Technology. Learn about open source activities and academia at
+  RIT.
 
 
 # --- general settings ---
@@ -25,10 +25,12 @@ seo_keywords: >  # this symbol ignores newlines
   "RIT FOSS",
   "RIT MAGIC Center",
   "Rochester Institute of Technology",
+  "Open@RIT",
   "open source",
   "Stephen Jacobs"
 twitter_account: "@RITMAGIC"
 url: "https://fossrit.github.io"
+
 
 # --- events page settings ---
 
