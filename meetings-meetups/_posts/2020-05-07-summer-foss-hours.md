@@ -1,12 +1,11 @@
 ---
 layout: redirect
 redirect: https://meet.jit.si/rit-foss-hours
-date-start: "2020-03-26 17:00"
-date-end: "2020-03-26 18:00"
+date-start: "2020-05-07 17:00"
+date-end: "2020-05-07 18:00"
 location: "https://meet.jit.si/rit-foss-hours"
-title: "FOSS Hours"
-rrule: "FREQ=WEEKLY;UNTIL=20200423T190000"
-sitemap: false
+title: "Virtual FOSS Hours"
+rrule: "FREQ=WEEKLY;INTERVAL=2;UNTIL=20200820T190000"
 
 ---
 
