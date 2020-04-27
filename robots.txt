@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: /meetings-meetups/
 Allow: /
 
 Sitemap: https://fossrit.github.io/sitemap.xml
