@@ -1,8 +1,11 @@
 - name: University Website
   link: https://www.rit.edu
 
-- name: RIT MAGIC Center
-  link: https://magic.rit.edu/
+- name: FOSS@RIT Runbook
+  link: https://runbook.fossrit.community/
 
 - name: HFOSS student blog aggregator
   link: https://people.rit.edu/djaigm/planet/hfoss/
+
+- name: RIT MAGIC Center
+  link: https://magic.rit.edu/

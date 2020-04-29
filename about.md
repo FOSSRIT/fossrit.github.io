@@ -2,10 +2,11 @@
 layout: page
 title: About
 slug: about
+
 ---
 
-*{{ site.title-abbrev }} hosts weekly meetings every week of classes at RIT.
-Meetings are {{ site.meeting-day }}s {{ site.meeting-time }} in {{ site.meeting-place }}.*
+_{{ site.title-abbrev }} hosts weekly meetings every week of classes at RIT._
+_Meetings are {{ site.meeting-day }}s {{ site.meeting-time }} in {{ site.meeting-place }}._
 
 FOSS@MAGIC is the Free and Open Source Software (FOSS) program at the [RIT MAGIC Center](https://magic.rit.edu/).
 Founded in 2009, it is an initiative created to help develop and support FOSS efforts at RIT.
@@ -34,3 +35,9 @@ On campus, FOSS@MAGIC does the following:
 * Brings industry leaders to our FOSS Talks speaker series
 * Support student and faculty projects
 * Organizes [Future is Open conference](/events/2019/10/26/the-future-is-open) to showcase open source accomplishments of students, faculty, and alums
+
+
+## Community governance and policy
+
+See the [FOSS@RIT Runbook](https://runbook.fossrit.community/) for documentation about the Free and Open Source Software community at RIT.
+This handbook provides different resources and policies for how the community is compromised and what services are available.
