@@ -12,7 +12,7 @@ This past fall, the [Academy for Motion Picture Arts and Sciences](https://en.wi
 The companies currently signed on are, by a wide majority, film industry companies.
 There are a few game industry companies currently engaged and the language on the website alludes to this foundation covering multimedia and games as well.
 
-The goal of this [IGDA GDC roundtable](https://schedule.gdconf.com/session/bridging-the-open-source-and-game-industries-roundtable-presented-by-igda/865663) is to to learn more about the ASWF and its mission and to ask questions like the following:
+The goal of this IGDA GDC roundtable is to to learn more about the ASWF and its mission and to ask questions like the following:
 
 1. What are the up and downsides of such an effort?
 2. Considering there is an overlap, but not an overall match, between the needs of game production and film and television production, should games be a part of this effort or should there be a separate foundation?
