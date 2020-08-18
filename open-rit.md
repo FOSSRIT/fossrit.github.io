@@ -7,11 +7,10 @@ slug: open-rit
 
 ## What is Open@RIT?
 
-Open@RIT is an effort initiated by [Professor Stephen Jacobs](https://www.rit.edu/directory/sxjics-stephen-jacobs), and supported by the Office of the Vice President of Research, to build support for an Open Source Programs Office at RIT.
-
-To date, fifty faculty and staff across thirty-seven different units of RIT have asked to be added to the mailing list for the group.
-Fifteen of those have been attending on-line meetings and/or contributing to the “[_Wish List for Activities_][1]”.
-
+Open@RIT is the new Open Programs Office for the University directed by [Professor Stephen Jacobs](https://www.rit.edu/directory/sxjics-stephen-jacobs).  It's 
+creation was approved by Provost Ellen Granberg at the end of June 2020 and placed under the Office of the Vice-President of Research at the beginning of August.  
+This page on the FOSS student GitHUb site has been created as a placeholder in the spirit of "release eary, release often."  An official website for Open@RIT has
+been requested and is in the production que with the RIT web team.
 
 ## How to get involved
 
@@ -19,8 +18,9 @@ Fifteen of those have been attending on-line meetings and/or contributing to the
    Send a request to be added to `sj` [at] `magic` [dot] `rit` [dot] `edu`.
 2. Read, and if you’d like to, comment on and/or contribute to the “[_Activities_][1]” document.
 3. Fill out [the form][2] we are using to populate a prototype directory of people and projects in the Open across campus.
-   The intent of this action is to allow for greater collaboration across units and to begin to collect metrics on the University’s impact in and on all things Open.
-4. Contribute to the “[_Knowledgebase_][3]” we’re crowd-sourcing for Open@RIT.
+   The intent of this action is to allow for greater collaboration across units and to begin to collect metrics on the University’s impact in and 
+   on all things Open.
+4. Contribute to the prototype “[_Knowledgebase_][3]” we’re crowd-sourcing for Open@RIT.
 
 ### How to contribute to [Knowledgebase][3]
 
