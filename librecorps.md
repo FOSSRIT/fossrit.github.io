@@ -15,7 +15,7 @@ LibreCorps has contracted with and/or successfully placed students both in techn
 * And others
 
 LibreCorps students work in two major areas on Co-Ops.
-The first, not surprisingly, is technology.
+The first, not surprisingly, is technology. Particularly the technology around running FOSS process and Open communities.
 The second is FOSS process and Community.
 Many NGO and civic organizations put open-licensed work in repositories without a plan to build and maintain a community of contributors around their technology.
 LibreCorps worked with UNICEF Innovation this past year to do just that and examples of that work can be found in [this presentation](https://docs.google.com/presentation/d/1QqKe-Exa6BIqIlYtd_cVFJEtakXBCuLxSEqvrqQyToU) and [long-term roadmap](https://docs.google.com/document/d/1F-pbO-8pHlf_DBolW4phMNXnwq9da54e5WftByT03SA) to do so.
@@ -26,10 +26,10 @@ Our three-year plan builds it into an on-going, student-driven, faculty-managed,
 
 ## Our work with UNICEF Innovation Fund
 
-RIT LibreCorps has partnered with the UNICEF Office of Innovation since 2014.
-In recent years, LibreCorps collaborated with the [Innovation Fund](https://unicefinnovationfund.org/), a pooled funding vehicle to quickly assess, fund and grow open-source solutions that have been developed in new and emerging markets.
+RIT LibreCorps has partnered intermittently with the UNICEF Office of Innovation since 2014.
+In recent years, LibreCorps collaborated with projects of the [Innovation Fund](https://unicefinnovationfund.org/), a pooled funding vehicle to quickly assess, fund and grow open-source solutions that have been developed in new and emerging markets.
 RIT LibreCorps provides students experienced in open source development and community-building as mentors for different teams in UNICEF's Innovation Fund.
-Portfolio teams work together with RIT student employees to create and build sustainable communities around their open source projects.
+UNICEF funded teams work together with RIT student employees to create and build sustainable communities around their open source projects.
 You can read more about this work on our Opensource.com article, [_LibreCorps mentors humanitarian startups on how to run the open source way_](https://opensource.com/article/19/12/humanitarian-startups-open-source).
 
 
