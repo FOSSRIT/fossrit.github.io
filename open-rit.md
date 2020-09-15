@@ -11,8 +11,8 @@ Open@RIT is the new Open Programs Office for the University directed by [Profess
 creation was approved by Provost Dr. Ellen Granberg at the end of June 2020 and placed under the Office of the Vice-President of Research, Dr. Ryne Raffaelle 
 at the beginning of August.  
 
-This page on the FOSS student GitHUb site has been created as a placeholder in the spirit of "release eary, release often."  An official website for Open@RIT has
-been requested and is in the production que with the RIT web team.
+This page on the FOSS student GitHub site has been created as a placeholder in the spirit of "release eary, release often."  An official website for Open@RIT has
+been requested and is in the production queue with the RIT web team.
 
 ## How to get involved with Open@RIT
 
