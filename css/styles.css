@@ -81,3 +81,9 @@ footer a:hover {
     color: #B3B3FF;
     text-decoration: none;
 }
+
+/* Embed tweaks */
+figure, iframe, img, picture, video {
+    height: auto;
+    max-width: 100%;
+}
