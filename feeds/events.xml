@@ -5,8 +5,8 @@
     <description>Upcoming events in RIT FOSS community</description>
     <link>https://fossrit.github.io/</link>
     <atom:link href="https://fossrit.github.io/events.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 07 May 2022 01:07:30 -0400</pubDate>
-    <lastBuildDate>Sat, 07 May 2022 01:07:30 -0400</lastBuildDate>
+    <pubDate>Sat, 07 May 2022 05:49:32 +0000</pubDate>
+    <lastBuildDate>Sat, 07 May 2022 05:49:32 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
@@ -90,7 +90,7 @@
 &lt;/blockquote&gt;
 
 </description>
-        <pubDate>Tue, 05 Nov 2019 00:00:00 -0500</pubDate>
+        <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
         <link>https://fossrit.github.io/events/2019/11/05/election-night-hackathon/</link>
         <guid isPermaLink="true">https://fossrit.github.io/events/2019/11/05/election-night-hackathon/</guid>
         
@@ -147,7 +147,7 @@ Humanitarian organizations are using open data and cloud services to help disast
                 &lt;div class=&quot;card&quot;&gt;
                     &lt;div class=&quot;card-body&quot;&gt;
                         &lt;h3 class=&quot;card-title&quot;&gt;Nando Ellis&lt;/h3&gt;
-                        &lt;p class=&quot;card-text&quot;&gt;Middleware Consultant, Red Hat; Computer Science &apos;15&lt;/p&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;Middleware Consultant, Red Hat; Computer Science '15&lt;/p&gt;
                     &lt;/div&gt;
                 &lt;/div&gt;
             &lt;/div&gt;
@@ -163,7 +163,7 @@ Humanitarian organizations are using open data and cloud services to help disast
                 &lt;div class=&quot;card&quot;&gt;
                     &lt;div class=&quot;card-body&quot;&gt;
                         &lt;h3 class=&quot;card-title&quot;&gt;Nate Levesque&lt;/h3&gt;
-                        &lt;p class=&quot;card-text&quot;&gt;Software Engineer, Datto; Software Engineering &apos;16&lt;/p&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;Software Engineer, Datto; Software Engineering '16&lt;/p&gt;
                     &lt;/div&gt;
                 &lt;/div&gt;
             &lt;/div&gt;
@@ -219,7 +219,7 @@ Humanitarian organizations are using open data and cloud services to help disast
                 &lt;div class=&quot;card&quot;&gt;
                     &lt;div class=&quot;card-body&quot;&gt;
                         &lt;h3 class=&quot;card-title&quot;&gt;Daniel Schneiderman&lt;/h3&gt;
-                        &lt;p class=&quot;card-text&quot;&gt;Co-Chair, Maker Faire Rochester; Information Technology &apos;12&lt;/p&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;Co-Chair, Maker Faire Rochester; Information Technology '12&lt;/p&gt;
                     &lt;/div&gt;
                 &lt;/div&gt;
             &lt;/div&gt;
@@ -327,7 +327,7 @@ Humanitarian organizations are using open data and cloud services to help disast
                         Track C
                     &lt;/div&gt;
                     &lt;div class=&quot;card-body&quot;&gt;
-                        &lt;h4 class=&quot;card-title&quot;&gt;Making software that hopefully won&apos;t ruin society. (and other fun stories)&lt;/h4&gt;
+                        &lt;h4 class=&quot;card-title&quot;&gt;Making software that hopefully won't ruin society. (and other fun stories)&lt;/h4&gt;
                         &lt;p class=&quot;card-text&quot;&gt;
                             Mike Nolan&lt;br /&gt;
                             MSS-2100 (Sound Mixing Room)
@@ -593,7 +593,7 @@ Humanitarian organizations are using open data and cloud services to help disast
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sat, 26 Oct 2019 00:00:00 -0400</pubDate>
+        <pubDate>Sat, 26 Oct 2019 00:00:00 +0000</pubDate>
         <link>https://fossrit.github.io/events/2019/10/26/the-future-is-open/</link>
         <guid isPermaLink="true">https://fossrit.github.io/events/2019/10/26/the-future-is-open/</guid>
         
@@ -660,7 +660,7 @@ Humanitarian organizations are using open data and cloud services to help disast
   &lt;p&gt;The Election Night Hackathon is possible thanks to the RIT MAGIC Center and Red Hat.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Tue, 06 Nov 2018 00:00:00 -0500</pubDate>
+        <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
         <link>https://fossrit.github.io/events/2018/11/06/election-night-hackathon/</link>
         <guid isPermaLink="true">https://fossrit.github.io/events/2018/11/06/election-night-hackathon/</guid>
         
@@ -670,7 +670,7 @@ Humanitarian organizations are using open data and cloud services to help disast
       </item>
     
       <item>
-        <title>O&apos;Reilly Open Source Convention (OSCON) 2017</title>
+        <title>O'Reilly Open Source Convention (OSCON) 2017</title>
         <description>&lt;p&gt;FOSS@MAGIC students and faculty exhibiting at O’Reilly’s Open Source Convention (OSCON) in 2016 and 2017.&lt;/p&gt;
 
 &lt;div class=&quot;container row&quot; style=&quot;margin-bottom:1.2em;&quot;&gt;
@@ -724,7 +724,7 @@ Each year, students bring projects and examples of work created as part of the &
 They have presented posters and bird-of-a-feather sessions there.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
+        <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
         <link>https://fossrit.github.io/events/2017/05/10/oscon/</link>
         <guid isPermaLink="true">https://fossrit.github.io/events/2017/05/10/oscon/</guid>
         
@@ -873,7 +873,7 @@ With all of the students and faculty working on projects to help out the local a
 
 &lt;p&gt;&lt;a href=&quot;https://www.rit.edu/news/story.php?id=55389&quot;&gt;&lt;em&gt;See the official RIT press release.&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 23 Apr 2016 00:00:00 -0400</pubDate>
+        <pubDate>Sat, 23 Apr 2016 00:00:00 +0000</pubDate>
         <link>https://fossrit.github.io/events/2016/04/23/space-apps-hackathon/</link>
         <guid isPermaLink="true">https://fossrit.github.io/events/2016/04/23/space-apps-hackathon/</guid>
         
@@ -1065,7 +1065,7 @@ Remy joined forces with a professor from the FOSS@MAGIC program at RIT, Professo
 Together, the two traveled table to table visiting the projects of everyone who submitted to “Best in FOSS“.
 Some of the demonstrations added an extra perspective that we wouldn’t have seen just from text.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 05 Mar 2016 00:00:00 -0500</pubDate>
+        <pubDate>Sat, 05 Mar 2016 00:00:00 +0000</pubDate>
         <link>https://fossrit.github.io/events/2016/03/05/brickhack/</link>
         <guid isPermaLink="true">https://fossrit.github.io/events/2016/03/05/brickhack/</guid>
         
@@ -1143,7 +1143,7 @@ Each venue and organizer will have their own agenda and timeline, and there were
 
 &lt;p&gt;You can read more about the competitions and activities that attendees participated in here on the &lt;a href=&quot;https://fedoraproject.org/wiki/Softwarefreedomday/2015&quot;&gt;SoftwareFreedomDay page on the Fedora Wiki&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 19 Sep 2015 00:00:00 -0400</pubDate>
+        <pubDate>Sat, 19 Sep 2015 00:00:00 +0000</pubDate>
         <link>https://fossrit.github.io/events/2015/09/19/software-freedom-day/</link>
         <guid isPermaLink="true">https://fossrit.github.io/events/2015/09/19/software-freedom-day/</guid>
         
@@ -1163,7 +1163,7 @@ There will be hacking, installfests, food, design contests, prizes, and more!&lt
   &lt;li&gt;&lt;strong&gt;Contact&lt;/strong&gt;: Remy DeCausemaker&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Sat, 21 Sep 2013 00:00:00 -0400</pubDate>
+        <pubDate>Sat, 21 Sep 2013 00:00:00 +0000</pubDate>
         <link>https://fossrit.github.io/events/2013/09/21/software-freedom-day/</link>
         <guid isPermaLink="true">https://fossrit.github.io/events/2013/09/21/software-freedom-day/</guid>
         
@@ -1219,7 +1219,7 @@ Jennifer is hired by FOSS@RIT as a full-time artist/designer working on several 
 &lt;p&gt;This concept of taking class projects, ideas, and teamwork, and extending the work, adding polish, and focus through the MAGIC Center towards greater public adoption and impact is exactly what we had hoped for when the MAGIC Center was created by President Destler in February.
 We are immensely proud of our students and their work, as well as the faculty and staff that supported the efforts that enabled this activity, and look forward to their participation at the event in Washington this summer.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 23 Jul 2013 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 23 Jul 2013 00:00:00 +0000</pubDate>
         <link>https://fossrit.github.io/events/2013/07/23/white-house-champions-change/</link>
         <guid isPermaLink="true">https://fossrit.github.io/events/2013/07/23/white-house-champions-change/</guid>
         
@@ -1258,7 +1258,7 @@ He is the former director of MIT’s Media Lab and a co-founder of One Laptop Pe
 &lt;p&gt;Copies of the book will be available for purchase at the signing.
 The talk is sponsored by RIT’s new MAGIC Center, Red Hat, StormFrog, the Simone Center for Innovation and Entrepreneurship and the Lab for Technological Literacy. For more information on the talk, contact &lt;a href=&quot;https://www.rit.edu/directory/sxjics-stephen-jacobs&quot;&gt;Stephen Jacobs&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 17 Apr 2013 00:00:00 -0400</pubDate>
+        <pubDate>Wed, 17 Apr 2013 00:00:00 +0000</pubDate>
         <link>https://fossrit.github.io/events/2013/04/17/walter-bender-book-signing/</link>
         <guid isPermaLink="true">https://fossrit.github.io/events/2013/04/17/walter-bender-book-signing/</guid>
         
