@@ -1,0 +1,60 @@
+---
+# https://circleci.com/docs/2.0/configuration-reference
+version: 2.1
+
+workflows:
+  main:
+    jobs:
+      - build
+      - deploy:
+          filters:
+            branches:
+              only: main
+          requires:
+            - build
+
+jobs:
+  build:
+    docker:
+      - image: cimg/ruby:2.7
+    steps:
+      - checkout
+
+      - restore_cache:
+          key: FOSSRIT-fossrit.github.io-ruby-{{ checksum "Gemfile.lock" }}
+      - run: bundle install
+      - save_cache:
+          key: FOSSRIT-fossrit.github.io-ruby-{{ checksum "Gemfile.lock" }}
+          paths:
+            - /home/circleci/.rubygems
+
+      - restore_cache:
+          key: FOSSRIT-fossrit.github.io-htmlproofer-{{ checksum "Gemfile.lock" }}
+      - run: bundle exec rake test
+      - save_cache:
+          key: FOSSRIT-fossrit.github.io-htmlproofer-{{ checksum "Gemfile.lock" }}
+          paths:
+            - tmp/.htmlproofer
+
+      - persist_to_workspace:
+          root: _site
+          paths:
+            - ./*
+  deploy:
+    docker:
+      - image: cibuilds/base:latest
+    steps:
+      # deploy.sh dependencies
+      - run: apk add rsync
+
+      # clone repo (required to access `.circleci/deploy.sh`)
+      - run: git clone https://github.com/FOSSRIT/fossrit.github.io.git
+
+      # checkout generated html
+      - attach_workspace:
+          at: _site
+
+      # deploy to production
+      - deploy:
+          name: Deploy to GitHub Pages
+          command: ./fossrit.github.io/.circleci/deploy.sh
