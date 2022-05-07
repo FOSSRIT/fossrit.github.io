@@ -1,0 +1,601 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Announcements | FOSS@RIT</title>
+
+        <meta name="google-site-verification" content="S1TGL46nruysWj0a2nw64L1D6MYxZj_QB4Ku4yrhkJU" />
+    <meta property="og:title" content="Announcements" />
+    <meta name="twitter:title" content="Announcements" />
+    <meta property="og:url" content="https://fossrit.github.io/announcements/" />
+    <meta property="og:site_name" content="Free and Open Source Software @ RIT" />
+    <meta name="application-name" content="Free and Open Source Software @ RIT" />
+    <meta name="twitter:site" content="@RITMAGIC" />
+    <meta name="twitter:card" content="summary_large_image" />
+    
+        <meta name="description" content="Center of gravity for Free and Open Source Software at the Rochester Institute of Technology. Learn about open source activities and academia at RIT.
+">
+        <meta property="og:description" content="Center of gravity for Free and Open Source Software at the Rochester Institute of Technology. Learn about open source activities and academia at RIT.
+">
+    
+    
+        <meta property="og:type" content="website" />
+    
+    
+        <meta property="og:image" content="https://fossrit.github.io/img/logo.png" />
+        <meta name="twitter:image" content="https://fossrit.github.io/img/logo.png" />
+    
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": "Free and Open Source Software @ RIT",
+        "alternateName": "FOSS@RIT",
+        "logo": "https://fossrit.github.io/img/logo.png",
+        "url": "https://fossrit.github.io",
+        "sameAs": [
+            "https://twitter.com/@RITMAGIC"
+        ],
+        "knowsAbout": [
+            "FOSS@MAGIC", "FOSSRIT", "RIT FOSS", "RIT MAGIC Center", "Rochester Institute of Technology", "Open@RIT", "open source", "Stephen Jacobs"
+
+        ],
+        "location": {
+            "@type": "Place",
+            "name": "Rochester Institute of Technology",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Henrietta",
+                "addressRegion": "NY"
+            }
+        }
+    }
+    </script>
+
+
+    <!-- favicon -->
+    <link rel="shortcut icon" href="/img/favicon.ico" />
+    <link rel="apple-touch-icon" href="/img/favicon.ico">
+
+    <link href="https://fonts.googleapis.com/css?family=Overpass|Roboto:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/styles.css" />
+</head>
+
+<body class="bg-light">
+
+        <header>
+        <nav class="navbar navbar-expand-lg navbar-light">
+            <a class="navbar-brand" href="/">
+                <img src="/img/logo.png" alt="Home" class="d-inline-block align-top" style="width:225px;" />
+            </a>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                
+                    
+                        
+                        <li class="nav-item">
+                        
+                            <a class="nav-link" href="/">Home</a>
+                        </li>
+                    
+                
+                    
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                
+                                <a class="dropdown-item" href="/about/">About</a>
+                                
+                                <a class="dropdown-item" href="/librecorps/">LibreCorps</a>
+                                
+                                <a class="dropdown-item" href="/open-rit/">Open@RIT</a>
+                                
+                                <a class="dropdown-item" href="/events/">Events</a>
+                                
+                                <a class="dropdown-item" href="/projects/">Projects</a>
+                                
+                            </div>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="nav-item active">
+                        
+                            <a class="nav-link" href="/announcements/">Announcements</a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="nav-item">
+                        
+                            <a class="nav-link" href="/calendar/">Calendar</a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="nav-item">
+                        
+                            <a class="nav-link" href="/people/">People</a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="nav-item">
+                        
+                            <a class="nav-link" href="/get-involved/">Get Involved</a>
+                        </li>
+                    
+                
+                </ul>
+            </div>
+        </nav>
+
+        <a href="https://github.com/FOSSRIT/fossrit.github.io" class="d-none d-lg-block">
+            <img style="z-index: 10; position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/652c5b9acfaddf3a9c326fa6bde407b87f7be0f4/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6f72616e67655f6666373630302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_orange_ff7600.png">
+        </a>
+      </header>
+
+
+    <main>
+        <div class="container">
+    <h1>Announcements <a href="/feeds/latest.xml"><i class="fas fa-rss-square icon-orange"></i></a></h1>
+    
+    <article class="card">
+        <div class="card-body">
+            <h2>Summer FOSS Hours: Every other Thursday at 5pm ET</h2>
+            <p><em>28 April 2020</em></p>
+            
+            
+            
+            
+                <p>Hey RIT FOSS fam!
+Due to expressed interest, there will be <strong>virtual FOSS Hours in Jitsi Meet every other Thursday from 5pm to 6pm US ET</strong>.
+This is a continuation of the <a href="/announcements/2020/03/18/virtual-foss-hours/">Virtual FOSS Hours</a> launched this semester.
+                </p>
+            
+                
+
+<h2 id="dates">Dates</h2>
+
+<p><em>Check out the <a href="/calendar/">FOSS@RIT Calendar</a> or <a href="/feeds/calendar.ics">subscribe to the iCal calendar</a> for latest events.</em>
+                </p>
+            
+            <a class="btn btn-primary btn-block" href="/announcements/2020/04/28/summer-foss-hours/">Continue Reading</a>
+        </div>
+    </article>
+    
+    <article class="card">
+        <div class="card-body">
+            <h2>Virtual FOSS Hours: Thursdays 5pm-6pm US EDT</h2>
+            <p><em>18 March 2020</em></p>
+            
+            
+            
+            
+                <p>Hey FOSS folks.
+Quarantine got you down?
+In proper open source spirit, FOSS@MAGIC will host <strong>virtual FOSS Hours</strong> every Thursday, from 5pm - 6pm on <a href="https://jitsi.org">Jitsi</a>.
+Our first virtual FOSS Hours will take place on Thursday, 26 March 2020.
+                </p>
+            
+                
+
+<h2 id="about-jitsi-meet">About Jitsi Meet</h2>
+
+<p>To pull straight from the <a href="https://jitsi.org/jitsi-meet/">Jitsi website</a>:
+                </p>
+            
+            <a class="btn btn-primary btn-block" href="/announcements/2020/03/18/virtual-foss-hours/">Continue Reading</a>
+        </div>
+    </article>
+    
+    <article class="card">
+        <div class="card-body">
+            <h2>CANCELED: Imagine RIT 2020: Call for projects</h2>
+            <p><em>11 March 2020</em></p>
+            
+            
+            
+            
+                <p>Unfortunately, <a href="https://twitter.com/Imagine_RIT/status/1239558520984547328">Imagine RIT 2020 was canceled</a>.
+We hope to see you next at <a href="https://rochester.makerfaire.com/">Maker Faire Rochester</a> in November 2020!
+                </p>
+            
+                
+
+<hr />
+
+<p>Greetings!
+Are you working on an open source software or hardware project?
+Come present it with FOSS@MAGIC at Imagine RIT 2020!
+<a href="https://forms.gle/812vsQ65xHb3qBDP6"><strong>Fill out this form to submit your project to FOSS@MAGIC’s Imagine RIT 2020 booth.</strong></a>
+Priority is given to projects submitted by Saturday, March 14th, 2020.
+                </p>
+            
+            <a class="btn btn-primary btn-block" href="/announcements/2020/03/11/call-for-imagine-2020-projects/">Continue Reading</a>
+        </div>
+    </article>
+    
+    <article class="card">
+        <div class="card-body">
+            <h2>Call for Volunteers: Spring 2020</h2>
+            <p><em>17 December 2019</em></p>
+            
+            
+            
+            
+                <p>Hi FOSS folks!
+We are looking for volunteers from the RIT community!
+If you are interested in volunteering with FOSS@MAGIC in the Spring 2020 semester (and at your option, beyond), please fill out this form:
+                </p>
+            
+                
+
+<p><a href="https://forms.gle/iT62o4ZiVFM8oAB66"><strong>FOSS@MAGIC Spring 2020 volunteer sign-up</strong></a>
+                </p>
+            
+            <a class="btn btn-primary btn-block" href="/announcements/2019/12/17/spring-2020-volunteers/">Continue Reading</a>
+        </div>
+    </article>
+    
+    <article class="card">
+        <div class="card-body">
+            <h2>Volunteer with FOSS at Rochester Maker Faire 2019</h2>
+            <p><em>03 October 2019</em></p>
+            
+            
+            
+            
+                <p>Hi FOSS folks!
+                </p>
+            
+                
+
+<p>Interested in coming to the Rochester Maker Faire with FOSS@MAGIC?
+<strong>Please fill out the <a href="https://forms.gle/HNzJEjeLA31wm9Mk7">submission form</a>.</strong>
+                </p>
+            
+            <a class="btn btn-primary btn-block" href="/announcements/2019/10/03/rochester-maker-faire/">Continue Reading</a>
+        </div>
+    </article>
+    
+    <article class="card">
+        <div class="card-body">
+            <h2>FOSS Hours are back: Thursdays 5pm-7pm @ MSS-3190</h2>
+            <p><em>19 August 2019</em></p>
+            
+            
+            
+            
+                <p>Hi FOSS folks!
+FOSS Hours are back for the Fall 2019 semester on <strong>Thursdays from 5:00pm until 7:00pm</strong>.
+Find us in the MAGIC Spell Studios building in MSS-3190 (second floor conference room).
+The first FOSS Hours of the semester is <strong>Thursday, September 5th, 2019</strong>.
+Pizza is included!
+                </p>
+            
+                
+
+<h2 id="what-are-foss-hours">What are FOSS Hours?</h2>
+
+<p>Want to meet other students, faculty, and staff interested in free and open source software at RIT?
+FOSS Hours is an informal time for the FOSS community at RIT to gather.
+Come to see what other people are working on, share what things you’re working on, or take some time to get caught up on homework or other project work.
+You can stay for as short or for as long as you like.
+No RSVP is necessary.
+                </p>
+            
+            <a class="btn btn-primary btn-block" href="/announcements/2019/08/19/foss-hours-2191/">Continue Reading</a>
+        </div>
+    </article>
+    
+    <article class="card">
+        <div class="card-body">
+            <h2>Call for Proposals The Future is Open 2019</h2>
+            <p><em>21 May 2019</em></p>
+            
+            
+            
+            
+                <p>FOSS@MAGIC is proud to announce the debut of the first-ever <strong>The Future is Open</strong> mini-conference.
+<strong>The Future is Open</strong> is a one-day event to engage the wider RIT community with open source opportunities, projects, and research happening on campus.
+We invite alumni, friends of the program, and those interested in learning about a variety of open source projects and programs created on RIT’s campus to join current students, faculty, and staff for the event.
+                </p>
+            
+                
+
+<p><strong><a href="https://forms.gle/563vz3qZAgMXRJNk9">A call for proposals (CfP) is now open</a>.</strong>
+All backgrounds are encouraged and welcomed. We hope for the content of our talks not only cover software development but many topics beyond.
+                </p>
+            
+            <a class="btn btn-primary btn-block" href="/announcements/2019/05/21/cfp-announcement/">Continue Reading</a>
+        </div>
+    </article>
+    
+    <article class="card">
+        <div class="card-body">
+            <h2>Find FOSS@MAGIC at Imagine RIT 2019 in MAGIC Spell Studios</h2>
+            <p><em>16 April 2019</em></p>
+            
+            
+            
+            
+                <p>FOSS@MAGIC is proud to be an exhibitor at this year’s <a href="https://www.rit.edu/imagine/">Imagine RIT</a> Creativity and Innovation Center on April 27th, 2019.
+This year, FOSS@MAGIC will <a href="https://www.rit.edu/imagine/planyourday/exhibit.php?id=985">exhibit student projects and build awareness</a> of our initiative and program in the RIT and Rochester communities.
+<a href="https://meritpages.com/Hunaina-Abid-/4589539">Hunaina Abid</a>, <a href="https://blog.justinwflory.com/about-me/">Justin W. Flory</a>, <a href="https://www.linkedin.com/in/nathaniel-larrimore/">Nathaniel Larrimore</a>, and <a href="https://www.linkedin.com/in/wilfried-hounyo-22434356/">Wilfried Hounyo</a> are participating as student representatives and exhibitors with the support of <a href="https://www.rit.edu/magic/affiliate-spotlight-stephen-jacobs">Prof. Stephen Jacobs</a> and <a href="https://www.linkedin.com/in/deejoe/">Dr. Joe Anderson</a>.
+                </p>
+            
+                
+
+<h2 id="meet-our-projects">Meet our projects</h2>
+
+<p>Three projects are presented at our booth this year:
+                </p>
+            
+            <a class="btn btn-primary btn-block" href="/announcements/2019/04/16/imagine-rit/">Continue Reading</a>
+        </div>
+    </article>
+    
+    <article class="card">
+        <div class="card-body">
+            <h2>Partnering with UNICEF to build humanitarian open source communities</h2>
+            <p><em>01 April 2019</em></p>
+            
+            
+            
+            
+                <p>On Monday, April 1st, 2019, <a href="https://www.rit.edu/gccis/stephen-jacobs">Prof. Stephen Jacobs</a> and <a href="https://justinwflory.com/">Justin W. Flory</a> met with the next cohort of international humanitarian start-ups funded by the <a href="https://unicefinnovationfund.org/">UNICEF Innovation Fund</a>.
+This <a href="https://blogs.unicef.org/innovation/rits-partnership-with-the-kosovo-innovation-lab/" title="RIT’s partnership with the Kosovo Innovation Lab">continues the partnership</a> between FOSS@MAGIC and the <a href="https://www.unicef.org/innovation/">UNICEF Office of Innovation</a> started in 2012.
+Jacobs and Flory worked with UNICEF fund managers to support the next round of funded companies to build open source communities around their humanitarian products.
+                </p>
+            
+                
+
+<h2 id="about-the-unicef-innovation-fund">About the UNICEF Innovation Fund</h2>
+
+<p>The <a href="https://unicefinnovationfund.org/">UNICEF Innovation Fund</a> is an investment fund for humanitarian projects that address the needs of vulnerable children.
+To receive funding, companies must release some or all components of their product as free and open source software.
+This aligns to one of the <a href="https://digitalprinciples.org/">Principles for Digital Development</a> followed by UNICEF: <a href="https://digitalprinciples.org/principle/use-open-standards-open-data-open-source-and-open-innovation/"><strong>Use Open Standards, Open Data, Open Source, and Open Innovation</strong></a>.
+                </p>
+            
+            <a class="btn btn-primary btn-block" href="/announcements/2019/04/01/unicef-foss-community-building/">Continue Reading</a>
+        </div>
+    </article>
+    
+    <article class="card">
+        <div class="card-body">
+            <h2>Open Source Round Table at the Game Developers Conference in San Francisco</h2>
+            <p><em>20 February 2019</em></p>
+            
+            
+            
+            
+                <p>Over the past several years, there has been a greater willingness within the game industry to use open source technologies and/or put their own proprietary tech under a wide variety of fully or semi-open licenses.
+There are also more independents working with open game engines like Godot.
+                </p>
+            
+                
+
+<p>This past fall, the <a href="https://en.wikipedia.org/wiki/Academy_of_Motion_Picture_Arts_and_Sciences">Academy for Motion Picture Arts and Sciences</a> joined forces with the <a href="https://www.linuxfoundation.org/">Linux Foundation</a> to create the <a href="https://www.aswf.io/">Academy Software Foundation</a> to “provide a ‘neutral’ space for artists, engineers and developers to share work and collaborate on projects, thereby increasing both the quality and quantity of open source tools.”
+The companies currently signed on are, by a wide majority, film industry companies.
+There are a few game industry companies currently engaged and the language on the website alludes to this foundation covering multimedia and games as well.
+                </p>
+            
+            <a class="btn btn-primary btn-block" href="/announcements/2019/02/20/open-source-roundtable-gdc/">Continue Reading</a>
+        </div>
+    </article>
+    
+    <article class="card">
+        <div class="card-body">
+            <h2>FOSS Hours are back: Wednesdays 5pm-7pm @ MSS-3190</h2>
+            <p><em>14 January 2019</em></p>
+            
+            
+            
+            
+                <p>Hi FOSS fans!
+FOSS Hours are back for the Spring 2019 semester on <strong>Wednesdays from 5:00pm until 7:00pm</strong>.
+Note the date change for this semester.
+Find us in the new MAGIC Spell Studios building in MSS-3190 (second floor conference room).
+                </p>
+            
+                
+
+<h2 id="what-are-foss-hours">What are FOSS Hours?</h2>
+
+<p>Want to meet other students, faculty, and staff interested in free and open source software at RIT?
+FOSS Hours is an informal time for the FOSS community at RIT to gather.
+Come to see what other people are working on, share what things you’re working on, or take some time to get caught up on homework or other project work.
+You can stay for as short or for as long as you like.
+No RSVP is necessary.
+                </p>
+            
+            <a class="btn btn-primary btn-block" href="/announcements/2019/01/14/foss-hours-2185/">Continue Reading</a>
+        </div>
+    </article>
+    
+    <article class="card">
+        <div class="card-body">
+            <h2>FOSSRIT infrastructure: Get help and make requests</h2>
+            <p><em>07 January 2019</em></p>
+            
+            
+            
+            
+                <p>Today, the <a href="https://github.com/FOSSRIT/infrastructure">FOSSRIT/infrastructure</a> repository now has ticket templates to help the FOSS@MAGIC community with infrastructure needs.
+There are four types of tickets to open:
+                </p>
+            
+                
+
+<ol>
+  <li><strong>Service disruption</strong>: Something is offline or not working</li>
+  <li><strong>Infrastructure request</strong>: Request a new web app or computing resources for projects</li>
+  <li><strong>General enhancement / improvement</strong>: Could something be better? Tell us how.</li>
+  <li><strong>Other</strong>: Anything that doesn’t belong in previous categories</li>
+</ol>
+
+<p><a href="https://github.com/FOSSRIT/infrastructure/issues/new/choose"><img src="/img/announcements/2019/01/01-ticket-types.png" alt="Screenshot of new ticket types to open" title="Screenshot of new ticket types to open" /></a>
+                </p>
+            
+            <a class="btn btn-primary btn-block" href="/announcements/2019/01/07/infrastructure-issue-templates/">Continue Reading</a>
+        </div>
+    </article>
+    
+    <article class="card">
+        <div class="card-body">
+            <h2>Welcome to our new website</h2>
+            <p><em>13 November 2018</em></p>
+            
+            
+            
+            
+                <p>Hello, and welcome to the new FOSS@MAGIC GitHub Pages website!
+As we work on building up our online presence again, more info will be shared here across the semester.
+Stay tuned for more information.
+                </p>
+            
+                
+
+<p>Cheers,
+                </p>
+            
+            <a class="btn btn-primary btn-block" href="/announcements/2018/11/13/welcome/">Continue Reading</a>
+        </div>
+    </article>
+    
+    <a class="btn btn-primary btn-block" href="/announcements" style="margin-bottom:1.2em;">View Older</a>
+</div>
+
+    </main>
+
+    <footer class="container-fluid bg-dark">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-4 col-lg-3">
+                <p><strong>Navigate</strong></p>
+                <ul>
+                    <!-- site navigation tabs -->
+                    
+                    <li>
+                        <a href="/">Home</a>
+                    </li>
+                    
+                    <li>
+                        <a href="">About</a>
+                    </li>
+                    
+                    <li>
+                        <a href="/announcements/">Announcements</a>
+                    </li>
+                    
+                    <li>
+                        <a href="/calendar/">Calendar</a>
+                    </li>
+                    
+                    <li>
+                        <a href="/people/">People</a>
+                    </li>
+                    
+                    <li>
+                        <a href="/get-involved/">Get Involved</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <div class="col-12 col-md-4 col-lg-3">
+                <p><strong>RIT</strong></p>
+                <ul>
+                    <!-- RIT footer links -->
+                    
+                    <li>
+                        <a href="https://www.rit.edu">University Website</a>
+                    </li>
+                    
+                    <li>
+                        <a href="https://runbook.fossrit.community/">FOSS@RIT Runbook</a>
+                    </li>
+                    
+                    <li>
+                        <a href="https://people.rit.edu/djaigm/planet/hfoss/">HFOSS student blog aggregator</a>
+                    </li>
+                    
+                    <li>
+                        <a href="https://magic.rit.edu/">RIT MAGIC Center</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <div class="col-12 col-md-4 col-lg-3">
+                <p><strong>Linux Resources</strong></p>
+                <ul>
+                    <!-- linux resources -->
+                    
+                    <li>
+                        <a href="https://wiki.archlinux.org">ArchWiki</a>
+                    </li>
+                    
+                    <li>
+                        <a href="https://kernelnewbies.org">Kernel Newbies</a>
+                    </li>
+                    
+                    <li>
+                        <a href="https://reddit.com/r/linux">Linux Subreddit</a>
+                    </li>
+                    
+                    <li>
+                        <a href="https://distrowatch.org">DistroWatch</a>
+                    </li>
+                    
+                    <li>
+                        <a href="https://mirrors.rit.edu">RIT Linux Mirror</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <div class="col-12 col-md-4 col-lg-3">
+                <p><strong>Feeds</strong></p>
+                <ul>
+                    <!-- feeds -->
+                    
+                    <li>
+                        <a href="/feeds/latest.xml">Announcements</a>
+                    </li>
+                    
+                    <li>
+                        <a href="/feeds/events.xml">Events</a>
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <p>
+                    <strong>Site Information:</strong><br />
+                    Source code for this website is found <a href="https://github.com/FOSSRIT/fossrit.github.io" target="_blank">on GitHub</a>. Original design by <a href="https://ctmartin.me/" target="_blank">Christian Martin</a> for <a href="https://ritlug.com/" target="_blank">ritlug.com</a>.
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
+</body>
+</html>

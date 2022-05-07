@@ -1,0 +1,279 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Free and Open Source Software @ RIT//https://fossrit.github.io//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:https://fossrit.github.io/meetings-meetups/2020/08/27/foss-hours/
+DTSTAMP:20200827T000000Z
+DTSTART;TZID=America/New_York:20200827T170000
+DTEND;TZID=America/New_York:20200827T180000
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20201119T190000
+ORGANIZER;CN="Free and Open Source Software @ RIT":MAILTO:sj@magic.rit.edu
+SUMMARY:Virtual FOSS Hours
+DESCRIPTION:Come meet other students and faculty involved with FOSS efforts at RIT! Room password is “foss”.
+CLASS:PUBLIC
+LOCATION:https://meet.jit.si/rit-foss-hours
+URL:https://meet.jit.si/rit-foss-hours
+CATEGORIES:FOSS@RIT,Free and Open Source Software @ RIT,MEETINGS-MEETUPS
+END:VEVENT
+BEGIN:VEVENT
+UID:https://fossrit.github.io/meetings-meetups/2020/06/05/calls-for-justice/
+DTSTAMP:20200605T000000Z
+DTSTART;TZID=America/New_York:20200605T190000
+DTEND;TZID=America/New_York:20200605T200000
+ORGANIZER;CN="Free and Open Source Software @ RIT":MAILTO:sj@magic.rit.edu
+SUMMARY:RIT Calls for Justice
+DESCRIPTION:RIT is hosting an online interfaith vigil titled “Calls for Justice at RIT” at 7 p.m. on Friday, June 5, in response to the killing of George Floyd and the subsequent demonstrations against the systemic racism and police brutality that continue to affect black and brown people across the U.S.  “The purpose of the event is to move the audience toward a feeling of connectedness, provide some level small level of comfort, and give them resources to cope with and respond to the situation,” said Monica Sanford, assistant director for spirituality and religious life and the event’s organizer. “We acknowledge the situation that is affecting the members of our community so deeply. We see them and hear them.”  The event will feature remarks from RIT students, faculty, staff and alumni. Confirmed speakers for the event include:     Michael Laver, associate dean of the College of Liberal Arts   Brandon “BL” Ruiz-Williams, NTID Student Life team coordinator   SM Huq ’20 (microelectronic engineering), former president of the Muslim Student Association   André Hudson, head of the Thomas H. Gosnell School of Life Sciences   The event is open to all members of the RIT community. To participate in the event, register via CampusGroups. Interpreters have been requested.
+CLASS:PUBLIC
+LOCATION:Zoom (shared via CampusGroups RSVP)
+URL:https://www.rit.edu/news/rit-will-host-calls-justice-vigil-zoom-friday
+CATEGORIES:FOSS@RIT,Free and Open Source Software @ RIT,MEETINGS-MEETUPS
+END:VEVENT
+BEGIN:VEVENT
+UID:https://fossrit.github.io/meetings-meetups/2020/05/07/summer-foss-hours/
+DTSTAMP:20200507T000000Z
+DTSTART;TZID=America/New_York:20200507T170000
+DTEND;TZID=America/New_York:20200507T180000
+RRULE:FREQ=WEEKLY;INTERVAL=2;UNTIL=20200820T190000
+ORGANIZER;CN="Free and Open Source Software @ RIT":MAILTO:sj@magic.rit.edu
+SUMMARY:Virtual FOSS Hours
+DESCRIPTION:Come meet other students and faculty involved with FOSS efforts at RIT! Room password is “foss”.
+CLASS:PUBLIC
+LOCATION:https://meet.jit.si/rit-foss-hours
+URL:https://meet.jit.si/rit-foss-hours
+CATEGORIES:FOSS@RIT,Free and Open Source Software @ RIT,MEETINGS-MEETUPS
+END:VEVENT
+BEGIN:VEVENT
+UID:https://fossrit.github.io/meetings-meetups/2020/03/26/virtual-foss-hours/
+DTSTAMP:20200326T000000Z
+DTSTART;TZID=America/New_York:20200326T170000
+DTEND;TZID=America/New_York:20200326T180000
+RRULE:FREQ=WEEKLY;UNTIL=20200423T190000
+ORGANIZER;CN="Free and Open Source Software @ RIT":MAILTO:sj@magic.rit.edu
+SUMMARY:FOSS Hours
+DESCRIPTION:Come meet other students and faculty involved with FOSS efforts at RIT! Room password is “foss”.
+CLASS:PUBLIC
+LOCATION:https://meet.jit.si/rit-foss-hours
+URL:https://meet.jit.si/rit-foss-hours
+CATEGORIES:FOSS@RIT,Free and Open Source Software @ RIT,MEETINGS-MEETUPS
+END:VEVENT
+BEGIN:VEVENT
+UID:https://fossrit.github.io/meetings-meetups/2020/01/16/foss-hours/
+DTSTAMP:20200116T000000Z
+DTSTART;TZID=America/New_York:20200116T170000
+DTEND;TZID=America/New_York:20200116T190000
+RRULE:FREQ=WEEKLY;UNTIL=20200305T190000
+ORGANIZER;CN="Free and Open Source Software @ RIT":MAILTO:sj@magic.rit.edu
+SUMMARY:FOSS Hours
+DESCRIPTION:Come meet other students and faculty involved with FOSS efforts at RIT!
+CLASS:PUBLIC
+LOCATION:MSS-3190
+URL:https://fossrit.github.io/
+CATEGORIES:FOSS@RIT,Free and Open Source Software @ RIT,MEETINGS-MEETUPS
+END:VEVENT
+BEGIN:VEVENT
+UID:https://fossrit.github.io/events/2019/11/05/election-night-hackathon/
+DTSTAMP:20191105T000000Z
+DTSTART:20191105
+DTEND:20191105
+ORGANIZER;CN="Free and Open Source Software @ RIT":MAILTO:sj@magic.rit.edu
+SUMMARY:Election Night Hackathon 2019
+DESCRIPTION:Help transcribe suffragist papers or hack on other project during Election Night.
+CLASS:PUBLIC
+URL:https://fossrit.github.io/events/2019/11/05/election-night-hackathon/
+CATEGORIES:FOSS@RIT,Free and Open Source Software @ RIT,EVENTS
+END:VEVENT
+BEGIN:VEVENT
+UID:https://fossrit.github.io/events/2019/10/26/the-future-is-open/
+DTSTAMP:20191026T000000Z
+DTSTART:20191026
+DTEND:20191026
+ORGANIZER;CN="Free and Open Source Software @ RIT":MAILTO:sj@magic.rit.edu
+SUMMARY:The Future is Open 2019
+DESCRIPTION:Join the RIT community on Saturday, Oct. 26th at MAGIC Spell Studios to discover free and open source software and culture in Rochester.
+CLASS:PUBLIC
+URL:https://fossrit.github.io/events/2019/10/26/the-future-is-open/
+CATEGORIES:FOSS@RIT,Free and Open Source Software @ RIT,EVENTS
+END:VEVENT
+BEGIN:VEVENT
+UID:https://fossrit.github.io/events/2018/11/06/election-night-hackathon/
+DTSTAMP:20181106T000000Z
+DTSTART:20181106
+DTEND:20181106
+ORGANIZER;CN="Free and Open Source Software @ RIT":MAILTO:sj@magic.rit.edu
+SUMMARY:Election Night Hackathon 2018
+DESCRIPTION:Students and faculty collaborated and worked on projects during the 2018 US midterm elections.
+CLASS:PUBLIC
+URL:https://fossrit.github.io/events/2018/11/06/election-night-hackathon/
+CATEGORIES:FOSS@RIT,Free and Open Source Software @ RIT,EVENTS
+END:VEVENT
+BEGIN:VEVENT
+UID:https://fossrit.github.io/events/2017/05/10/oscon/
+DTSTAMP:20170510T000000Z
+DTSTART:20170510
+DTEND:20170510
+ORGANIZER;CN="Free and Open Source Software @ RIT":MAILTO:sj@magic.rit.edu
+SUMMARY:O'Reilly Open Source Convention (OSCON) 2017
+DESCRIPTION:FOSS@MAGIC students and faculty exhibiting at O'Reilly's Open Source Convention (OSCON) in 2016 and 2017.
+CLASS:PUBLIC
+URL:https://fossrit.github.io/events/2017/05/10/oscon/
+CATEGORIES:FOSS@RIT,Free and Open Source Software @ RIT,EVENTS
+END:VEVENT
+BEGIN:VEVENT
+UID:https://fossrit.github.io/events/2016/04/23/space-apps-hackathon/
+DTSTAMP:20160423T000000Z
+DTSTART:20160423
+DTEND:20160423
+ORGANIZER;CN="Free and Open Source Software @ RIT":MAILTO:sj@magic.rit.edu
+SUMMARY:NASA Space Apps Challenge 2016
+DESCRIPTION:Two-day challenge designed to create solutions to space-themed, interdisciplinary problems using open-source software.
+CLASS:PUBLIC
+URL:https://fossrit.github.io/events/2016/04/23/space-apps-hackathon/
+CATEGORIES:FOSS@RIT,Free and Open Source Software @ RIT,EVENTS
+END:VEVENT
+BEGIN:VEVENT
+UID:https://fossrit.github.io/events/2016/03/05/brickhack/
+DTSTAMP:20160305T000000Z
+DTSTART:20160305
+DTEND:20160305
+ORGANIZER;CN="Free and Open Source Software @ RIT":MAILTO:sj@magic.rit.edu
+SUMMARY:BrickHack 2016
+DESCRIPTION:BrickHack 2016 was a weekend devoted to 400 designers and coders sinking 24 hours into learning, building, and creating unique projects, including a Best in FOSS category
+CLASS:PUBLIC
+URL:https://fossrit.github.io/events/2016/03/05/brickhack/
+CATEGORIES:FOSS@RIT,Free and Open Source Software @ RIT,EVENTS
+END:VEVENT
+BEGIN:VEVENT
+UID:https://fossrit.github.io/events/2015/09/19/software-freedom-day/
+DTSTAMP:20150919T000000Z
+DTSTART:20150919
+DTEND:20150919
+ORGANIZER;CN="Free and Open Source Software @ RIT":MAILTO:sj@magic.rit.edu
+SUMMARY:Software Freedom Day 2015
+DESCRIPTION:Join the RIT FOSS community for a Celebration of Software Freedom! There will be hacking, installfests, food, prizes, and more.
+CLASS:PUBLIC
+URL:https://fossrit.github.io/events/2015/09/19/software-freedom-day/
+CATEGORIES:FOSS@RIT,Free and Open Source Software @ RIT,EVENTS
+END:VEVENT
+BEGIN:VEVENT
+UID:https://fossrit.github.io/events/2013/09/21/software-freedom-day/
+DTSTAMP:20130921T000000Z
+DTSTART:20130921
+DTEND:20130921
+ORGANIZER;CN="Free and Open Source Software @ RIT":MAILTO:sj@magic.rit.edu
+SUMMARY:Software Freedom Day 2013
+DESCRIPTION:Join local FOSS Community folks for a Celebration of Software Freedom! There will be hacking, installfests, food, design contests, prizes, and more.
+CLASS:PUBLIC
+URL:https://fossrit.github.io/events/2013/09/21/software-freedom-day/
+CATEGORIES:FOSS@RIT,Free and Open Source Software @ RIT,EVENTS
+END:VEVENT
+BEGIN:VEVENT
+UID:https://fossrit.github.io/events/2013/07/23/white-house-champions-change/
+DTSTAMP:20130723T000000Z
+DTSTART:20130723
+DTEND:20130723
+ORGANIZER;CN="Free and Open Source Software @ RIT":MAILTO:sj@magic.rit.edu
+SUMMARY:White House Champions of Change
+DESCRIPTION:Student-led project entitled “Sky Time” selected for inclusion in the White House Champions of Change event on July 23rd, 2013 in Washington, D.C.
+CLASS:PUBLIC
+URL:https://fossrit.github.io/events/2013/07/23/white-house-champions-change/
+CATEGORIES:FOSS@RIT,Free and Open Source Software @ RIT,EVENTS
+END:VEVENT
+BEGIN:VEVENT
+UID:https://fossrit.github.io/events/2013/04/17/walter-bender-book-signing/
+DTSTAMP:20130417T000000Z
+DTSTART:20130417
+DTEND:20130417
+ORGANIZER;CN="Free and Open Source Software @ RIT":MAILTO:sj@magic.rit.edu
+SUMMARY:Walter Bender Book Signing
+DESCRIPTION:RIT to host Reading and Book Signing with Walter Bender, Executive Director of SugarLabs and Co-Founder of One Laptop Per Child
+CLASS:PUBLIC
+URL:https://fossrit.github.io/events/2013/04/17/walter-bender-book-signing/
+CATEGORIES:FOSS@RIT,Free and Open Source Software @ RIT,EVENTS
+END:VEVENT
+BEGIN:VEVENT
+UID:https://fossrit.github.io/events/2012/12/01/random-hacks-kindness-hackathon/
+DTSTAMP:20121201T000000Z
+DTSTART:20121201
+DTEND:20121201
+ORGANIZER;CN="Free and Open Source Software @ RIT":MAILTO:sj@magic.rit.edu
+SUMMARY:Random Hacks of Kindness Global Hackathon - Rochester
+DESCRIPTION:Over 5,500 innovators in over 30 countries making the world a better place by developing practical, open source technology solutions to the most complex challenges facing humanity
+CLASS:PUBLIC
+URL:https://fossrit.github.io/events/2012/12/01/random-hacks-kindness-hackathon/
+CATEGORIES:FOSS@RIT,Free and Open Source Software @ RIT,EVENTS
+END:VEVENT
+BEGIN:VEVENT
+UID:https://fossrit.github.io/events/2011/10/22/csh-olpc-fundraiser-tournament/
+DTSTAMP:20111022T000000Z
+DTSTART:20111022
+DTEND:20111022
+ORGANIZER;CN="Free and Open Source Software @ RIT":MAILTO:sj@magic.rit.edu
+SUMMARY:CSH Charity Fundraiser for OLPC - Super Smash Bros. 64 Tournament
+DESCRIPTION:Super Smash Bros. 64 charity fundraiser for One Laptop per Child Foundation, hosted by Computer Science House and FOSS@RIT
+CLASS:PUBLIC
+URL:https://fossrit.github.io/events/2011/10/22/csh-olpc-fundraiser-tournament/
+CATEGORIES:FOSS@RIT,Free and Open Source Software @ RIT,EVENTS
+END:VEVENT
+BEGIN:VEVENT
+UID:https://fossrit.github.io/events/2011/07/12/syracuse-student-sandbox-hackathon/
+DTSTAMP:20110712T000000Z
+DTSTART:20110712
+DTEND:20110712
+ORGANIZER;CN="Free and Open Source Software @ RIT":MAILTO:sj@magic.rit.edu
+SUMMARY:FOSS@RIT & SU Student Sandbox Hackathon
+DESCRIPTION:FOSS@RIT co-hosts a hackathon with our Neighbors to the East from the SU Student Sandbox - a student business and start-up incubator run out of Syracuse University
+CLASS:PUBLIC
+URL:https://fossrit.github.io/events/2011/07/12/syracuse-student-sandbox-hackathon/
+CATEGORIES:FOSS@RIT,Free and Open Source Software @ RIT,EVENTS
+END:VEVENT
+BEGIN:VEVENT
+UID:https://fossrit.github.io/events/2011/05/19/breakfast-send-off/
+DTSTAMP:20110519T000000Z
+DTSTART:20110519
+DTEND:20110519
+ORGANIZER;CN="Free and Open Source Software @ RIT":MAILTO:sj@magic.rit.edu
+SUMMARY:FOSS@RIT Breakfast Send-off
+DESCRIPTION:Justin Lewis, the cornerstone of the FOSSBox for the last 2 years is leaving RIT. We're having a little breakfast in his honor.
+CLASS:PUBLIC
+URL:https://fossrit.github.io/events/2011/05/19/breakfast-send-off/
+CATEGORIES:FOSS@RIT,Free and Open Source Software @ RIT,EVENTS
+END:VEVENT
+BEGIN:VEVENT
+UID:https://fossrit.github.io/events/2011/04/23/linux-installfest/
+DTSTAMP:20110423T000000Z
+DTSTART:20110423
+DTEND:20110423
+ORGANIZER;CN="Free and Open Source Software @ RIT":MAILTO:sj@magic.rit.edu
+SUMMARY:Linux Installfest 2011
+DESCRIPTION:Local FOSS Rockstar CProfitt leads a day of linux installs and appreciation in the Center for Student Innovation
+CLASS:PUBLIC
+URL:https://fossrit.github.io/events/2011/04/23/linux-installfest/
+CATEGORIES:FOSS@RIT,Free and Open Source Software @ RIT,EVENTS
+END:VEVENT
+BEGIN:VEVENT
+UID:https://fossrit.github.io/events/2011/03/09/foss-spring-opportunities/
+DTSTAMP:20110309T000000Z
+DTSTART:20110309
+DTEND:20110309
+ORGANIZER;CN="Free and Open Source Software @ RIT":MAILTO:sj@magic.rit.edu
+SUMMARY:FOSS@RIT Spring Opportunities Meeting
+DESCRIPTION:Current, recent, and prospective students looking for spring-time opportunities invited to attend an information session about upcoming events, campaigns, and projects
+CLASS:PUBLIC
+URL:https://fossrit.github.io/events/2011/03/09/foss-spring-opportunities/
+CATEGORIES:FOSS@RIT,Free and Open Source Software @ RIT,EVENTS
+END:VEVENT
+BEGIN:VEVENT
+UID:https://fossrit.github.io/events/2010/11/04/election-night-hackathon/
+DTSTAMP:20101104T000000Z
+DTSTART:20101104
+DTEND:20101104
+ORGANIZER;CN="Free and Open Source Software @ RIT":MAILTO:sj@magic.rit.edu
+SUMMARY:Election Night Hackathon 2010
+DESCRIPTION:Inaugural Election Night Hackathon in 2010 at RIT, featuring the debut of the open source Monroe County live elections tracker by student Nathaniel Case
+CLASS:PUBLIC
+URL:https://fossrit.github.io/events/2010/11/04/election-night-hackathon/
+CATEGORIES:FOSS@RIT,Free and Open Source Software @ RIT,EVENTS
+END:VEVENT
+END:VCALENDAR

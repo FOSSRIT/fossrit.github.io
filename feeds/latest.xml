@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Free and Open Source Software @ RIT</title>
+    <description>RIT Linux Users Group Announcements</description>
+    <link>https://fossrit.github.io/</link>
+    <atom:link href="https://fossrit.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 07 May 2022 01:07:30 -0400</pubDate>
+    <lastBuildDate>Sat, 07 May 2022 01:07:30 -0400</lastBuildDate>
+    <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Summer FOSS Hours: Every other Thursday at 5pm ET</title>
+        <description>&lt;p&gt;Hey RIT FOSS fam!
+Due to expressed interest, there will be &lt;strong&gt;virtual FOSS Hours in Jitsi Meet every other Thursday from 5pm to 6pm US ET&lt;/strong&gt;.
+This is a continuation of the &lt;a href=&quot;/announcements/2020/03/18/virtual-foss-hours/&quot;&gt;Virtual FOSS Hours&lt;/a&gt; launched this semester.&lt;/p&gt;
+
+&lt;h2 id=&quot;dates&quot;&gt;Dates&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Check out the &lt;a href=&quot;/calendar/&quot;&gt;FOSS@RIT Calendar&lt;/a&gt; or &lt;a href=&quot;/feeds/calendar.ics&quot;&gt;subscribe to the iCal calendar&lt;/a&gt; for latest events.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;All days are Thursdays, in continuation of the past semester date and time.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;May 7, 21&lt;/li&gt;
+  &lt;li&gt;June 4, 18&lt;/li&gt;
+  &lt;li&gt;July 2, 16, 30&lt;/li&gt;
+  &lt;li&gt;August 13&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-to-connect&quot;&gt;How to connect&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Room: &lt;a href=&quot;https://meet.jit.si/rit-foss-hours&quot;&gt;&lt;strong&gt;meet.jit.si/rit-foss-hours&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Password: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;foss&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;PIN (phone only): 3094 6307 00#&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The recommended way to connect is from a web browser or mobile app.
+To join the room, open the link above, or enter the room name on any of the mobile apps (see below).&lt;/p&gt;
+
+&lt;p&gt;You can also dial in from a phone number.
+To join by phone instead, call &lt;a href=&quot;tel:+15124022718&quot;&gt;+1 (512) 402-2718&lt;/a&gt;.
+When prompted, enter the PIN (above) on your keypad to join the room.&lt;/p&gt;
+
+&lt;p&gt;Looking for an international dial-in number?
+See the full list of &lt;a href=&quot;https://meet.jit.si/static/dialInInfo.html?room=rit-foss-hours&quot;&gt;meeting dial-in numbers&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;download-jitsi-meet-on-mobile&quot;&gt;Download Jitsi Meet on mobile&lt;/h4&gt;
+
+&lt;p&gt;Jitsi Meet is available on iOS and Android below:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/jitsi-meet/id1165103905&quot;&gt;&lt;img src=&quot;https://335wvf48o1332cksy23mw1pj-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/appstore-badge-300x101.png&quot; alt=&quot;Download on the iOS App Store&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://play.google.com/store/apps/details?id=org.jitsi.meet&quot;&gt;&lt;img src=&quot;https://335wvf48o1332cksy23mw1pj-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/google-play-badge-300x89.png&quot; alt=&quot;Get it on Google Play&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://f-droid.org/en/packages/org.jitsi.meet/&quot;&gt;&lt;img src=&quot;https://335wvf48o1332cksy23mw1pj-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/f-droid-badge-300x89.png&quot; alt=&quot;Get it on F-Droid&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;see-you-soon&quot;&gt;See you soon!&lt;/h2&gt;
+
+&lt;p&gt;Thanks everyone who expressed interest in Virtual FOSS Hours this summer.
+I’m looking forward to greeting you all again at the end of a very eventful semester!
+Until then, stay happy and healthy.&lt;/p&gt;
+
+&lt;p&gt;— Justin &amp;amp; FOSS@MAGIC Team&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 Apr 2020 00:00:00 -0400</pubDate>
+        <link>https://fossrit.github.io/announcements/2020/04/28/summer-foss-hours/</link>
+        <guid isPermaLink="true">https://fossrit.github.io/announcements/2020/04/28/summer-foss-hours/</guid>
+        
+        
+        <category>announcements</category>
+        
+      </item>
+    
+      <item>
+        <title>Virtual FOSS Hours: Thursdays 5pm-6pm US EDT</title>
+        <description>&lt;p&gt;Hey FOSS folks.
+Quarantine got you down?
+In proper open source spirit, FOSS@MAGIC will host &lt;strong&gt;virtual FOSS Hours&lt;/strong&gt; every Thursday, from 5pm - 6pm on &lt;a href=&quot;https://jitsi.org&quot;&gt;Jitsi&lt;/a&gt;.
+Our first virtual FOSS Hours will take place on Thursday, 26 March 2020.&lt;/p&gt;
+
+&lt;h2 id=&quot;about-jitsi-meet&quot;&gt;About Jitsi Meet&lt;/h2&gt;
+
+&lt;p&gt;To pull straight from the &lt;a href=&quot;https://jitsi.org/jitsi-meet/&quot;&gt;Jitsi website&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;More secure, more flexible, and completely free video conferencing.&lt;/p&gt;
+
+  &lt;p&gt;Go ahead, video chat with the whole team.
+In fact, invite everyone you know.
+Jitsi Meet is a fully encrypted, 100% open source video conferencing solution that you can use all day, every day, for free — with no account needed.&lt;/p&gt;
+
+  &lt;p&gt;What else can you do with Jitsi Meet?&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Share your desktop, presentations, and more&lt;/li&gt;
+    &lt;li&gt;Invite users to a conference via a simple, custom URL&lt;/li&gt;
+    &lt;li&gt;Pick fun meeting URLs for every meeting&lt;/li&gt;
+    &lt;li&gt;Trade messages and emojis while you video conference, with integrated chat.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;FOSS@MAGIC staff will host and moderate a Jitsi Meet room every Thursday for the RIT open source community to gather and say hello.
+We encourage all to come and say hello as we get used to this new reality!&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-connect&quot;&gt;How to connect&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Room: &lt;a href=&quot;https://meet.jit.si/rit-foss-hours&quot;&gt;&lt;strong&gt;meet.jit.si/rit-foss-hours&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Password: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;foss&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;PIN (phone only): 3094 6307 00#&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The recommended way to connect is from a web browser or mobile app.
+To join the room, open the link above, or enter the room name on any of the mobile apps (see below).&lt;/p&gt;
+
+&lt;p&gt;You can also dial in from a phone number.
+To join by phone instead, call &lt;a href=&quot;tel:+15124022718&quot;&gt;+1 (512) 402-2718&lt;/a&gt;.
+When prompted, enter the PIN (above) on your keypad to join the room.&lt;/p&gt;
+
+&lt;p&gt;Looking for an international dial-in number?
+See the full list of &lt;a href=&quot;https://meet.jit.si/static/dialInInfo.html?room=rit-foss-hours&quot;&gt;meeting dial-in numbers&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;download-jitsi-meet-on-mobile&quot;&gt;Download Jitsi Meet on mobile&lt;/h4&gt;
+
+&lt;p&gt;Jitsi Meet is available on iOS and Android below:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/jitsi-meet/id1165103905&quot;&gt;&lt;img src=&quot;https://335wvf48o1332cksy23mw1pj-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/appstore-badge-300x101.png&quot; alt=&quot;Download on the iOS App Store&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://play.google.com/store/apps/details?id=org.jitsi.meet&quot;&gt;&lt;img src=&quot;https://335wvf48o1332cksy23mw1pj-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/google-play-badge-300x89.png&quot; alt=&quot;Get it on Google Play&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://f-droid.org/en/packages/org.jitsi.meet/&quot;&gt;&lt;img src=&quot;https://335wvf48o1332cksy23mw1pj-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/f-droid-badge-300x89.png&quot; alt=&quot;Get it on F-Droid&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;see-you-soon&quot;&gt;See you soon!&lt;/h2&gt;
+
+&lt;p&gt;This is a brave new world we are living in.
+While we ride the wave of this epidemic out, we hope you will join us for our weekly gathering in a virtual format.
+Until then, stay happy and healthy.&lt;/p&gt;
+
+&lt;p&gt;— Justin &amp;amp; FOSS@MAGIC Team&lt;/p&gt;
+</description>
+        <pubDate>Wed, 18 Mar 2020 00:00:00 -0400</pubDate>
+        <link>https://fossrit.github.io/announcements/2020/03/18/virtual-foss-hours/</link>
+        <guid isPermaLink="true">https://fossrit.github.io/announcements/2020/03/18/virtual-foss-hours/</guid>
+        
+        
+        <category>announcements</category>
+        
+      </item>
+    
+      <item>
+        <title>CANCELED: Imagine RIT 2020: Call for projects</title>
+        <description>&lt;p&gt;Unfortunately, &lt;a href=&quot;https://twitter.com/Imagine_RIT/status/1239558520984547328&quot;&gt;Imagine RIT 2020 was canceled&lt;/a&gt;.
+We hope to see you next at &lt;a href=&quot;https://rochester.makerfaire.com/&quot;&gt;Maker Faire Rochester&lt;/a&gt; in November 2020!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Greetings!
+Are you working on an open source software or hardware project?
+Come present it with FOSS@MAGIC at Imagine RIT 2020!
+&lt;a href=&quot;https://forms.gle/812vsQ65xHb3qBDP6&quot;&gt;&lt;strong&gt;Fill out this form to submit your project to FOSS@MAGIC’s Imagine RIT 2020 booth.&lt;/strong&gt;&lt;/a&gt;
+Priority is given to projects submitted by Saturday, March 14th, 2020.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-imagine-rit&quot;&gt;What is Imagine RIT?&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.rit.edu/imagine/&quot;&gt;Imagine RIT&lt;/a&gt; is an annual tradition at the university.
+It is best described on the Imagine website:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Imagine RIT: Creativity and Innovation Festival&lt;/em&gt; is a campus-wide event that showcases the creative and innovative spirit of RIT students, faculty, and staff.
+Visitors experience the breadth and depth of RIT through interactive presentations, hands-on demonstrations, exhibitions, and research projects set up throughout campus.
+Multiple performance stages with live music and entertainment are also a hit with visitors of all ages.
+Held annually each spring, Imagine RIT is the kickoff to Rochester’s rich festival season.&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;strong&gt;Date &amp;amp; Time&lt;/strong&gt;: Saturday, April 25, 2020, from 10am to 5pm, rain or shine.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Cost&lt;/strong&gt;: Free and open to the public!&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Location&lt;/strong&gt;: Imagine RIT takes place throughout RIT’s campus in Henrietta, NY&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The RIT MAGIC Center hosts a FOSS@MAGIC booth to exhibit open source work from students and faculty around campus.
+If you are working with open source, we want you to be a part of our booth!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://forms.gle/812vsQ65xHb3qBDP6&quot;&gt;&lt;strong&gt;Submit an open source project to the FOSS@MAGIC booth here.&lt;/strong&gt;&lt;/a&gt;
+Priority is given to projects submitted by Saturday, March 14th, 2020.&lt;/p&gt;
+
+&lt;h4 id=&quot;note-on-covid-19&quot;&gt;Note on COVID-19&lt;/h4&gt;
+
+&lt;p&gt;RIT is closely monitoring the outbreak of the 2019 Novel Coronavirus (COVID-19).
+The university [had] a dedicated COVID-19 page with information from the administration about its impact on RIT and the community.
+At the time of writing, Imagine RIT 2020 is still planned.&lt;/p&gt;
+
+&lt;h2 id=&quot;i-need-help&quot;&gt;I need help!&lt;/h2&gt;
+
+&lt;p&gt;Are you working on a project or have an idea for a project, but need some help to get it done?
+FOSS@MAGIC has a limited budget and a few open hardware resources available for students.
+If you need financial or technology assistance, please provide a rough estimate of your needs in the project submission form.&lt;/p&gt;
+
+&lt;h2 id=&quot;get-in-touch&quot;&gt;Get in touch&lt;/h2&gt;
+
+&lt;p&gt;Have any other questions about FOSS@MAGIC and Imagine RIT 2020?
+Reach out on our &lt;a href=&quot;https://fossrit.community/c/rit/7&quot;&gt;Discourse forums&lt;/a&gt; or send us an email at &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;foss&lt;/code&gt; [at] &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;rit&lt;/code&gt; [dot] &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;edu&lt;/code&gt;.
+We hope to see you at Imagine this year!&lt;/p&gt;
+
+&lt;p&gt;— Justin &amp;amp; FOSS@MAGIC Team&lt;/p&gt;
+</description>
+        <pubDate>Wed, 11 Mar 2020 00:00:00 -0400</pubDate>
+        <link>https://fossrit.github.io/announcements/2020/03/11/call-for-imagine-2020-projects/</link>
+        <guid isPermaLink="true">https://fossrit.github.io/announcements/2020/03/11/call-for-imagine-2020-projects/</guid>
+        
+        
+        <category>announcements</category>
+        
+      </item>
+    
+      <item>
+        <title>Call for Volunteers: Spring 2020</title>
+        <description>&lt;p&gt;Hi FOSS folks!
+We are looking for volunteers from the RIT community!
+If you are interested in volunteering with FOSS@MAGIC in the Spring 2020 semester (and at your option, beyond), please fill out this form:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://forms.gle/iT62o4ZiVFM8oAB66&quot;&gt;&lt;strong&gt;FOSS@MAGIC Spring 2020 volunteer sign-up&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;why-volunteer-with-fossmagic&quot;&gt;Why volunteer with FOSS@MAGIC?&lt;/h2&gt;
+
+&lt;p&gt;Volunteering with FOSS@MAGIC is a great way to become more engaged with the open source community at RIT and Rochester.
+Here are some of the benefits of volunteering with FOSS@MAGIC:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Get experience working on collaborative projects&lt;/li&gt;
+  &lt;li&gt;Learn new skills and improve existing ones you can apply to your career and resume&lt;/li&gt;
+  &lt;li&gt;Find creative ways to collaborate between FOSS and other places/clubs you are interested in&lt;/li&gt;
+  &lt;li&gt;For hands-on projects, financial assistance for project supplies is available&lt;/li&gt;
+  &lt;li&gt;Mentor others in getting involved with FOSS@MAGIC and open source activities at RIT&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Volunteering will also give you a deeper look into what FOSS@MAGIC does and some of the key areas we are focusing on.
+Also, &lt;strong&gt;anyone involved at RIT is eligible to volunteer&lt;/strong&gt;!
+Students, faculty, staff, and friends of FOSS@RIT are all encouraged to fill out the volunteer sign-up form if interested.&lt;/p&gt;
+
+&lt;h2 id=&quot;volunteering-opportunities&quot;&gt;Volunteering opportunities&lt;/h2&gt;
+
+&lt;p&gt;There are a few different areas we are looking to focus on in 2020:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Community building / engagement&lt;/strong&gt;: People-oriented tasks, like &lt;a href=&quot;/events/&quot;&gt;event planning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;LibreCorps&lt;/strong&gt;: &lt;a href=&quot;/librecorps/&quot;&gt;&lt;em&gt;See website&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Projects for Imagine 2020&lt;/strong&gt;: Hands-on projects with a presentation for exhibition booths at community events (e.g. Maker Faire and Imagine RIT)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;RIT community outreach&lt;/strong&gt;: Connect with other organizations (e.g. clubs) to connect more people at RIT with FOSS&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tech Team&lt;/strong&gt;: Infrastructure management and administration, some software development, and early access to FOSS@MAGIC technology experiments&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If any of these areas sound interesting and you can spend an hour or more a week to help, consider filling out the form!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://forms.gle/iT62o4ZiVFM8oAB66&quot;&gt;&lt;strong&gt;FOSS@MAGIC Spring 2020 volunteer sign-up&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;next-steps&quot;&gt;Next steps&lt;/h2&gt;
+
+&lt;p&gt;This form will remain open until a few weeks in the Spring 2020 semester.
+We will begin reaching out to respondents no later than the first week of classes next semester.
+If you have any questions, &lt;a href=&quot;https://fossrit.community/c/rit/7&quot;&gt;say hello on the &lt;em&gt;fossrit.community&lt;/em&gt; forums&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Cheers,&lt;/p&gt;
+
+&lt;p&gt;— Justin W. Flory (jwf)&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Dec 2019 00:00:00 -0500</pubDate>
+        <link>https://fossrit.github.io/announcements/2019/12/17/spring-2020-volunteers/</link>
+        <guid isPermaLink="true">https://fossrit.github.io/announcements/2019/12/17/spring-2020-volunteers/</guid>
+        
+        
+        <category>announcements</category>
+        
+      </item>
+    
+      <item>
+        <title>Volunteer with FOSS at Rochester Maker Faire 2019</title>
+        <description>&lt;p&gt;Hi FOSS folks!&lt;/p&gt;
+
+&lt;p&gt;Interested in coming to the Rochester Maker Faire with FOSS@MAGIC?
+&lt;strong&gt;Please fill out the &lt;a href=&quot;https://forms.gle/HNzJEjeLA31wm9Mk7&quot;&gt;submission form&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Here at the RIT MAGIC Center, FOSS@MAGIC is getting ready for the annual &lt;a href=&quot;https://rochester.makerfaire.com/&quot;&gt;Rochester Maker Faire&lt;/a&gt; on Saturday, 23 November 2019.
+For the past few years, FOSS@MAGIC &lt;a href=&quot;https://blog.justinwflory.com/2018/01/rochester-mini-maker-faire/&quot;&gt;regularly attends&lt;/a&gt; the Rochester Maker Faire.
+This year is no different.
+We are looking for student projects to exhibit at a table this year in downtown Rochester.&lt;/p&gt;
+
+&lt;p&gt;You can submit a new project idea and request resources, or you can submit an existing project idea and we will help table with you.
+We encourage projects to use open source software and hardware or to be released under a Free Software license.
+The project submission form has more details.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://forms.gle/HNzJEjeLA31wm9Mk7&quot;&gt;&lt;strong&gt;Fill out this form to submit a project or request resources for a new project.&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We hope to see you there at the Maker Faire with us this year!&lt;/p&gt;
+
+&lt;p&gt;— Justin W. Flory (jwf / jwflory)&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 Oct 2019 00:00:00 -0400</pubDate>
+        <link>https://fossrit.github.io/announcements/2019/10/03/rochester-maker-faire/</link>
+        <guid isPermaLink="true">https://fossrit.github.io/announcements/2019/10/03/rochester-maker-faire/</guid>
+        
+        
+        <category>announcements</category>
+        
+      </item>
+    
+      <item>
+        <title>FOSS Hours are back: Thursdays 5pm-7pm @ MSS-3190</title>
+        <description>&lt;p&gt;Hi FOSS folks!
+FOSS Hours are back for the Fall 2019 semester on &lt;strong&gt;Thursdays from 5:00pm until 7:00pm&lt;/strong&gt;.
+Find us in the MAGIC Spell Studios building in MSS-3190 (second floor conference room).
+The first FOSS Hours of the semester is &lt;strong&gt;Thursday, September 5th, 2019&lt;/strong&gt;.
+Pizza is included!&lt;/p&gt;
+
+&lt;h2 id=&quot;what-are-foss-hours&quot;&gt;What are FOSS Hours?&lt;/h2&gt;
+
+&lt;p&gt;Want to meet other students, faculty, and staff interested in free and open source software at RIT?
+FOSS Hours is an informal time for the FOSS community at RIT to gather.
+Come to see what other people are working on, share what things you’re working on, or take some time to get caught up on homework or other project work.
+You can stay for as short or for as long as you like.
+No RSVP is necessary.&lt;/p&gt;
+
+&lt;p&gt;We hope to see you on Thursday nights, whether it’s your hundredth time or your first time!&lt;/p&gt;
+
+&lt;p&gt;Cheers,&lt;/p&gt;
+
+&lt;p&gt;— Justin W. Flory (jwf / jflory7)&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Aug 2019 00:00:00 -0400</pubDate>
+        <link>https://fossrit.github.io/announcements/2019/08/19/foss-hours-2191/</link>
+        <guid isPermaLink="true">https://fossrit.github.io/announcements/2019/08/19/foss-hours-2191/</guid>
+        
+        
+        <category>announcements</category>
+        
+      </item>
+    
+      <item>
+        <title>Call for Proposals The Future is Open 2019</title>
+        <description>&lt;p&gt;FOSS@MAGIC is proud to announce the debut of the first-ever &lt;strong&gt;The Future is Open&lt;/strong&gt; mini-conference.
+&lt;strong&gt;The Future is Open&lt;/strong&gt; is a one-day event to engage the wider RIT community with open source opportunities, projects, and research happening on campus.
+We invite alumni, friends of the program, and those interested in learning about a variety of open source projects and programs created on RIT’s campus to join current students, faculty, and staff for the event.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://forms.gle/563vz3qZAgMXRJNk9&quot;&gt;A call for proposals (CfP) is now open&lt;/a&gt;.&lt;/strong&gt;
+All backgrounds are encouraged and welcomed. We hope for the content of our talks not only cover software development but many topics beyond.&lt;/p&gt;
+
+&lt;h2 id=&quot;dates-to-remember&quot;&gt;Dates to Remember&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;CFP close date&lt;/strong&gt;: Friday, Sept. 13th, 2019&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;CFP notification date&lt;/strong&gt;: Friday, Sept. 27th, 2019&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Day of Event&lt;/strong&gt;: Saturday, October 26th, 2019&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;suggested-topics&quot;&gt;Suggested Topics&lt;/h2&gt;
+
+&lt;p&gt;We are seeking presentations in the following topics:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Humantairian and Civics&lt;/li&gt;
+  &lt;li&gt;Games&lt;/li&gt;
+  &lt;li&gt;DevOps&lt;/li&gt;
+  &lt;li&gt;Open Science&lt;/li&gt;
+  &lt;li&gt;Security&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;session-types&quot;&gt;Session Types&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;25 or 50 minute presentations with Q&amp;amp;A&lt;/li&gt;
+  &lt;li&gt;90 minute workshops&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;preparing-your-proposal&quot;&gt;Preparing your Proposal&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;If you are interesting in submitting to the CfP, &lt;a href=&quot;https://forms.gle/563vz3qZAgMXRJNk9&quot;&gt;please do so by filling out this form&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;accessibility&quot;&gt;Accessibility&lt;/h2&gt;
+&lt;p&gt;FOSS@MAGIC is committed to hosting a conference available to everyone.
+The conference hall and stage are fully wheelchair accessible.
+Speakers are encouraged to use their own computers to present, although we’ll also have spares on hand.
+We do our best to make the conference as accessible as possible for our attendees in a variety of ways (live ASL interpretation, gender-neutral restrooms, quiet spaces, etc).
+Please don’t hesitate to let us know, what we can do to make your attendance more comfortable.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 21 May 2019 00:00:00 -0400</pubDate>
+        <link>https://fossrit.github.io/announcements/2019/05/21/cfp-announcement/</link>
+        <guid isPermaLink="true">https://fossrit.github.io/announcements/2019/05/21/cfp-announcement/</guid>
+        
+        
+        <category>announcements</category>
+        
+      </item>
+    
+      <item>
+        <title>Find FOSS@MAGIC at Imagine RIT 2019 in MAGIC Spell Studios</title>
+        <description>&lt;p&gt;FOSS@MAGIC is proud to be an exhibitor at this year’s &lt;a href=&quot;https://www.rit.edu/imagine/&quot;&gt;Imagine RIT&lt;/a&gt; Creativity and Innovation Center on April 27th, 2019.
+This year, FOSS@MAGIC will &lt;a href=&quot;https://www.rit.edu/imagine/planyourday/exhibit.php?id=985&quot;&gt;exhibit student projects and build awareness&lt;/a&gt; of our initiative and program in the RIT and Rochester communities.
+&lt;a href=&quot;https://meritpages.com/Hunaina-Abid-/4589539&quot;&gt;Hunaina Abid&lt;/a&gt;, &lt;a href=&quot;https://blog.justinwflory.com/about-me/&quot;&gt;Justin W. Flory&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/in/nathaniel-larrimore/&quot;&gt;Nathaniel Larrimore&lt;/a&gt;, and &lt;a href=&quot;https://www.linkedin.com/in/wilfried-hounyo-22434356/&quot;&gt;Wilfried Hounyo&lt;/a&gt; are participating as student representatives and exhibitors with the support of &lt;a href=&quot;https://www.rit.edu/magic/affiliate-spotlight-stephen-jacobs&quot;&gt;Prof. Stephen Jacobs&lt;/a&gt; and &lt;a href=&quot;https://www.linkedin.com/in/deejoe/&quot;&gt;Dr. Joe Anderson&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;meet-our-projects&quot;&gt;Meet our projects&lt;/h2&gt;
+
+&lt;p&gt;Three projects are presented at our booth this year:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;FOSS Letters&lt;/li&gt;
+  &lt;li&gt;Arduino heartbeat sensor&lt;/li&gt;
+  &lt;li&gt;Magic Mirror&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;foss-letters&quot;&gt;FOSS Letters&lt;/h3&gt;
+
+&lt;p&gt;FOSS Letters are four 1 ft. tall letters that spell the word “FOSS” originally created by Nathaniel Larrimore and Kyle Suero.
+They are illuminated by RGB LED strips.
+The letter colors are controlled by an &lt;a href=&quot;https://github.com/FOSSRIT/FOSSLetters&quot;&gt;open source web interface&lt;/a&gt; in front of the display.
+The web interface is hosted on a Raspberry Pi and publicly accessible to anyone on the Internet.
+FOSS Letters were created out of the &lt;a href=&quot;https://www.rit.edu/study/curriculum/e4af015b-d2bf-4a7e-9a48-08c7d25dc4d1&quot;&gt;IGME 585 Project in Free and Open Source Software Development&lt;/a&gt; class at RIT.&lt;/p&gt;
+
+&lt;h3 id=&quot;arduino-heartbeat-sensor&quot;&gt;Arduino heartbeat sensor&lt;/h3&gt;
+
+&lt;p&gt;RIT student Hunaina Abid designed and implemented a heart rate sensor using an &lt;a href=&quot;https://www.arduino.cc/&quot;&gt;Arduino board&lt;/a&gt;.
+Code on the Arduino board integrates the software with the sensor attached to the heart rate detector.
+The tip of the finger is placed on the sensor, and the heart rate appears in the form of a graph on the screen.&lt;/p&gt;
+
+&lt;h3 id=&quot;magic-mirror&quot;&gt;Magic Mirror&lt;/h3&gt;
+
+&lt;p&gt;MagicMirror is an open source software/hardware project designed by &lt;a href=&quot;https://github.com/MichMich/MagicMirror&quot;&gt;MichMich on GitHub&lt;/a&gt;.
+RIT alumnus Solomon Rubin and current student Nathaniel Larrimore designed and built the mirrors.
+It consists of an LCD monitor displaying a black screen with white text through a one-way mirror.
+The text appears to shine through the mirror.&lt;/p&gt;
+
+&lt;p&gt;Magic Mirror is a good starting project for people looking to get into Raspberry Pi projects.
+It requires little prior knowledge about the software or a Raspberry Pi.
+There is a large contributor community to the MagicMirror project.
+The community is constantly adding custom plugins for MagicMirror so you can make your MagicMirror look however you like.&lt;/p&gt;
+
+&lt;h2 id=&quot;look-for-us-at-imagine&quot;&gt;Look for us at Imagine!&lt;/h2&gt;
+
+&lt;p&gt;Find us in the new MAGIC Spell Studios (MSS/071) building in MSS-3110 on April 27th, 2019!
+Add our exhibit to your &lt;a href=&quot;https://www.rit.edu/imagine/planyourday/exhibit.php?id=985&quot;&gt;Imagine RIT itinerary&lt;/a&gt; to plan your day at Imagine.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
+        <link>https://fossrit.github.io/announcements/2019/04/16/imagine-rit/</link>
+        <guid isPermaLink="true">https://fossrit.github.io/announcements/2019/04/16/imagine-rit/</guid>
+        
+        
+        <category>announcements</category>
+        
+      </item>
+    
+      <item>
+        <title>Partnering with UNICEF to build humanitarian open source communities</title>
+        <description>&lt;p&gt;On Monday, April 1st, 2019, &lt;a href=&quot;https://www.rit.edu/gccis/stephen-jacobs&quot;&gt;Prof. Stephen Jacobs&lt;/a&gt; and &lt;a href=&quot;https://justinwflory.com/&quot;&gt;Justin W. Flory&lt;/a&gt; met with the next cohort of international humanitarian start-ups funded by the &lt;a href=&quot;https://unicefinnovationfund.org/&quot;&gt;UNICEF Innovation Fund&lt;/a&gt;.
+This &lt;a href=&quot;https://blogs.unicef.org/innovation/rits-partnership-with-the-kosovo-innovation-lab/&quot; title=&quot;RIT’s partnership with the Kosovo Innovation Lab&quot;&gt;continues the partnership&lt;/a&gt; between FOSS@MAGIC and the &lt;a href=&quot;https://www.unicef.org/innovation/&quot;&gt;UNICEF Office of Innovation&lt;/a&gt; started in 2012.
+Jacobs and Flory worked with UNICEF fund managers to support the next round of funded companies to build open source communities around their humanitarian products.&lt;/p&gt;
+
+&lt;h2 id=&quot;about-the-unicef-innovation-fund&quot;&gt;About the UNICEF Innovation Fund&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://unicefinnovationfund.org/&quot;&gt;UNICEF Innovation Fund&lt;/a&gt; is an investment fund for humanitarian projects that address the needs of vulnerable children.
+To receive funding, companies must release some or all components of their product as free and open source software.
+This aligns to one of the &lt;a href=&quot;https://digitalprinciples.org/&quot;&gt;Principles for Digital Development&lt;/a&gt; followed by UNICEF: &lt;a href=&quot;https://digitalprinciples.org/principle/use-open-standards-open-data-open-source-and-open-innovation/&quot;&gt;&lt;strong&gt;Use Open Standards, Open Data, Open Source, and Open Innovation&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Periodically, UNICEF hosts a week-long workshop in New York City for funded start-ups to work with subject-matter experts to development their products and business models.
+This is an intensive week of planning future goals and milestones.
+To this end, Stephen and Flory worked with UNICEF fund managers to introduce working in the open and how to build a grassroots open source community.&lt;/p&gt;
+
+&lt;h2 id=&quot;discovering-open-source&quot;&gt;Discovering open source&lt;/h2&gt;
+
+&lt;p&gt;Many members of the funded teams are unfamiliar with open source communities and projects.
+For the first hour, Flory presented on his &lt;a href=&quot;https://blog.justinwflory.com/2018/02/unicef-internship/&quot;&gt;previous work&lt;/a&gt; as a UNICEF intern working on open source community engagement in the MagicBox project.
+He walked through workflows and project management tools and explained why these are useful for working in open source communities.
+Additionally, he gave six actionable tips for projects to begin their own journey to building a sustainable open source project and community.
+Find the full slide deck &lt;a href=&quot;https://docs.google.com/presentation/d/1pAdKOLkeqihjOpJpHLpJdJIJdHZ7O1rssz4bTrE665g/edit?usp=sharing&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Additionally, Prof. Jacobs introduced different business models for free software projects.
+He explained different models and provided examples of other successful companies using these models to grow their businesses.
+During the breakout sessions, Jacobs and Flory provided 1x1 mentorship and guidance along with other UNICEF mentors.&lt;/p&gt;
+
+&lt;p&gt;&lt;a alt=&quot;Flory delivers presentation to UNICEF Innovation Fund cohort&quot; title=&quot;Flory delivers presentation to UNICEF Innovation Fund cohort&quot; href=&quot;https://twitter.com/utopiah/status/1112801875764576256&quot;&gt;&lt;img src=&quot;/img/announcements/2019/04/unicef-flory.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;learn-more-about-us&quot;&gt;Learn more about us&lt;/h2&gt;
+
+&lt;p&gt;Interested in learning more?
+See what the FOSS@MAGIC LibreCorps program is about &lt;a href=&quot;https://fossrit.github.io/librecorps/&quot;&gt;on our website&lt;/a&gt;.
+Additionally, check out &lt;a href=&quot;https://twitter.com/UNICEFinnovate&quot;&gt;@UNICEFinnovate&lt;/a&gt; on Twitter to keep up with the projects.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
+        <link>https://fossrit.github.io/announcements/2019/04/01/unicef-foss-community-building/</link>
+        <guid isPermaLink="true">https://fossrit.github.io/announcements/2019/04/01/unicef-foss-community-building/</guid>
+        
+        
+        <category>announcements</category>
+        
+      </item>
+    
+      <item>
+        <title>Open Source Round Table at the Game Developers Conference in San Francisco</title>
+        <description>&lt;p&gt;Over the past several years, there has been a greater willingness within the game industry to use open source technologies and/or put their own proprietary tech under a wide variety of fully or semi-open licenses.
+There are also more independents working with open game engines like Godot.&lt;/p&gt;
+
+&lt;p&gt;This past fall, the &lt;a href=&quot;https://en.wikipedia.org/wiki/Academy_of_Motion_Picture_Arts_and_Sciences&quot;&gt;Academy for Motion Picture Arts and Sciences&lt;/a&gt; joined forces with the &lt;a href=&quot;https://www.linuxfoundation.org/&quot;&gt;Linux Foundation&lt;/a&gt; to create the &lt;a href=&quot;https://www.aswf.io/&quot;&gt;Academy Software Foundation&lt;/a&gt; to “provide a ‘neutral’ space for artists, engineers and developers to share work and collaborate on projects, thereby increasing both the quality and quantity of open source tools.”
+The companies currently signed on are, by a wide majority, film industry companies.
+There are a few game industry companies currently engaged and the language on the website alludes to this foundation covering multimedia and games as well.&lt;/p&gt;
+
+&lt;p&gt;The goal of this IGDA GDC roundtable is to to learn more about the ASWF and its mission and to ask questions like the following:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;What are the up and downsides of such an effort?&lt;/li&gt;
+  &lt;li&gt;Considering there is an overlap, but not an overall match, between the needs of game production and film and television production, should games be a part of this effort or should there be a separate foundation?&lt;/li&gt;
+  &lt;li&gt;What might next steps be in seeing this model, or another, move forward to promote the benefits of open source to and/or within the game industry?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;who-will-be-there&quot;&gt;Who will be there?&lt;/h2&gt;
+
+&lt;p&gt;The session will be led by &lt;a href=&quot;https://www.rit.edu/gccis/stephen-jacobs&quot;&gt;Stephen Jacobs&lt;/a&gt; of the &lt;a href=&quot;https://fossrit.github.io/&quot;&gt;FOSS@MAGIC initiative&lt;/a&gt; and a Professor in the School of Interactive Games and Media at the Rochester Institute of Technology.
+Joining the roundtable are &lt;a href=&quot;https://twitter.com/cra&quot;&gt;Chris Aniszczyk&lt;/a&gt; of the Linux Foundation, &lt;a href=&quot;https://twitter.com/suehle&quot;&gt;Ruth Suehle&lt;/a&gt; of Red Hat, Inc. and &lt;a href=&quot;https://www.linkedin.com/in/toddprives/&quot;&gt;Todd Prives&lt;/a&gt;, of the Academy Software Foundation Board.&lt;/p&gt;
+
+&lt;p&gt;The roundtable will be held at GDC in the Moscone Center Hall on March 20th at 9:00 AM.
+You must be an attendee of the Game Developer’s Conference with at least an “Expo Pass” to attend the roundtable.&lt;/p&gt;
+
+&lt;h2 id=&quot;roundtable-agenda&quot;&gt;Roundtable Agenda&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Call to order / brief explanation of the FOSS SIG and day’s topic&lt;/li&gt;
+  &lt;li&gt;Linux Foundation and Red Hat representative introductions&lt;/li&gt;
+  &lt;li&gt;Attendee introductions&lt;/li&gt;
+  &lt;li&gt;Informal Presentation:
+    &lt;ul&gt;
+      &lt;li&gt;What the Linux Foundation does&lt;/li&gt;
+      &lt;li&gt;What the ASF is&lt;/li&gt;
+      &lt;li&gt;How it was formed&lt;/li&gt;
+      &lt;li&gt;What its goals are&lt;/li&gt;
+      &lt;li&gt;How ASF perceives game industry participation and role&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Discussion:
+    &lt;ul&gt;
+      &lt;li&gt;ASF and Games Industry: what they could do&lt;/li&gt;
+      &lt;li&gt;If they’re a fit or if a different foundation needs to be set up because of significant different needs within the Games industry or is a formal sub-entity should be considered under ASF&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;get-involved&quot;&gt;Get involved&lt;/h2&gt;
+
+&lt;p&gt;Want to get involved before the conference kicks off?
+Email &lt;a href=&quot;mailto:sj@magic.rit.edu&quot;&gt;Stephen Jacobs&lt;/a&gt; and say hello, or join the SIG’s official &lt;a href=&quot;https://www.facebook.com/groups/824428741222702&quot;&gt;Facebook group&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Feb 2019 00:00:00 -0500</pubDate>
+        <link>https://fossrit.github.io/announcements/2019/02/20/open-source-roundtable-gdc/</link>
+        <guid isPermaLink="true">https://fossrit.github.io/announcements/2019/02/20/open-source-roundtable-gdc/</guid>
+        
+        
+        <category>announcements</category>
+        
+      </item>
+    
+  </channel>
+</rss>

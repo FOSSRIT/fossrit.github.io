@@ -1,0 +1,1271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Free and Open Source Software @ RIT</title>
+    <description>Upcoming events in RIT FOSS community</description>
+    <link>https://fossrit.github.io/</link>
+    <atom:link href="https://fossrit.github.io/events.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 07 May 2022 01:07:30 -0400</pubDate>
+    <lastBuildDate>Sat, 07 May 2022 01:07:30 -0400</lastBuildDate>
+    <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Election Night Hackathon 2019</title>
+        <description>&lt;p&gt;Students and faculty collaborated and worked on projects during the 2018 US midterm elections.&lt;/p&gt;
+
+&lt;div class=&quot;container row&quot; style=&quot;margin-bottom:1.2em;&quot;&gt;
+    &lt;div id=&quot;carouselIndicators&quot; class=&quot;col-12 carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+        
+        &lt;ol class=&quot;carousel-indicators&quot;&gt;
+            
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;61&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;62&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;63&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;64&quot;&gt;&lt;/li&gt;
+                
+            
+        &lt;/ol&gt;
+        
+        &lt;div class=&quot;carousel-inner&quot;&gt;
+            
+                
+                &lt;div class=&quot;carousel-item active&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2019/11/election1.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2019/11/election2.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2019/11/election3.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2019/11/election4.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+        
+        &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+            &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+        &lt;/a&gt;
+        &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+            &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+        &lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;FOSS@MAGIC proudly presents… the 9th Annual Election Night Hackathon!&lt;/p&gt;
+
+  &lt;p&gt;All types of attendees are welcome: programmers, designers, political science students, art students, and more. Learn about civic hacking and watch election results arrive in real time.&lt;/p&gt;
+
+  &lt;p&gt;Then brainstorm and hack the night away on current projects or propose new civic hacking projects with new friends! Pizza and other consumables will be provided. Please RSVP so we know how much to buy.&lt;/p&gt;
+
+  &lt;p&gt;Those seeking a project may be interested in helping &lt;a href=&quot;https://www.smithsonianmag.com/smart-news/library-congress-needs-your-help-transcribing-suffragist-papers-1-180972677/&quot;&gt;transcribe suffragist papers&lt;/a&gt; in collaboration with the Smithsonian and the Library of Congress.&lt;/p&gt;
+
+  &lt;p&gt;The Election Night Hackathon is possible thanks to the RIT MAGIC Center and Red Hat.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</description>
+        <pubDate>Tue, 05 Nov 2019 00:00:00 -0500</pubDate>
+        <link>https://fossrit.github.io/events/2019/11/05/election-night-hackathon/</link>
+        <guid isPermaLink="true">https://fossrit.github.io/events/2019/11/05/election-night-hackathon/</guid>
+        
+        
+        <category>events</category>
+        
+      </item>
+    
+      <item>
+        <title>The Future is Open 2019</title>
+        <description>&lt;p&gt;Join us on Saturday, October 26th at 10am-5pm at the RIT MAGIC Spell Studios to discover free and open source software and culture in the RIT community.
+Event is free, but &lt;a href=&quot;https://www.eventbrite.co.uk/e/the-future-is-open-2019-tickets-75016553531&quot;&gt;please RSVP here&lt;/a&gt; for ordering enough food!&lt;/p&gt;
+
+&lt;p&gt;The ideas behind the creation and distribution of intellectual and creative works without (or with more flexible) IP rights restrictions are not new.
+But they have taken hold in the age of the Internet.
+Free and Open Source Software and Free Content have moved from an obscure niche filed to the center of how work gets done.
+Silicon Valley software companies have Open Source offices that manage home-grown FOSS projects and the enterprise contributions to external projects.
+Open Designs and Open Content are emerging in everything from prosthetics creation to arts and game production.
+Open Science practices are fueling new efforts across the disciplines.
+Humanitarian organizations are using open data and cloud services to help disaster victims, map school connectivity, and more.&lt;/p&gt;
+
+&lt;ul class=&quot;nav nav-tabs mb-3&quot; id=&quot;futureIsOpenTab&quot; role=&quot;tablist&quot;&gt;
+    &lt;li class=&quot;nav-item&quot;&gt;
+        &lt;a class=&quot;nav-link active&quot; id=&quot;speakers-tab&quot; data-toggle=&quot;tab&quot; href=&quot;#speakers&quot; role=&quot;tab&quot; aria-controls=&quot;speakers&quot; aria-selected=&quot;true&quot;&gt;Speakers&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;nav-item&quot;&gt;
+        &lt;a class=&quot;nav-link&quot; id=&quot;schedule-tab&quot; data-toggle=&quot;tab&quot; href=&quot;#schedule&quot; role=&quot;tab&quot; aria-controls=&quot;schedule&quot; aria-selected=&quot;false&quot;&gt;Schedule&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;nav-item&quot;&gt;
+        &lt;a class=&quot;nav-link&quot; id=&quot;photos-tab&quot; data-toggle=&quot;tab&quot; href=&quot;#photos&quot; role=&quot;tab&quot; aria-controls=&quot;photos&quot; aria-selected=&quot;false&quot;&gt;Photos&lt;/a&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;tab-content&quot; id=&quot;futureIsOpenTabContent&quot;&gt;
+    &lt;div class=&quot;tab-pane fade show active&quot; id=&quot;speakers&quot; role=&quot;tabpanel&quot; aria-labelledby=&quot;speakers-tab&quot;&gt;
+        &lt;h2&gt;Speakers&lt;/h2&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-12 col-md-4 p-2&quot;&gt;
+                &lt;div class=&quot;card&quot;&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h3 class=&quot;card-title&quot;&gt;Remy DeCausemaker&lt;/h3&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;Open Source Office Director, Twitter; SOIS ‘15&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 col-md-4 p-2&quot;&gt;
+                &lt;div class=&quot;card&quot;&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h3 class=&quot;card-title&quot;&gt;Yasmin El-Glaly&lt;/h3&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;Software Engineering Faculty&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 col-md-4 p-2&quot;&gt;
+                &lt;div class=&quot;card&quot;&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h3 class=&quot;card-title&quot;&gt;Nando Ellis&lt;/h3&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;Middleware Consultant, Red Hat; Computer Science &apos;15&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 col-md-4 p-2&quot;&gt;
+                &lt;div class=&quot;card&quot;&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h3 class=&quot;card-title&quot;&gt;Jenn Kotler&lt;/h3&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;User Experience Designer, Space Telescope Science Institute; Medical Illustration ‘14&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 col-md-4 p-2&quot;&gt;
+                &lt;div class=&quot;card&quot;&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h3 class=&quot;card-title&quot;&gt;Nate Levesque&lt;/h3&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;Software Engineer, Datto; Software Engineering &apos;16&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 col-md-4 p-2&quot;&gt;
+                &lt;div class=&quot;card&quot;&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h3 class=&quot;card-title&quot;&gt;Jessica Lieberman&lt;/h3&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;Digital Humanities &amp;amp; Social Sciences Faculty &amp;amp; Program Director&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 col-md-4 p-2&quot;&gt;
+                &lt;div class=&quot;card&quot;&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h3 class=&quot;card-title&quot;&gt;Mohammed Wiem Mkaouer&lt;/h3&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;Software Engineering Faculty&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 col-md-4 p-2&quot;&gt;
+                &lt;div class=&quot;card&quot;&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h3 class=&quot;card-title&quot;&gt;Will Nilges&lt;/h3&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;RIT Student&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 col-md-4 p-2&quot;&gt;
+                &lt;div class=&quot;card&quot;&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h3 class=&quot;card-title&quot;&gt;Mike Nolan&lt;/h3&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;Open Source and Ethical AI Mentor, UNICEF; New Media Interactive Development ‘15&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 col-md-4 p-2&quot;&gt;
+                &lt;div class=&quot;card&quot;&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h3 class=&quot;card-title&quot;&gt;Brian Regan&lt;/h3&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;Lead Game Producer, Second Avenue Learning&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 col-md-4 p-2&quot;&gt;
+                &lt;div class=&quot;card&quot;&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h3 class=&quot;card-title&quot;&gt;Jeffery Russell&lt;/h3&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;RIT Student; President, RIT Linux Users Group&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 col-md-4 p-2&quot;&gt;
+                &lt;div class=&quot;card&quot;&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h3 class=&quot;card-title&quot;&gt;Daniel Schneiderman&lt;/h3&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;Co-Chair, Maker Faire Rochester; Information Technology &apos;12&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 col-md-4 p-2&quot;&gt;
+                &lt;div class=&quot;card&quot;&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h3 class=&quot;card-title&quot;&gt;Jonathan Schull&lt;/h3&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;President, e-NABLE&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 col-md-4 p-2&quot;&gt;
+                &lt;div class=&quot;card&quot;&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h3 class=&quot;card-title&quot;&gt;Victoria Van Voorhis&lt;/h3&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;CEO, Second Avenue Learning&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 col-md-4 p-2&quot;&gt;
+                &lt;div class=&quot;card&quot;&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h3 class=&quot;card-title&quot;&gt;Brendan Whitfield&lt;/h3&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;Sr. Autopilot Software Engineer, Tesla; New Media Interactive Development ‘15&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 col-md-4 p-2&quot;&gt;
+                &lt;div class=&quot;card&quot;&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h3 class=&quot;card-title&quot;&gt;Steven Yi&lt;/h3&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;Interactive Games &amp;amp; Media Faculty&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 col-md-4 p-2&quot;&gt;
+                &lt;div class=&quot;card&quot;&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h3 class=&quot;card-title&quot;&gt;Tim Zabel&lt;/h3&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;RIT Student; Vice President, RIT Linux Users Group&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;tab-pane fade&quot; id=&quot;schedule&quot; role=&quot;tabpanel&quot; aria-labelledby=&quot;schedule-tab&quot;&gt;
+        &lt;h2&gt;Schedule&lt;/h2&gt;
+        &lt;div class=&quot;card mb-4&quot;&gt;
+            &lt;div class=&quot;card-header&quot; style=&quot;background-color:#F76902;color:white;font-size:larger;&quot;&gt;
+                &lt;span class=&quot;badge&quot; style=&quot;background-color:white;color:#F76902;&quot;&gt;10am-11:30am&lt;/span&gt;
+                Alum Panel
+            &lt;/div&gt;
+            &lt;div class=&quot;card-body&quot;&gt;
+                &lt;h4 class=&quot;card-title&quot;&gt;How FOSS courses kick-started our careers&lt;/h4&gt;
+                &lt;p class=&quot;card-text&quot;&gt;
+                    Jenn Kotler&lt;br /&gt;
+                    Brendan Whitfield&lt;br /&gt;
+                    Mike Nolan&lt;br /&gt;
+                    Nando Ellis&lt;br /&gt;
+                    Wegmans Theater
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;card mb-4&quot;&gt;
+            &lt;div class=&quot;card-header&quot; style=&quot;background-color:#F76902;color:white;font-size:larger;&quot;&gt;
+                &lt;span class=&quot;badge&quot; style=&quot;background-color:white;color:#F76902;&quot;&gt;11:30am-12pm&lt;/span&gt;
+                Lunch
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-12 col-md-4&quot;&gt;
+                &lt;div class=&quot;card mb-4&quot;&gt;
+                    &lt;div class=&quot;card-header&quot; style=&quot;background-color:#F76902;color:white;font-size:larger;&quot;&gt;
+                        &lt;span class=&quot;badge&quot; style=&quot;background-color:white;color:#F76902;&quot;&gt;12pm-12:55pm&lt;/span&gt;
+                        Track A
+                    &lt;/div&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h4 class=&quot;card-title&quot;&gt;e-NABLE: a NONO (non-organization of non-organizations) making free open-source 3D-printed prosthetics&lt;/h4&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;
+                            Jonathan Schull&lt;br /&gt;
+                            MSS-2150
+                        &lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 col-md-4&quot;&gt;
+                &lt;div class=&quot;card mb-4&quot;&gt;
+                    &lt;div class=&quot;card-header&quot; style=&quot;background-color:#F76902;color:white;font-size:larger;&quot;&gt;
+                        &lt;span class=&quot;badge&quot; style=&quot;background-color:white;color:#F76902;&quot;&gt;12pm-12:55pm&lt;/span&gt;
+                        Track B
+                    &lt;/div&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h4 class=&quot;card-title&quot;&gt;5 Years Working as a Designer - from Corporate Tech to Open Science&lt;/h4&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;
+                            Jenn Kotler&lt;br /&gt;
+                            MSS-2175
+                        &lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 col-md-4&quot;&gt;
+                &lt;div class=&quot;card mb-4&quot;&gt;
+                    &lt;div class=&quot;card-header&quot; style=&quot;background-color:#F76902;color:white;font-size:larger;&quot;&gt;
+                        &lt;span class=&quot;badge&quot; style=&quot;background-color:white;color:#F76902;&quot;&gt;12pm-12:55pm&lt;/span&gt;
+                        Track C
+                    &lt;/div&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h4 class=&quot;card-title&quot;&gt;Making software that hopefully won&apos;t ruin society. (and other fun stories)&lt;/h4&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;
+                            Mike Nolan&lt;br /&gt;
+                            MSS-2100 (Sound Mixing Room)
+                        &lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;card mb-4&quot;&gt;
+            &lt;div class=&quot;card-header&quot; style=&quot;background-color:#F76902;color:white;font-size:larger;&quot;&gt;
+                &lt;span class=&quot;badge&quot; style=&quot;background-color:white;color:#F76902;&quot;&gt;12pm-4pm&lt;/span&gt;
+                Install Fest
+            &lt;/div&gt;
+            &lt;div class=&quot;card-body&quot;&gt;
+                &lt;p class=&quot;card-text&quot;&gt;
+                    Led by Will Nilges&lt;br /&gt;
+                    MSS-3190 (upstairs)
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-12 col-md-4&quot;&gt;
+                &lt;div class=&quot;card mb-4&quot;&gt;
+                    &lt;div class=&quot;card-header&quot; style=&quot;background-color:#F76902;color:white;font-size:larger;&quot;&gt;
+                        &lt;span class=&quot;badge&quot; style=&quot;background-color:white;color:#F76902;&quot;&gt;1pm-1:25pm&lt;/span&gt;
+                        Track A
+                    &lt;/div&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h4 class=&quot;card-title&quot;&gt;Testing Open Source Software for Accessibility&lt;/h4&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;
+                            Yasmine El-Glaly&lt;br /&gt;
+                            MSS-2150
+                        &lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 col-md-4&quot;&gt;
+                &lt;div class=&quot;card mb-4&quot;&gt;
+                    &lt;div class=&quot;card-header&quot; style=&quot;background-color:#F76902;color:white;font-size:larger;&quot;&gt;
+                        &lt;span class=&quot;badge&quot; style=&quot;background-color:white;color:#F76902;&quot;&gt;1pm-1:25pm&lt;/span&gt;
+                        Track B
+                    &lt;/div&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h4 class=&quot;card-title&quot;&gt;Open Source within the Maker Movement&lt;/h4&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;
+                            Dan Schneiderman&lt;br /&gt;
+                            MSS-2175
+                        &lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 col-md-4&quot;&gt;
+                &lt;div class=&quot;card mb-4&quot;&gt;
+                    &lt;div class=&quot;card-header&quot; style=&quot;background-color:#F76902;color:white;font-size:larger;&quot;&gt;
+                        &lt;span class=&quot;badge&quot; style=&quot;background-color:white;color:#F76902;&quot;&gt;1pm-1:25pm&lt;/span&gt;
+                        Track C
+                    &lt;/div&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h4 class=&quot;card-title&quot;&gt;Supporting the Open Web in FOSS&lt;/h4&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;
+                            Nate Levesque&lt;br /&gt;
+                            MSS-2100 (Sound Mixing Room)
+                        &lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;card mb-4&quot;&gt;
+            &lt;div class=&quot;card-header&quot; style=&quot;background-color:#F76902;color:white;font-size:larger;&quot;&gt;
+                &lt;span class=&quot;badge&quot; style=&quot;background-color:white;color:#F76902;&quot;&gt;1:30pm-2pm&lt;/span&gt;
+                Coffee / snack break
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-12 col-md-4&quot;&gt;
+                &lt;div class=&quot;card mb-4&quot;&gt;
+                    &lt;div class=&quot;card-header&quot; style=&quot;background-color:#F76902;color:white;font-size:larger;&quot;&gt;
+                        &lt;span class=&quot;badge&quot; style=&quot;background-color:white;color:#F76902;&quot;&gt;2pm-2:55pm&lt;/span&gt;
+                        Track A
+                    &lt;/div&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h4 class=&quot;card-title&quot;&gt;TigerOS - A Linux distribution built for RIT students&lt;/h4&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;
+                            Tim Zabel&lt;br /&gt;
+                            MSS-2150
+                        &lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 col-md-4&quot;&gt;
+                &lt;div class=&quot;card mb-4&quot;&gt;
+                    &lt;div class=&quot;card-header&quot; style=&quot;background-color:#F76902;color:white;font-size:larger;&quot;&gt;
+                        &lt;span class=&quot;badge&quot; style=&quot;background-color:white;color:#F76902;&quot;&gt;2pm-2:55pm&lt;/span&gt;
+                        Track B
+                    &lt;/div&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h4 class=&quot;card-title&quot;&gt;Csound: A Case Study in Open Source and Culture&lt;/h4&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;
+                            Steven Yi&lt;br /&gt;
+                            MSS-2175
+                        &lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 col-md-4&quot;&gt;
+                &lt;div class=&quot;card mb-4&quot;&gt;
+                    &lt;div class=&quot;card-header&quot; style=&quot;background-color:#F76902;color:white;font-size:larger;&quot;&gt;
+                        &lt;span class=&quot;badge&quot; style=&quot;background-color:white;color:#F76902;&quot;&gt;2pm-2:55pm&lt;/span&gt;
+                        Track C
+                    &lt;/div&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h4 class=&quot;card-title&quot;&gt;Open Mapping Data and Digital Humanities&lt;/h4&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;
+                            Jessica Lieberman&lt;br /&gt;
+                            MSS-2100 (Sound Mixing Room)
+                        &lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-12 col-md-4&quot;&gt;
+                &lt;div class=&quot;card mb-4&quot;&gt;
+                    &lt;div class=&quot;card-header&quot; style=&quot;background-color:#F76902;color:white;font-size:larger;&quot;&gt;
+                        &lt;span class=&quot;badge&quot; style=&quot;background-color:white;color:#F76902;&quot;&gt;3pm-3:55pm&lt;/span&gt;
+                        Track A
+                    &lt;/div&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h4 class=&quot;card-title&quot;&gt;Is there a (mis)perception of quality metrics among developers? An empirical study in FOSS&lt;/h4&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;
+                            Mohamed Wiem Mkaouer&lt;br /&gt;
+                            MSS-2150
+                        &lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 col-md-4&quot;&gt;
+                &lt;div class=&quot;card mb-4&quot;&gt;
+                    &lt;div class=&quot;card-header&quot; style=&quot;background-color:#F76902;color:white;font-size:larger;&quot;&gt;
+                        &lt;span class=&quot;badge&quot; style=&quot;background-color:white;color:#F76902;&quot;&gt;3pm-3:55pm&lt;/span&gt;
+                        Track B
+                    &lt;/div&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h4 class=&quot;card-title&quot;&gt;Student Panel on Open Source Software&lt;/h4&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;
+                            RIT Linux Users Group&lt;br /&gt;
+                            Moderated by Jeffery Russell&lt;br /&gt;
+                            MSS-2175
+                        &lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 col-md-4&quot;&gt;
+                &lt;div class=&quot;card mb-4&quot;&gt;
+                    &lt;div class=&quot;card-header&quot; style=&quot;background-color:#F76902;color:white;font-size:larger;&quot;&gt;
+                        &lt;span class=&quot;badge&quot; style=&quot;background-color:white;color:#F76902;&quot;&gt;3pm-3:55pm&lt;/span&gt;
+                        Track C
+                    &lt;/div&gt;
+                    &lt;div class=&quot;card-body&quot;&gt;
+                        &lt;h4 class=&quot;card-title&quot;&gt;Open source in educational games&lt;/h4&gt;
+                        &lt;p class=&quot;card-text&quot;&gt;
+                            Victoria Van Voorhis&lt;br /&gt;
+                            Brian Regan&lt;br /&gt;
+                            MSS-2100 (Sound Mixing Room)
+                        &lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;card mb-4&quot;&gt;
+            &lt;div class=&quot;card-header&quot; style=&quot;background-color:#F76902;color:white;font-size:larger;&quot;&gt;
+                &lt;span class=&quot;badge&quot; style=&quot;background-color:white;color:#F76902;&quot;&gt;4pm-5pm&lt;/span&gt;
+                Closing keynote
+            &lt;/div&gt;
+            &lt;div class=&quot;card-body&quot;&gt;
+                &lt;h4 class=&quot;card-title&quot;&gt;A Life in Open Source&lt;/h4&gt;
+                &lt;p class=&quot;card-text&quot;&gt;
+                    Remy DeCausemaker, Open Source Office Director, Twitter, SOIS ‘15&lt;br /&gt;
+                    Wegmans Theater
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;tab-pane fade&quot; id=&quot;photos&quot; role=&quot;tabpanel&quot; aria-labelledby=&quot;photos-tab&quot;&gt;
+        &lt;h2&gt;Photos&lt;/h2&gt;
+        
+&lt;div class=&quot;container row&quot; style=&quot;margin-bottom:1.2em;&quot;&gt;
+    &lt;div id=&quot;carouselIndicators&quot; class=&quot;col-12 carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+        
+        &lt;ol class=&quot;carousel-indicators&quot;&gt;
+            
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;56&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;57&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;58&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;59&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;60&quot;&gt;&lt;/li&gt;
+                
+            
+        &lt;/ol&gt;
+        
+        &lt;div class=&quot;carousel-inner&quot;&gt;
+            
+                
+                &lt;div class=&quot;carousel-item active&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2019/10/fio-panel-discussion.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2019/10/fio-balcony-view.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2019/10/fio-tim-zabel-tigeros.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2019/10/fio-lunch-break.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2019/10/fio-red-hat-swag.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+        
+        &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+            &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+        &lt;/a&gt;
+        &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+            &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+        &lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sat, 26 Oct 2019 00:00:00 -0400</pubDate>
+        <link>https://fossrit.github.io/events/2019/10/26/the-future-is-open/</link>
+        <guid isPermaLink="true">https://fossrit.github.io/events/2019/10/26/the-future-is-open/</guid>
+        
+        
+        <category>events</category>
+        
+      </item>
+    
+      <item>
+        <title>Election Night Hackathon 2018</title>
+        <description>&lt;p&gt;Students and faculty collaborated and worked on projects during the 2018 US midterm elections.&lt;/p&gt;
+
+&lt;div class=&quot;container row&quot; style=&quot;margin-bottom:1.2em;&quot;&gt;
+    &lt;div id=&quot;carouselIndicators&quot; class=&quot;col-12 carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+        
+        &lt;ol class=&quot;carousel-indicators&quot;&gt;
+            
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;54&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;55&quot;&gt;&lt;/li&gt;
+                
+            
+        &lt;/ol&gt;
+        
+        &lt;div class=&quot;carousel-inner&quot;&gt;
+            
+                
+                &lt;div class=&quot;carousel-item active&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2018/11/election-night-hackathon-01.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2018/11/election-night-hackathon-02.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+        
+        &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+            &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+        &lt;/a&gt;
+        &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+            &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+        &lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;FOSS@MAGIC proudly presents… the 8th Annual Election Night Hackathon!&lt;/p&gt;
+
+  &lt;p&gt;All types of attendees are welcome: programmers, designers, political science students, art students, and more. Learn about civic hacking and watch the regional and national election results arrive in real time.&lt;/p&gt;
+
+  &lt;p&gt;Then brainstorm and hack the night away on current projects or propose new civic hacking projects with new friends! Pizza and other consumables will be provided. Please RSVP so we know how much to buy.&lt;/p&gt;
+
+  &lt;p&gt;The Election Night Hackathon is possible thanks to the RIT MAGIC Center and Red Hat.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Tue, 06 Nov 2018 00:00:00 -0500</pubDate>
+        <link>https://fossrit.github.io/events/2018/11/06/election-night-hackathon/</link>
+        <guid isPermaLink="true">https://fossrit.github.io/events/2018/11/06/election-night-hackathon/</guid>
+        
+        
+        <category>events</category>
+        
+      </item>
+    
+      <item>
+        <title>O&apos;Reilly Open Source Convention (OSCON) 2017</title>
+        <description>&lt;p&gt;FOSS@MAGIC students and faculty exhibiting at O’Reilly’s Open Source Convention (OSCON) in 2016 and 2017.&lt;/p&gt;
+
+&lt;div class=&quot;container row&quot; style=&quot;margin-bottom:1.2em;&quot;&gt;
+    &lt;div id=&quot;carouselIndicators&quot; class=&quot;col-12 carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+        
+        &lt;ol class=&quot;carousel-indicators&quot;&gt;
+            
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;42&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;43&quot;&gt;&lt;/li&gt;
+                
+            
+        &lt;/ol&gt;
+        
+        &lt;div class=&quot;carousel-inner&quot;&gt;
+            
+                
+                &lt;div class=&quot;carousel-item active&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2017/05/oscon-01.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2017/05/oscon-02.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+        
+        &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+            &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+        &lt;/a&gt;
+        &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+            &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+        &lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://conferences.oreilly.com/oscon/&quot;&gt;OSCON&lt;/a&gt; is one of the larger open source conventions in the world.
+FOSS@MAGIC students and faculty are exhibit annually at the convention.
+Each year, students bring projects and examples of work created as part of the &lt;a href=&quot;/about/&quot;&gt;FOSS minor&lt;/a&gt; or extracurricular activities in the RIT FOSS community.
+They have presented posters and bird-of-a-feather sessions there.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
+        <link>https://fossrit.github.io/events/2017/05/10/oscon/</link>
+        <guid isPermaLink="true">https://fossrit.github.io/events/2017/05/10/oscon/</guid>
+        
+        
+        <category>events</category>
+        
+      </item>
+    
+      <item>
+        <title>NASA Space Apps Challenge 2016</title>
+        <description>&lt;p&gt;Two-day challenge designed to create solutions to space-themed, interdisciplinary problems using open-source software.&lt;/p&gt;
+
+&lt;div class=&quot;container row&quot; style=&quot;margin-bottom:1.2em;&quot;&gt;
+    &lt;div id=&quot;carouselIndicators&quot; class=&quot;col-12 carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+        
+        &lt;ol class=&quot;carousel-indicators&quot;&gt;
+            
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;32&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;33&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;34&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;35&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;36&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;37&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;38&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;39&quot;&gt;&lt;/li&gt;
+                
+            
+        &lt;/ol&gt;
+        
+        &lt;div class=&quot;carousel-inner&quot;&gt;
+            
+                
+                &lt;div class=&quot;carousel-item active&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2016/04/space-apps-challenge-01-cover.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2016/04/space-apps-challenge-02.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2016/04/space-apps-challenge-03.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2016/04/space-apps-challenge-04.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2016/04/space-apps-challenge-05.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2016/04/space-apps-challenge-06.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2016/04/space-apps-challenge-07.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2016/04/space-apps-challenge-08.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+        
+        &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+            &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+        &lt;/a&gt;
+        &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+            &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+        &lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The RIT Center for Media, Arts, Games, Interaction, &amp;amp; Creativity (&lt;a href=&quot;https://magic.rit.edu/&quot;&gt;MAGIC&lt;/a&gt;) hosted the 2016 International NASA &lt;a href=&quot;https://spaceappschallenge.org&quot;&gt;Space Apps Challenge&lt;/a&gt; on April 23rd and 24th in the Student Innovation Hall at RIT.
+RIT was one of over &lt;a href=&quot;https://2016.spaceappschallenge.org/locations/rochester-ny-usa&quot;&gt;200 participating locations&lt;/a&gt; all over the world in the challenge.&lt;/p&gt;
+
+  &lt;p&gt;The NASA Space Apps Challenge is a 48-hour global hackathon engaging thousands of problem solvers each year across the globe to work with NASA in designing creative solutions to international and interplanetary problems using open source data.
+The event is not just for coders, but for makers, designers, students, engineers, artists, and problem solvers of all types.&lt;/p&gt;
+
+  &lt;p&gt;In 2016, there were 25 challenges spread across six different themes:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Earth&lt;/li&gt;
+    &lt;li&gt;Space Station&lt;/li&gt;
+    &lt;li&gt;Solar System&lt;/li&gt;
+    &lt;li&gt;Technology&lt;/li&gt;
+    &lt;li&gt;Aeronautics&lt;/li&gt;
+    &lt;li&gt;Journey to Mars&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;Within these themes, challenges were broken out by difficulty and range from easy to advanced.
+See 2016’s challenges on the &lt;a href=&quot;https://2016.spaceappschallenge.org/challenges&quot;&gt;Space Apps Challenge website&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;“RIT is proud to, once again, host the Rochester location for the 2016 NASA Space Apps Challenge,” said &lt;a href=&quot;http://schneidy.com/&quot;&gt;Dan Schneiderman&lt;/a&gt;, FOSS@MAGIC Research Associate and Community Liaison.
+“We’re lucky to have such incredible partners both on and off campus to bring this challenge back to RIT.
+With all of the students and faculty working on projects to help out the local and global communities, we’re truly a campus that aims for the stars.”&lt;/p&gt;
+
+  &lt;p&gt;We like to thank AT&amp;amp;T for supporting this event.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.rit.edu/news/story.php?id=55389&quot;&gt;&lt;em&gt;See the official RIT press release.&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 23 Apr 2016 00:00:00 -0400</pubDate>
+        <link>https://fossrit.github.io/events/2016/04/23/space-apps-hackathon/</link>
+        <guid isPermaLink="true">https://fossrit.github.io/events/2016/04/23/space-apps-hackathon/</guid>
+        
+        
+        <category>events</category>
+        
+      </item>
+    
+      <item>
+        <title>BrickHack 2016</title>
+        <description>&lt;p&gt;&lt;em&gt;An event report was published by RIT FOSS student &lt;a href=&quot;https://justinwflory.com/&quot;&gt;Justin W. Flory&lt;/a&gt; on the &lt;a href=&quot;https://communityblog.fedoraproject.org/brickhack-2016-event-report/&quot;&gt;Fedora Community Blog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Over the weekend of March 5th – 6th, 2016, the Fedora Project sponsored &lt;a href=&quot;https://brickhack.io/&quot;&gt;BrickHack 2016&lt;/a&gt;.
+BrickHack 2016 was a hackathon event hosted at the &lt;a href=&quot;https://www.rit.edu/&quot;&gt;Rochester Institute of Technology&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;container row&quot; style=&quot;margin-bottom:1.2em;&quot;&gt;
+    &lt;div id=&quot;carouselIndicators&quot; class=&quot;col-12 carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+        
+        &lt;ol class=&quot;carousel-indicators&quot;&gt;
+            
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;20&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;21&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;22&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;23&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;24&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;25&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;26&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;27&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;28&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;29&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;30&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;31&quot;&gt;&lt;/li&gt;
+                
+            
+        &lt;/ol&gt;
+        
+        &lt;div class=&quot;carousel-inner&quot;&gt;
+            
+                
+                &lt;div class=&quot;carousel-item active&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2016/03/brickhack-2016-hack-session.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2016/03/brickhack-2016-aerial-view.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2016/03/brickhack-2016-hackers.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2016/03/brickhack-2016-fedora-winners.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2016/03/brickhack-2016-open-source-table.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2016/03/brickhack-2016-best-in-foss-remy-sj.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2016/03/brickhack-2016-best-in-foss-winners.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2016/03/brickhack-2016-chris-bitler-pebble-watch.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2016/03/brickhack-2016-cprofitt.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2016/03/brickhack-2016-nolski-judging.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2016/03/brickhack-2016-decause-nolski.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2016/03/brickhack-2016-decause-teaching.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+        
+        &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+            &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+        &lt;/a&gt;
+        &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+            &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+        &lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;What exactly is BrickHack?
+The organizers describe it as the following:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;March 5-6 ignites a weekend devoted to 400 designers and coders sinking 24 hours into learning, building, and creating unique projects.
+Mentors and industry representatives will also join the fray to lend expertise and share wisdom.
+The event will take place in RIT’s Gordon Field House for a centralized, communal hacking experience.
+Expect food, swag, and timeless brick-laden memories.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As an event sponsor, the &lt;a href=&quot;https://fedoraproject.org/wiki/Fedora_Ambassadors_North_America_(FAMNA)&quot;&gt;Fedora Ambassadors of North America&lt;/a&gt; had a table for the event.
+The Ambassadors offered mentorship and assistance to BrickHack 2016 programmers, gave away some free Fedora swag, and offered an introduction to Linux, open source, and the community.&lt;/p&gt;
+
+&lt;h2 id=&quot;teaching-open-source-and-fedora&quot;&gt;Teaching open source and Fedora&lt;/h2&gt;
+
+&lt;p&gt;After the hacking began, there were tech talks offered by a variety of sponsoring organizations.
+As the sponsor of the “Best in FOSS” category, Fedora’s &lt;a href=&quot;https://fedoraproject.org/wiki/User:Decause&quot;&gt;Remy DeCausemaker&lt;/a&gt; (decause) gave a talk titled “Introduction to FOSS Contribution and Licensing”.
+In his talk, he went over the basics of contributing to free and open source software projects, licensing your work under open source licenses, and everything in between.
+There was a live question pad that attendees could edit in their questions to ask at the end of the talk.&lt;/p&gt;
+
+&lt;p&gt;There was a lot of personal engagement at the talk and many people who attended were looking at getting involved with open source projects already.
+They weren’t sure of how to take the first steps.
+Through an hour of guidance, Remy demonstrated the essential requirements of getting “bootstrapped” to contribute.
+You can find a text log of the talk &lt;a href=&quot;https://meetbot.fedoraproject.org/fedora-meeting-4/2016-03-05/famna.2016-03-05-22.00.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;judging-brickhack-2016-best-in-foss&quot;&gt;Judging BrickHack 2016 “Best in FOSS”&lt;/h2&gt;
+
+&lt;p&gt;After the deadline passed, the judging phase began.
+Remy joined forces with a professor from the FOSS@MAGIC program at RIT, Professor &lt;a href=&quot;https://www.rit.edu/directory/sxjics-stephen-jacobs&quot;&gt;Stephen Jacobs&lt;/a&gt;.
+Together, the two traveled table to table visiting the projects of everyone who submitted to “Best in FOSS“.
+Some of the demonstrations added an extra perspective that we wouldn’t have seen just from text.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 05 Mar 2016 00:00:00 -0500</pubDate>
+        <link>https://fossrit.github.io/events/2016/03/05/brickhack/</link>
+        <guid isPermaLink="true">https://fossrit.github.io/events/2016/03/05/brickhack/</guid>
+        
+        
+        <category>events</category>
+        
+      </item>
+    
+      <item>
+        <title>Software Freedom Day 2015</title>
+        <description>&lt;p&gt;&lt;em&gt;Originally published &lt;a href=&quot;https://fedoramagazine.org/celebrating-software-freedom-day-2015/&quot;&gt;on the Fedora Magazine&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Software Freedom Day (SFD) is a worldwide celebration of Free and Open Source Software (FOSS).
+Our goal in this celebration is to educate the worldwide public about the benefits of using high quality FOSS in education, in government, at home, and in business — in short, everywhere!”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;container row&quot; style=&quot;margin-bottom:1.2em;&quot;&gt;
+    &lt;div id=&quot;carouselIndicators&quot; class=&quot;col-12 carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+        
+        &lt;ol class=&quot;carousel-indicators&quot;&gt;
+            
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;17&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;18&quot;&gt;&lt;/li&gt;
+                
+            
+                
+                &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;19&quot;&gt;&lt;/li&gt;
+                
+            
+        &lt;/ol&gt;
+        
+        &lt;div class=&quot;carousel-inner&quot;&gt;
+            
+                
+                &lt;div class=&quot;carousel-item active&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2015/09/sfd-2015-group.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2015/09/sfd-2015-table.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+                
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2015/09/sfd-2015-badge-winners.jpg&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+        
+        &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+            &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+        &lt;/a&gt;
+        &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+            &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+        &lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Each year, Software Freedom Day (SFD) events are organized by volunteers in dozens of cities worldwide.
+These events each take on their own character, but typically involve some sort of address from the organizers, demos and presentations from community members, and installfests and hackathons.
+Each venue and organizer will have their own agenda and timeline, and there were specific things that Fedora pitched to local attendees at a number of events this year.&lt;/p&gt;
+
+&lt;p&gt;You can read more about the competitions and activities that attendees participated in here on the &lt;a href=&quot;https://fedoraproject.org/wiki/Softwarefreedomday/2015&quot;&gt;SoftwareFreedomDay page on the Fedora Wiki&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 19 Sep 2015 00:00:00 -0400</pubDate>
+        <link>https://fossrit.github.io/events/2015/09/19/software-freedom-day/</link>
+        <guid isPermaLink="true">https://fossrit.github.io/events/2015/09/19/software-freedom-day/</guid>
+        
+        
+        <category>events</category>
+        
+      </item>
+    
+      <item>
+        <title>Software Freedom Day 2013</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;What&lt;/strong&gt;: Join local FOSS Community folks for a Celebration of Software Freedom!
+There will be hacking, installfests, food, design contests, prizes, and more!&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Where&lt;/strong&gt;: Our event will be taking place in the newly opened RIT MAGIC Center, Building 87, room 1600.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Who&lt;/strong&gt;: This event is open to the public.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bring&lt;/strong&gt;: Your laptops, devices, or other supplies you will need to create submission for various coding competitions and design challenges.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Contact&lt;/strong&gt;: Remy DeCausemaker&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 21 Sep 2013 00:00:00 -0400</pubDate>
+        <link>https://fossrit.github.io/events/2013/09/21/software-freedom-day/</link>
+        <guid isPermaLink="true">https://fossrit.github.io/events/2013/09/21/software-freedom-day/</guid>
+        
+        
+        <category>events</category>
+        
+      </item>
+    
+      <item>
+        <title>White House Champions of Change</title>
+        <description>&lt;p&gt;The &lt;a href=&quot;https://www.rit.edu/magic/&quot;&gt;RIT Center for Media, Arts, Games, Interaction &amp;amp; Creativity&lt;/a&gt; (MAGIC) is pleased to announce that a student-led project entitled “&lt;a href=&quot;/projects/skytime&quot;&gt;Sky Time&lt;/a&gt;” has been selected for inclusion in the White House Champions of Change event on July 23rd in Washington, D.C.&lt;/p&gt;
+
+&lt;div class=&quot;container row&quot; style=&quot;margin-bottom:1.2em;&quot;&gt;
+    &lt;div id=&quot;carouselIndicators&quot; class=&quot;col-12 carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+        
+        &lt;div class=&quot;carousel-inner&quot;&gt;
+            
+                
+                &lt;div class=&quot;carousel-item active&quot;&gt;
+                
+                    &lt;img class=&quot;d-block w-100&quot; src=&quot;/events/assets/2013/07/skytime-in-white-house.png&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;SkyTime is an educational game for the &lt;a href=&quot;https://sugarlabs.org/&quot;&gt;Sugar Desktop Environment&lt;/a&gt; running on the XO laptop of the &lt;a href=&quot;https://web.archive.org/web/20191221235809/http://one.laptop.org/about/mission&quot;&gt;One Laptop Per Child (OLPC)&lt;/a&gt; initiative.
+The event celebrates the best projects to emerge from the nationwide Hack for Change event that was part of the National Day of Civic Hacking.
+In particular, the Champions of Change program will highlight “…extraordinary leaders in transformative civic hacking and civic engagement” and we are thrilled that RIT students have been chosen to be included in this event.
+More information on the Champions of Change program is available on the &lt;a href=&quot;https://web.archive.org/web/20130728184044/http://www.whitehouse.gov/champions&quot;&gt;White House website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The student team members responsible for “Sky Time” are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Jennifer Kotler, Major in Biomedical Illustration, CIAS¹&lt;/li&gt;
+  &lt;li&gt;Ryan Stush, New Media Interactive Development, GCCIS&lt;/li&gt;
+  &lt;li&gt;David Wilson, Game Design and Development, GCCIS&lt;/li&gt;
+  &lt;li&gt;Ian Furry, Game Design and Development, GCCIS&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(¹&lt;em&gt;Jennifer is the team lead and will be representing the team in Washington, D.C.&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;“Sky Time” began as a class project in a course on Humanitarian Free and Open Source Software offered through the RIT School of Interactive Games and Media, designed by &lt;a href=&quot;https://www.rit.edu/directory/sxjics-stephen-jacobs&quot;&gt;Professor Stephen Jacobs&lt;/a&gt; and taught by Justin Sherrill.
+From there, it was refined during the Rochester Hack for Change Hackathon, an event hosted by the RIT MAGIC Center and orchestrated by Remy DeCausemaker, Research Associate at the RIT Lab for Technological Literacy’s FOSS@RIT initiative.
+The hackathon was one of 95 events participating in the White House’s National Day of Civic Hacking June 1st-2nd.&lt;/p&gt;
+
+&lt;p&gt;Currently, all four students are working through FOSS@RIT initiative this summer.
+Ryan, David and Ian are working with a fourth student on another OLPC Game, a version of the venerable “Lemonade Stand”, through the Summer Undergraduate Research Fellows program.
+Jennifer is hired by FOSS@RIT as a full-time artist/designer working on several projects, including Lemonade Stand.&lt;/p&gt;
+
+&lt;p&gt;This concept of taking class projects, ideas, and teamwork, and extending the work, adding polish, and focus through the MAGIC Center towards greater public adoption and impact is exactly what we had hoped for when the MAGIC Center was created by President Destler in February.
+We are immensely proud of our students and their work, as well as the faculty and staff that supported the efforts that enabled this activity, and look forward to their participation at the event in Washington this summer.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 Jul 2013 00:00:00 -0400</pubDate>
+        <link>https://fossrit.github.io/events/2013/07/23/white-house-champions-change/</link>
+        <guid isPermaLink="true">https://fossrit.github.io/events/2013/07/23/white-house-champions-change/</guid>
+        
+        
+        <category>events</category>
+        
+      </item>
+    
+      <item>
+        <title>Walter Bender Book Signing</title>
+        <description>&lt;p&gt;&lt;strong&gt;RIT to host Reading and Book Signing with Walter Bender, Executive Director of SugarLabs and Co-Founder of One Laptop Per Child&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;WHAT&lt;/strong&gt;: Free book reading and signing&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;WHEN&lt;/strong&gt;: 7:00 p.m., Wednesday April 17th, 2013&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;WHERE&lt;/strong&gt;: Golisano Hall atrium and auditorium (Bldg 70, Room 1400)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;PARKING&lt;/strong&gt;: Parking is available in J Lot, on the north side of RIT’s campus&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sponsors&lt;/strong&gt;: RIT MAGIC Center, Red Hat, StormFrog, RIT Simone Center for Student Innovation and Entrepreneurship, Lab for Technological Literacy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Copies of “Learning to Change The World” will be available for purchase at the signing.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Walter Bender has worked to empower the children of developing countries to learn using technology.
+The co-founder of One Laptop Per Child and founder of Sugar Labs will share his lessons with educators, social entrepreneurs and technologists during a free and open talk at 7 p.m. April 17 at Rochester Institute of Technology.&lt;/p&gt;
+
+&lt;p&gt;The discussion, held in Golisano Hall auditorium, will address the history of One Laptop Per Child, social entrepreneurship lessons and a futuristic look at attaining the organizations educational goals.
+The talk will include a discussion of points from his book, Learning to Change the World: The Social Impact of One Laptop Per Child.&lt;/p&gt;
+
+&lt;p&gt;Bender is currently executive director of Sugar Labs, a non-profit foundation that develops Sugar—a free and open source desktop environment designed with the goal of being used by children for interactive learning.
+He is the former director of MIT’s Media Lab and a co-founder of One Laptop Per Child, a non- profit organization with the mission of providing more information and better education to the world’s underprivileged via an inexpensive laptop.&lt;/p&gt;
+
+&lt;p&gt;“Bender’s book not only tells the story of this pioneering effort, but also puts the lessons of what it means to collaborate and work in this environment into perspective for educators and future social entrepreneurs,” says Stephen Jacobs, a professor in RIT’s School of Interactive Games and Media.&lt;/p&gt;
+
+&lt;p&gt;Copies of the book will be available for purchase at the signing.
+The talk is sponsored by RIT’s new MAGIC Center, Red Hat, StormFrog, the Simone Center for Innovation and Entrepreneurship and the Lab for Technological Literacy. For more information on the talk, contact &lt;a href=&quot;https://www.rit.edu/directory/sxjics-stephen-jacobs&quot;&gt;Stephen Jacobs&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Apr 2013 00:00:00 -0400</pubDate>
+        <link>https://fossrit.github.io/events/2013/04/17/walter-bender-book-signing/</link>
+        <guid isPermaLink="true">https://fossrit.github.io/events/2013/04/17/walter-bender-book-signing/</guid>
+        
+        
+        <category>events</category>
+        
+      </item>
+    
+  </channel>
+</rss>
