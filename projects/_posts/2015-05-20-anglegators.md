@@ -20,7 +20,7 @@ AngleGators is a Python game for the OLPC XO laptops to teach angle measurements
 
 ## Team members
 
-* [Alexandria Mack](https://github.com/amm4108)
+* [Alexandria Mack](https://github.com/Aalaizah)
 * [Liam Middlebrook](https://github.com/liam-middlebrook)
 * [Melody](https://github.com/mellolikejello)
 * [William Russell](https://github.com/Red-Two)

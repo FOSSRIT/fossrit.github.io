@@ -39,7 +39,7 @@ Priority is given to projects submitted by Saturday, March 14th, 2020.
 #### Note on COVID-19
 
 RIT is closely monitoring the outbreak of the 2019 Novel Coronavirus (COVID-19).
-The university has a [dedicated COVID-19 page](https://www.rit.edu/coronavirus) with information from the administration about its impact on RIT and the community.
+The university [had] a dedicated COVID-19 page with information from the administration about its impact on RIT and the community.
 At the time of writing, Imagine RIT 2020 is still planned.
 
 

@@ -25,7 +25,7 @@ Rachel and Zack Seward met with our Programmer/Journalists, and were invited to 
 Some weeks later, WXXI contacted our team about covering the election and what our students were planning on doing so they could cover the story.
 The week before the big day, FOSS@RIT sent some Hackers and Storytellers to WXXI HQ, to meet with Rachel, Zack, and IT pro Steve Dodd.
 
-As Monroe County and most other County's Board of Elections in New York State have switched from classic lever voting machines, to new Electronic Optical Scan Machines, we all had to work together on making use of the new results from the [Monroe County Board of Elections (MCBOE)](https://www2.monroecounty.gov/elections-index.php).
+As Monroe County and most other County's Board of Elections in New York State have switched from classic lever voting machines, to new Electronic Optical Scan Machines, we all had to work together on making use of the new results from the Monroe County Board of Elections (MCBOE).
 During our Primary Results Viewing earlier this fall, we got our first look at the `.XML` files being made public, and the _Flash Results_ page used to provide up-to-the-minute unofficial results from the MCBOE.
 
 Most media outlets task fleets of interns with following results pages just like this one, to manually copy, paste, compute, and re-paste the results into `.html` pages to provide results via the web.
