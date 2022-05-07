@@ -5,7 +5,7 @@
 
 set -eu
 
-DEPLOY_DIR=~/project
+DEPLOY_DIR=~/project/html
 
 # trust GitHub server keys
 if [[ ! -d ~/.ssh/ ]]; then
@@ -15,7 +15,7 @@ ssh-keyscan github.com >> ~/.ssh/known_hosts
 
 # stage generated HTML for GitHub Pages
 git clone --quiet --branch=gh-pages "$CIRCLE_REPOSITORY_URL" "$DEPLOY_DIR"
-rsync --archive --recursive --verbose --remove-source-files $HOME/$CIRCLE_PROJECT_REPONAME/public/* "$DEPLOY_DIR"
+rsync --archive --recursive --verbose --remove-source-files $HOME/project/_site/* "$DEPLOY_DIR"
 
 # git client setup
 cd "$DEPLOY_DIR"
