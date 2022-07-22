@@ -32,7 +32,7 @@ Most media outlets task fleets of interns with following results pages just like
 This process is painful and often by the time you go through all of this manual copy-pasting and refreshing, the results are already out of date.
 `.XML` files, however, work very similarly to something like an RSS feed, and provide an ongoing stream of data to the flash site.
 So why not try to tap into that stream to back-end and automatically update the `.html` results, instead of doing everything by hand?
-This is exactly what WXXI was looking to implement, and exactly what FOSS@RIT's Ace Hacker, [Nate Case](http://nathanielca.se/category/fossrit.html) was able to execute.
+This is exactly what WXXI was looking to implement, and exactly what FOSS@RIT's Ace Hacker, [Nate Case](https://web.archive.org/web/20180903235749/nathanielca.se/category/fossrit.html) was able to execute.
 After about 30 minutes of phone calls to the MCBOE, and `whois`'ing various IP addresses, we managed to locate the (at the time, inactive) results page for Monroe County, and another active results page put out by the same software/voting machine provider in London, Ontario, Canada.
 From the results on that page, we were able to prototype an `.XML`->`.html` results page that would likely work with Monroe County's results once they were live!
 
