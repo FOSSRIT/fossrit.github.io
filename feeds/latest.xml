@@ -5,9 +5,45 @@
     <description>RIT Linux Users Group Announcements</description>
     <link>https://fossrit.github.io/</link>
     <atom:link href="https://fossrit.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 22 Jul 2022 03:38:33 +0000</pubDate>
-    <lastBuildDate>Fri, 22 Jul 2022 03:38:33 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Jul 2022 15:01:03 +0000</pubDate>
+    <lastBuildDate>Fri, 22 Jul 2022 15:01:03 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Open Work in Academia Summit — Sep 7-9, 2022 in Rochester, NY</title>
+        <description>&lt;p&gt;Join us for the &lt;a href=&quot;https://www.rit.edu/openworksummit/&quot;&gt;first summit regarding Open Work in Academia&lt;/a&gt; September 7-9, 2022 in Rochester, NY.&lt;/p&gt;
+
+&lt;p&gt;During this summit, attendees will have the opportunity to meet, listen to, and collaborate with some of the leaders in the fields of &lt;a href=&quot;https://fossrit.github.io/open-work-definition/&quot;&gt;Open Work&lt;/a&gt; in Industry, Colleges and Universities and related sectors.&lt;/p&gt;
+
+&lt;h2 id=&quot;date-and-location&quot;&gt;Date and location&lt;/h2&gt;
+
+&lt;p&gt;September 7-9, 2022&lt;/p&gt;
+
+&lt;p&gt;Hyatt Regency Rochester
+125 East Main Street
+Rochester, NY, 14604, US&lt;/p&gt;
+
+&lt;h2 id=&quot;attendee-registration&quot;&gt;Attendee registration&lt;/h2&gt;
+
+&lt;p&gt;Registration is now open.
+The goal of this event is to foster conversations across different areas of specialization and, as a result, we are limiting the registration to 100 attendees.
+There’s been significant initial interest in this event since our first announcement and we expect to sell out quickly.
+This is planned as an in-person event, COVID-willing, but we’ll move to virtual if we must.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.ideal-logic.com/ritreg?key=5HCZ-DDY7S_K9KH-5PTF_d45a6151b0e2&quot;&gt;Register here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For more information about the event, such as the event’s Code of Conduct and details about sponsorship, refer to the main event webpage:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.rit.edu/openworksummit/&quot;&gt;https://www.rit.edu/openworksummit/&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
+        <link>https://fossrit.github.io/announcements/2022/07/21/open-works-in-academia-summit/</link>
+        <guid isPermaLink="true">https://fossrit.github.io/announcements/2022/07/21/open-works-in-academia-summit/</guid>
+        
+        
+        <category>announcements</category>
+        
+      </item>
     
       <item>
         <title>Summer FOSS Hours: Every other Thursday at 5pm ET</title>
@@ -485,68 +521,6 @@ Additionally, check out &lt;a href=&quot;https://twitter.com/UNICEFinnovate&quot
         <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
         <link>https://fossrit.github.io/announcements/2019/04/01/unicef-foss-community-building/</link>
         <guid isPermaLink="true">https://fossrit.github.io/announcements/2019/04/01/unicef-foss-community-building/</guid>
-        
-        
-        <category>announcements</category>
-        
-      </item>
-    
-      <item>
-        <title>Open Source Round Table at the Game Developers Conference in San Francisco</title>
-        <description>&lt;p&gt;Over the past several years, there has been a greater willingness within the game industry to use open source technologies and/or put their own proprietary tech under a wide variety of fully or semi-open licenses.
-There are also more independents working with open game engines like Godot.&lt;/p&gt;
-
-&lt;p&gt;This past fall, the &lt;a href=&quot;https://en.wikipedia.org/wiki/Academy_of_Motion_Picture_Arts_and_Sciences&quot;&gt;Academy for Motion Picture Arts and Sciences&lt;/a&gt; joined forces with the &lt;a href=&quot;https://www.linuxfoundation.org/&quot;&gt;Linux Foundation&lt;/a&gt; to create the &lt;a href=&quot;https://www.aswf.io/&quot;&gt;Academy Software Foundation&lt;/a&gt; to “provide a ‘neutral’ space for artists, engineers and developers to share work and collaborate on projects, thereby increasing both the quality and quantity of open source tools.”
-The companies currently signed on are, by a wide majority, film industry companies.
-There are a few game industry companies currently engaged and the language on the website alludes to this foundation covering multimedia and games as well.&lt;/p&gt;
-
-&lt;p&gt;The goal of this IGDA GDC roundtable is to to learn more about the ASWF and its mission and to ask questions like the following:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;What are the up and downsides of such an effort?&lt;/li&gt;
-  &lt;li&gt;Considering there is an overlap, but not an overall match, between the needs of game production and film and television production, should games be a part of this effort or should there be a separate foundation?&lt;/li&gt;
-  &lt;li&gt;What might next steps be in seeing this model, or another, move forward to promote the benefits of open source to and/or within the game industry?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;who-will-be-there&quot;&gt;Who will be there?&lt;/h2&gt;
-
-&lt;p&gt;The session will be led by &lt;a href=&quot;https://www.rit.edu/gccis/stephen-jacobs&quot;&gt;Stephen Jacobs&lt;/a&gt; of the &lt;a href=&quot;https://fossrit.github.io/&quot;&gt;FOSS@MAGIC initiative&lt;/a&gt; and a Professor in the School of Interactive Games and Media at the Rochester Institute of Technology.
-Joining the roundtable are &lt;a href=&quot;https://twitter.com/cra&quot;&gt;Chris Aniszczyk&lt;/a&gt; of the Linux Foundation, &lt;a href=&quot;https://twitter.com/suehle&quot;&gt;Ruth Suehle&lt;/a&gt; of Red Hat, Inc. and &lt;a href=&quot;https://www.linkedin.com/in/toddprives/&quot;&gt;Todd Prives&lt;/a&gt;, of the Academy Software Foundation Board.&lt;/p&gt;
-
-&lt;p&gt;The roundtable will be held at GDC in the Moscone Center Hall on March 20th at 9:00 AM.
-You must be an attendee of the Game Developer’s Conference with at least an “Expo Pass” to attend the roundtable.&lt;/p&gt;
-
-&lt;h2 id=&quot;roundtable-agenda&quot;&gt;Roundtable Agenda&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Call to order / brief explanation of the FOSS SIG and day’s topic&lt;/li&gt;
-  &lt;li&gt;Linux Foundation and Red Hat representative introductions&lt;/li&gt;
-  &lt;li&gt;Attendee introductions&lt;/li&gt;
-  &lt;li&gt;Informal Presentation:
-    &lt;ul&gt;
-      &lt;li&gt;What the Linux Foundation does&lt;/li&gt;
-      &lt;li&gt;What the ASF is&lt;/li&gt;
-      &lt;li&gt;How it was formed&lt;/li&gt;
-      &lt;li&gt;What its goals are&lt;/li&gt;
-      &lt;li&gt;How ASF perceives game industry participation and role&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Discussion:
-    &lt;ul&gt;
-      &lt;li&gt;ASF and Games Industry: what they could do&lt;/li&gt;
-      &lt;li&gt;If they’re a fit or if a different foundation needs to be set up because of significant different needs within the Games industry or is a formal sub-entity should be considered under ASF&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;get-involved&quot;&gt;Get involved&lt;/h2&gt;
-
-&lt;p&gt;Want to get involved before the conference kicks off?
-Email &lt;a href=&quot;mailto:sj@magic.rit.edu&quot;&gt;Stephen Jacobs&lt;/a&gt; and say hello, or join the SIG’s official &lt;a href=&quot;https://www.facebook.com/groups/824428741222702&quot;&gt;Facebook group&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
-        <link>https://fossrit.github.io/announcements/2019/02/20/open-source-roundtable-gdc/</link>
-        <guid isPermaLink="true">https://fossrit.github.io/announcements/2019/02/20/open-source-roundtable-gdc/</guid>
         
         
         <category>announcements</category>
