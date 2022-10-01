@@ -13,4 +13,6 @@ group :test do
   gem 'rspec'
   gem 'selenium-webdriver'
   gem 'webdrivers'
+  gem "webrick", "~> 1.7"
 end
+
