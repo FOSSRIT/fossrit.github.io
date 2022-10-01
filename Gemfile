@@ -14,3 +14,5 @@ group :test do
   gem 'selenium-webdriver'
   gem 'webdrivers'
 end
+
+gem "webrick", "~> 1.7"
