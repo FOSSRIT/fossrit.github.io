@@ -31,6 +31,8 @@ seo_keywords: >  # this symbol ignores newlines
 twitter_account: "@RITMAGIC"
 url: "https://fossrit.github.io"
 
+social:
+  irc: https://web.libera.chat/#rit-foss
 
 # --- events page settings ---
 
