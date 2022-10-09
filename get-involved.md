@@ -4,7 +4,7 @@ title: Get Involved
 slug: get-involved
 ---
 
-Join our IRC channel [#rit-foss on Freenode IRC](https://webchat.freenode.net/?channels=rit-foss) or the [Telegram group](https://telegram.me/fossrit).
+Join our IRC channel [#rit-foss on Freenode IRC]({{site.social.irc}}) or the [Telegram group](https://telegram.me/fossrit).
 There are also FOSS Hours every {{ site.meeting-day }} from {{ site.meeting-time }} in {{ site.meeting-place }}.
 Come meet other students and faculty involved with FOSS efforts at RIT!
 
@@ -21,7 +21,7 @@ Looking for more information? Email Prof. Stephen Jacobs at {{ site.email }}.
 * Come to FOSS Hours!
 * [Slack (RIT email required)](https://rit-lug.slack.com/)
 * [Telegram](https://telegram.me/fossrit)
-* [IRC channel](ircs://irc.freenode.net/rit-foss) ([web chat](https://webchat.freenode.net/?channels=rit-foss))
+* [IRC channel](ircs://irc.freenode.net/rit-foss) ([web chat]({{site.social.irc}}))
 * [Twitter](https://twitter.com/RITMAGIC)
 
 
