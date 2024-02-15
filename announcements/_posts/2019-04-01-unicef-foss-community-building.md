@@ -6,7 +6,7 @@ date: 2019-04-01
 ---
 
 On Monday, April 1st, 2019, [Prof. Stephen Jacobs](https://www.rit.edu/gccis/stephen-jacobs) and [Justin W. Flory](https://justinwflory.com/) met with the next cohort of international humanitarian start-ups funded by the [UNICEF Innovation Fund](https://unicefinnovationfund.org/).
-This continues the partnership <!--https://blogs.unicef.org/innovation/rits-partnership-with-the-kosovo-innovation-lab/ "RIT’s partnership with the Kosovo Innovation Lab"--> between FOSS@MAGIC and the [UNICEF Office of Innovation](https://www.unicef.org/innovation/) started in 2012.
+This [continues the partnership](https://blogs.unicef.org/innovation/rits-partnership-with-the-kosovo-innovation-lab/ "RIT’s partnership with the Kosovo Innovation Lab") between FOSS@MAGIC and the [UNICEF Office of Innovation](https://www.unicef.org/innovation/) started in 2012.
 Jacobs and Flory worked with UNICEF fund managers to support the next round of funded companies to build open source communities around their humanitarian products.
 
 
