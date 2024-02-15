@@ -44,6 +44,9 @@ jobs:
     docker:
       - image: cibuilds/base:latest
     steps:
+      - add_ssh_keys:
+          fingerprints:
+            - "55:23:15:86:dc:c3:8e:d3:09:f5:f5:39:5f:36:ec:af"
       # deploy.sh dependencies
       - run: apk add rsync
 
