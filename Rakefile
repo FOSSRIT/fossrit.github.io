@@ -8,6 +8,7 @@ task :test do
     :check_html => true,
     :empty_alt_ignore => true,
     :http_status_ignore => [0,999],
+    :disable_external => true,
     :url_ignore => [/people/, /projects/],
     :cache => {
       :timeframe => '6w'
