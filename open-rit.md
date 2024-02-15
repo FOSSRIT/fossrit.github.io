@@ -14,7 +14,7 @@ To learn more about what Open@RIT does, you can visit their summary page, [What 
 ## How to get involved with Open@RIT
 
 1. Join the Mailing List.
-   Send a request to be added to [sj@magic.rit.edu](sj@magic.rit.edu).
+   Send a request to be added to `sj` [at] `magic` [dot] `rit` [dot] `edu`.
 2. Read, and if you’d like to, comment on and/or contribute to the “[_Activities_][1]” document.
 3. Fill out [the form][2] we are using to populate a prototype directory of people and projects in the Open across campus.
    The intent of this action is to allow for greater collaboration across units and to begin to collect metrics on the University’s impact in and 
