@@ -7,12 +7,14 @@ slug: open-rit
 
 ## What is Open@RIT?
 
-You can find the Open@RIT Website here: [Open@RIT](https://openr.it/). Open@RIT is the new Open Programs Office for the University directed by [Professor Stephen Jacobs](https://www.rit.edu/directory/sxjics-stephen-jacobs). To learn more about what Open@RIT does, you can visit their summary page, [What We Do](https://openr.it/about/).
+You can find the Open@RIT Website here: [Open@RIT](https://openr.it/). Open@RIT is the new Open Programs Office for the University directed by [Professor Stephen Jacobs](https://www.rit.edu/directory/sxjics-stephen-jacobs). It’s creation was approved by Provost Dr. Ellen Granberg at the end of June 2020 and placed under the Office of the Vice-President of Research, Dr. Ryne Raffaelle at the beginning of August. 
+
+To learn more about what Open@RIT does, you can visit their summary page, [What We Do](https://openr.it/about/).
 
 ## How to get involved with Open@RIT
 
 1. Join the Mailing List.
-   Send a request to be added to `sj` [at] `magic` [dot] `rit` [dot] `edu`.
+   Send a request to be added to [sj@magic.rit.edu](sj@magic.rit.edu).
 2. Read, and if you’d like to, comment on and/or contribute to the “[_Activities_][1]” document.
 3. Fill out [the form][2] we are using to populate a prototype directory of people and projects in the Open across campus.
    The intent of this action is to allow for greater collaboration across units and to begin to collect metrics on the University’s impact in and 
