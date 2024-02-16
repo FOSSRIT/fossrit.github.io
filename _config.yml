@@ -63,6 +63,6 @@ plugins:
 # --- meeting schedule settings ---
 
 # They appear exactly as typed. Follow the format already here when updating.
-meeting-day: Thursday
-meeting-place: Jitsi (see Calendar)
-meeting-time: 5:00PM - 6:00PM
+meeting-day: Wednesday
+meeting-place: SHED makerspace computer lab (room 1350)
+meeting-time: 6:00PM - 8:00PM

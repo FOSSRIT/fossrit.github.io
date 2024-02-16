@@ -26,6 +26,8 @@ This repository is how to edit the website [Fossrit.Github.io](https://fossrit.g
 6. Wait patiently while the request is reviewed as well as run through CI tests.
 Once you complete those steps, you have successfully contributed to this repository!
 
+You can also visit [runbook.fossrit.community](https://runbook.fossrit.community/infra/website/), which contains some instructions about the structure of a portion of the website, such as calendar feed and creating a development environment. If you are interested in those areas, the runbook website may be useful.
+
 
 ## Legal
 
