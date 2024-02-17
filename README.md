@@ -20,9 +20,9 @@ This repository is how to edit the website [Fossrit.Github.io](https://fossrit.g
 
 1. Fork this repository!
 2. Make your desired changes to either add additional features or repair existing ones.
-3. Commit your changes to your forked repository.
-4. Push to your forked repository's main branch.
-5. Submit a pull request with those changes to the parent project (this repository).
+3. Create a feature branch for those changes.
+4. Commit your changes to your new feature branch on the forked repository.
+5. Once satisfied with your changes, open a pull request from the feature branch to the parent project.
 6. Wait patiently while the request is reviewed as well as run through CI tests.
 Once you complete those steps, you have successfully contributed to this repository!
 
