@@ -1,0 +1,40 @@
+|=============================================================|
+| Making a Open@RIT and all other Open Source Groups timeline |
+|=============================================================|
+
+In this file, I will be planning and writing down what I currently know 
+of the history.
+
+
+Timeline of FOSS class
+    • 2008 MIT proposed one laptop per child (OLPC) – big humanitarian tech project
+    • SJ wanted students to make games for OLPC
+
+-----------------------------------------------------------------
+FOSSBOX: 
+    • ~2012
+
+
+-----------------------------------------------------------------
+FOSS@RIT:
+    • Started out as a community of people with interest in free and open source software at RIT
+    • Also had a purpose of keeping FOSSbox alive.
+    • Existed in parallel with FOSS@MAGIC
+
+
+-----------------------------------------------------------------
+FOSS@MAGIC: 
+    • "maybe 2018-2019"
+    • Started out as just the Open Source minor
+    • Existed in parallel with FOSS@RIT
+
+
+-----------------------------------------------------------------
+OPEN@RIT:
+    • Sometime after Mid-year 2021
+
+
+
+
+Information Contribution Credit:
+axk4545

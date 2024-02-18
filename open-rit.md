@@ -7,12 +7,9 @@ slug: open-rit
 
 ## What is Open@RIT?
 
-Open@RIT is the new Open Programs Office for the University directed by [Professor Stephen Jacobs](https://www.rit.edu/directory/sxjics-stephen-jacobs).  It's 
-creation was approved by Provost Dr. Ellen Granberg at the end of June 2020 and placed under the Office of the Vice-President of Research, Dr. Ryne Raffaelle 
-at the beginning of August.  
+Open@RIT now has their own [Website](https://openr.it/)! Open@RIT is the new Open Programs Office for the University directed by [Professor Stephen Jacobs](https://www.rit.edu/directory/sxjics-stephen-jacobs). It’s creation was approved by Provost Dr. Ellen Granberg at the end of June 2020 and placed under the Office of the Vice-President of Research, Dr. Ryne Raffaelle at the beginning of August. 
 
-This page on the FOSS student GitHub site has been created as a placeholder in the spirit of "release eary, release often."  An official website for Open@RIT has
-been requested and is in the production queue with the RIT web team.
+To learn more about what Open@RIT does, you can visit [their summary page](https://openr.it/about/).
 
 ## How to get involved with Open@RIT
 

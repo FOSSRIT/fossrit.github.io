@@ -13,10 +13,20 @@ This is the website for the Free and Open Source Software initiative at the [RIT
 This website includes content for community initiatives, FOSS academic courses, and more.
 It is also used to communicate announcements to the RIT FOSS community.
 
+This repository is how to edit the website [Fossrit.Github.io](https://fossrit.github.io/).
+
 
 ## How to contribute
 
-See the [_Website (fossrit.github.io)_](https://runbook.fossrit.community/infra/website/ "Website (fossrit.github.io) - FOSSRIT Runbook") page in the [FOSSRIT Runbook](https://runbook.fossrit.community/).
+1. Fork this repository!
+2. Make your desired changes to either add additional features or repair existing ones.
+3. Create a feature branch for those changes.
+4. Commit your changes to your new feature branch on the forked repository.
+5. Once satisfied with your changes, open a pull request from the feature branch to the parent project.
+6. Wait patiently while the request is reviewed as well as run through CI tests.
+Once you complete those steps, you have successfully contributed to this repository!
+
+You can also visit [runbook.fossrit.community](https://runbook.fossrit.community/infra/website/), which contains some instructions about the structure of a portion of the website, such as calendar feed and creating a development environment. If you are interested in those areas, the runbook website may be useful.
 
 
 ## Legal
