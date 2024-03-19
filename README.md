@@ -29,6 +29,17 @@ Once you complete those steps, you have successfully contributed to this reposit
 You can also visit [runbook.fossrit.community](https://runbook.fossrit.community/infra/website/), which contains some instructions about the structure of a portion of the website, such as calendar feed and creating a development environment. If you are interested in those areas, the runbook website may be useful.
 
 
+## How to locally build
+
+Prerequisite to building locally is to have installed a container runtime, such as [Docker](https://www.docker.com/) and [Podman](https://podman.io/). Instructions on how these container runtimes interact with several operating systems can be found on [runbook.fossrit](https://runbook.fossrit.community/infra/website/#pre-requisites) website.
+
+To build the site locally:
+1. Navigate to the directory the project is in and run the script ``./build.sh`` which will download the Jekyll container from Docker, build the site, and serve it on port 4000.
+2. To see the site you just built, visit the website: ``http://localhost:4000``.
+
+You can then leave build.sh running and it will update your site by rebuilding with your active changes!
+
+
 ## Legal
 
 This website is licensed under the [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/).

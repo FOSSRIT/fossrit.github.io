@@ -1,7 +1,7 @@
 ---
 layout: page
-title: RIT's History of Open Source
-slug: History
+title: History
+slug: history
 
 ---
 
@@ -15,7 +15,7 @@ Open-source advocates, such as Karlie Robinson and David Nalley, were brought in
 Karlie Robinson showed the students about the Sugar Labs' Math 4 initiative which was dedicated to supporting 4th grade curricula. 
 David Nalley, who was part of the Fedora community, donated 25 XO laptops to help students contribute to the Sugar initiative.
 This ended the first iteration of the class, but the seminar class when on for several more iterations, with more incredible open-source advocates joining the picture.
-Sadly, the original history was based on an old [magic.rit.edu](https://web.archive.org/web/20150427134219/http://magic.rit.edu/foss/history.html)page, now it no longer exists.
+Sadly, the original history was based on an old [magic.rit.edu](https://web.archive.org/web/20150427134219/http://magic.rit.edu/foss/history.html) page, now it no longer exists.
 
 
 
@@ -67,7 +67,7 @@ The organization still had funding and students were still getting involved, eve
 
 ## OPEN@RIT:
 
-In 2020, the [Alfred P. Sloan Foundation](https://sloan.org/) provided [support](https://sloan.org/grant-detail/10076) for an effort led by the Rochester Institute of Technology’s Stephen Jacobs to design and launch an undergraduate-anchored program: [Open@RIT](https://openr.it/about/). 
+In 2020, the [Alfred P. Sloan Foundation](https://sloan.org/) provided [financial support](https://sloan.org/grant-detail/10076) for an effort led by the Rochester Institute of Technology’s Stephen Jacobs to design and launch an undergraduate-anchored program: [Open@RIT](https://openr.it/about/). 
 This program was situated just under Rochester Institute of Technologies Vice President for Research, [Ryne Raffaelle](https://www.rit.edu/directory/rprsps-ryne-raffaelle) and has been the home of open source at RIT for the last four years. 
 The program now participants in research projects, receives funding from grants, provides other organizations open source consultation, and hosts town halls for the open source community on campus. 
 Although the name has changed to OPEN@RIT, the organization is still involved with faculty members of Magic.
@@ -76,12 +76,13 @@ Although the name has changed to OPEN@RIT, the organization is still involved wi
 
 ### Individuals Information Contribution Credit:
 
-axk4545
-Adrian Edwards
-Michael Nolan
+*axk4545
+*Adrian Edwards
+*Michael Nolan
 
 https://rocwiki.org/BarCamp_Rochester
 https://www.hackshackers.com/
 https://opensource.com/article/19/12/humanitarian-startups-open-source
 https://openr.it/our-work/
 https://opensource.com/education/10/3/course-co-op-lifecycle-openinnovationrit
+

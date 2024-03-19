@@ -9,11 +9,13 @@
     - name: LibreCorps
       link: /librecorps/
     - name: Open@RIT
-      link: /open-rit/
+      link: https://openr.it/
     - name: Events
       link: /events/
     - name: Projects
       link: /projects/
+    - name: History
+      link: /history/
 
 - name: Announcements
   link: /announcements/
