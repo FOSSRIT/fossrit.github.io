@@ -67,7 +67,7 @@ The organization still had funding and students were still getting involved, eve
 
 ## OPEN@RIT:
 
-In 2020, the [Alfred P. Sloan Foundation](https://sloan.org/) provided [financial support](https://sloan.org/grant-detail/10076) for an effort led by the Rochester Institute of Technology’s Stephen Jacobs to design and launch an official open-source program: [Open@RIT](https://openr.it/about/). 
+In 2020, the [Alfred P. Sloan Foundation](https://sloan.org/) provided [financial support](https://sloan.org/grant-detail/10076) for an [open work](https://openworkdefinition.com/) organization led by the Rochester Institute of Technology’s Stephen Jacobs: [Open@RIT](https://openr.it/about/). 
 This program was situated just under Rochester Institute of Technologies Vice President for Research, [Ryne Raffaelle](https://www.rit.edu/directory/rprsps-ryne-raffaelle) and has been the home of open-source at RIT for the last four years. 
 The program now participates in research projects, receives funding from grants, provides other organizations open source consultation, and hosts town halls for the open-source community on campus. 
 Although the name has changed to OPEN@RIT, the organization is still involved with faculty members of Magic.
