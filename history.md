@@ -32,7 +32,7 @@ The FOSSBOX community operated for 9 years, collaborating with organizations in 
 
 
 
-## LibreCorps:
+## LibreCorps
 
 Founded in 2012, LibreCorps' first purpose was as a co-op program after developing educational games under the 'One Laptop Per Child' program.
 LibreCorps serves as an experiential learning program where students are deployed to work on real-world open-source software and data projects, supporting faculty partners with direct software development as well as community management, documentation, design, and other forms of non-code contribution.
