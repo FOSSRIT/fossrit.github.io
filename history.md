@@ -14,7 +14,7 @@ In January 2009, Rochester Institute of Technology had an honors class that deve
 Open Source advocates, such as Karlie Robinson and David Nalley, were brought in by Professor Jacobs to support the class.
 Karlie Robinson introduced the students to the Sugar Labs' Math 4 initiative which was dedicated to supporting 4th grade curricula. 
 David Nalley, who was part of the [Fedora community](https://fedoraproject.org), donated 25 XO laptops to help students contribute to the Sugar initiative.
-This ended the first iteration of the class, but the seminar class went on for several more iterations, with more incredible open-source advocates joining the picture.
+This ended the first iteration of the class, but the seminar class went on for several more iterations, with more incredible Open Source advocates joining the picture.
 Sadly, the original history was based on an old [magic.rit.edu](https://web.archive.org/web/20150427134219/http://magic.rit.edu/foss/history.html) page, now it no longer exists.
 
 
