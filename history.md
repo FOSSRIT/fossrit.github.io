@@ -19,7 +19,7 @@ Sadly, the original history was based on an old [magic.rit.edu](https://web.arch
 
 
 
-## FOSSBOX:
+## FOSSBox
 
 Estimated to have started in 2010, Stephen Jacobs hired Remy DeCausemaker (RIT alumni) to run the open-source program. Remy was initially from the Red Hat Corporation so the club had a great foundation.
 Initially, it was set up as a semi-student club, but more of an informal student group called the Free and Open-Source Software Box (FOSSBOX). It served as a 24-hour access space that was housed in the innovation center (also known as Fish Bowl). FOSSBOX used an IRC channel on Freenode to communicate when not in the designated space.
