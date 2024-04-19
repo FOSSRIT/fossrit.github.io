@@ -9,7 +9,7 @@ slug: history
 
 One Laptop Per Child ([OLPC](https://laptop.org/)) was proposed by MIT in 2005 to [fight the gap](https://laptop.org/aboutolpc/) in access to technology in education for underprivileged children.
 
-Stephen Jacobs, director of RIT's Lab for Technological Literacy (LTL) at the time, was interested in the program and acquired three OLPC XO 1.0 laptops in 2007 via the first "Give One, Get One" program. 
+[Prof. Stephen Jacobs](https://www.rit.edu/directory/sxjics-stephen-jacobs), director of RIT's Lab for Technological Literacy (LTL) at the time, was interested in the program and acquired three OLPC XO 1.0 laptops in 2007 via the first "Give One, Get One" program.
 In January 2009, Rochester Institute of Technology had an honors class that developed educational games for the OLPC program. That was the earliest documented birth of Open-Source @ RIT. 
 Open Source advocates, such as Karlie Robinson and David Nalley, were brought in by Professor Jacobs to support the class.
 Karlie Robinson introduced the students to the Sugar Labs' Math 4 initiative which was dedicated to supporting 4th grade curricula. 
@@ -39,7 +39,7 @@ The FOSSBox community operated until approximately 2015, collaborating with orga
 
 Founded in 2012, LibreCorps' first purpose was as a co-op program after developing educational games under the 'One Laptop Per Child' program.
 LibreCorps serves as an experiential learning program where students are deployed to work on real-world Open Source software and data projects, supporting faculty partners with direct software development as well as community management, documentation, design, and other forms of non-code contribution.
-RIT LibreCorps has been partnered intermittently with the UNICEF Office of Innovation since 2014.
+RIT LibreCorps has been partnered intermittently with the [UNICEF Office of Innovation](https://www.unicef.org/innovation/) since 2014.
 As a successful pilot, LibreCorps reached up to 24 supported faculty-driven software projects!
 
 
@@ -64,7 +64,12 @@ The FOSS@RIT community was full of people with an interest in free and open-sour
 When [Magic Spell Studio](https://www.rit.edu/magic/magic-spell-studios) was conceptualized, this organization was established to prioritize game development, which was where open-source got started on this campus.
 This organization was managed by [Andrew Phelps](https://professorandrewphelps.net/) in 2015. Since the magic building was not completed at the time, they were relocated to the innovation center, in the exact location that FOSSBOX initially used. 
 FOSS Hours were introduced, which helped increase the involvement of students and other interested parties. However, shortly after, Remy DeCausemaker left Rochester Institute of Technology to go work for Twitter, which made the open-source community lose its growing momentum.
-The organization still had funding and students were still getting involved, events were being run and the organization finally was relocated to inside Magic Spell Studio, which was newly constructed. FOSS@Magic existed in this manner for quite a while, but things changed once Stephen Jacobs got conversations started with UNICEF Innovation, a Tech R&D department permanently part of the United Nations System.
+FOSS@MAGIC still had funding from Red Hat and students were still getting involved, events were being run, and FOSS@MAGIC was relocated inside [MAGIC Spell Studios](https://www.rit.edu/magic/magic-spell-studios), which was newly constructed in 2018.
+During this time, Prof. Stephen Jacobs continued staffing the LibreCorps program supported by the UNICEF Office of Innovation.
+Leading students worked with the [UNICEF Venture Fund](https://www.unicefventurefund.org/) to provide community consulting and support to various early-stage start-up continents with teams based around the world.
+Through LibreCorps, FOSS@MAGIC co-op students provided guidance, mentoring, and coaching to help these diverse, global start-up companies figure out to work the Open Source Way and build a community around their products.
+
+FOSS@MAGIC existed in this manner for quite a while, until 2020 when the global COVID-19 pandemic disrupted the on-campus experience.
 
 
 
