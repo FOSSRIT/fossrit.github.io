@@ -65,7 +65,7 @@ The organization still had funding and students were still getting involved, eve
 
 
 
-## OPEN@RIT:
+## Open@RIT
 
 In 2020, the [Alfred P. Sloan Foundation](https://sloan.org/) provided [financial support](https://sloan.org/grant-detail/10076) for an [open work](https://openworkdefinition.com/) organization led by the Rochester Institute of Technology’s Stephen Jacobs: [Open@RIT](https://openr.it/about/). 
 This program was situated just under Rochester Institute of Technologies Vice President for Research, [Ryne Raffaelle](https://www.rit.edu/directory/rprsps-ryne-raffaelle) and has been the home of open-source at RIT for the last four years. 
