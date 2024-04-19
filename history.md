@@ -11,7 +11,7 @@ One Laptop Per Child ([OLPC](https://laptop.org/)) was proposed by MIT in 2005 t
 
 Stephen Jacobs, director of RIT's Lab for Technological Literacy (LTL) at the time, was interested in the program and acquired three OLPC XO 1.0 laptops in 2007 via the first "Give One, Get One" program. 
 In January 2009, Rochester Institute of Technology had an honors class that developed educational games for the OLPC program. That was the earliest documented birth of Open-Source @ RIT. 
-Open-source advocates, such as Karlie Robinson and David Nalley, were brought in by Professor Jacobs to support the class. 
+Open Source advocates, such as Karlie Robinson and David Nalley, were brought in by Professor Jacobs to support the class.
 Karlie Robinson introduced the students to the Sugar Labs' Math 4 initiative which was dedicated to supporting 4th grade curricula. 
 David Nalley, who was part of the [Fedora community](https://fedoraproject.org), donated 25 XO laptops to help students contribute to the Sugar initiative.
 This ended the first iteration of the class, but the seminar class went on for several more iterations, with more incredible open-source advocates joining the picture.
