@@ -21,7 +21,8 @@ Sadly, the original history was based on an old [magic.rit.edu](https://web.arch
 
 ## FOSSBox
 
-Estimated to have started in 2010, Stephen Jacobs hired Remy DeCausemaker (RIT alumni) to run the open-source program. Remy was initially from the Red Hat Corporation so the club had a great foundation.
+Estimated to have started in 2010, Stephen Jacobs hired Remy DeCausemaker (RIT alumni) to run the Open Source program.
+Remy was initially from the Fedora community so the club had a great foundation.
 Initially, it was set up as a semi-student club, but more of an informal student group called the Free and Open Source Software Box (FOSSBox).
 It served as a 24-hour access space that was housed in the Innovation Center (informally known as the Fish Bowl).
 FOSSBox used an IRC channel on Freenode to communicate when not in the designated space.
@@ -61,9 +62,12 @@ The FOSS@RIT community was full of people with an interest in free and open-sour
 
 ## FOSS@MAGIC:
 
-When [Magic Spell Studio](https://www.rit.edu/magic/magic-spell-studios) was conceptualized, this organization was established to prioritize game development, which was where open-source got started on this campus.
-This organization was managed by [Andrew Phelps](https://professorandrewphelps.net/) in 2015. Since the magic building was not completed at the time, they were relocated to the innovation center, in the exact location that FOSSBOX initially used. 
-FOSS Hours were introduced, which helped increase the involvement of students and other interested parties. However, shortly after, Remy DeCausemaker left Rochester Institute of Technology to go work for Twitter, which made the open-source community lose its growing momentum.
+When MAGIC was conceptualized in the Simone Center for Student Innovation, it was established to prioritize game development.
+However, many of the same drivers and organizers of FOSS@RIT were deeply tied into MAGIC, which was how the Open Source was reborn on the RIT campus.
+MAGIC was managed and led by [Andrew Phelps](https://professorandrewphelps.net/) in 2015.
+FOSS@MAGIC was headquartered in the Innovation Center, albeit without a dedicated physical space like the FOSSBox originally had.
+FOSS Hours were introduced, which helped increase the involvement of students and other interested parties.
+However, shortly after, Remy DeCausemaker left the Rochester Institute of Technology in 2015 to go work for Red Hat, which made the RIT Open Source community lose its growing momentum.
 FOSS@MAGIC still had funding from Red Hat and students were still getting involved, events were being run, and FOSS@MAGIC was relocated inside [MAGIC Spell Studios](https://www.rit.edu/magic/magic-spell-studios), which was newly constructed in 2018.
 During this time, Prof. Stephen Jacobs continued staffing the LibreCorps program supported by the UNICEF Office of Innovation.
 Leading students worked with the [UNICEF Venture Fund](https://www.unicefventurefund.org/) to provide community consulting and support to various early-stage start-up continents with teams based around the world.
@@ -77,7 +81,7 @@ FOSS@MAGIC existed in this manner for quite a while, until 2020 when the global 
 
 In 2020, the [Alfred P. Sloan Foundation](https://sloan.org/) provided [financial support](https://sloan.org/grant-detail/10076) for an [open work](https://openworkdefinition.com/) organization led by the Rochester Institute of Technology’s Stephen Jacobs: [Open@RIT](https://openr.it/about/). 
 This program was situated just under Rochester Institute of Technology Vice President for Research, [Ryne Raffaelle](https://www.rit.edu/directory/rprsps-ryne-raffaelle) and has been the home of Open Source at RIT since 2020.
-The program now participates in research projects, receives funding from grants, provides other organizations open source consultation, and hosts town halls for the open-source community on campus. 
+Open@RIT participates in research projects, receives funding from grants, provides open source community consultation to faculty and staff, and hosts town halls for the Open Source community on campus.
 Although the name has changed to Open@RIT, the organization is still involved with faculty members of MAGIC.
 
 
