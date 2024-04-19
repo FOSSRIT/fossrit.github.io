@@ -22,20 +22,23 @@ Sadly, the original history was based on an old [magic.rit.edu](https://web.arch
 ## FOSSBox
 
 Estimated to have started in 2010, Stephen Jacobs hired Remy DeCausemaker (RIT alumni) to run the open-source program. Remy was initially from the Red Hat Corporation so the club had a great foundation.
-Initially, it was set up as a semi-student club, but more of an informal student group called the Free and Open-Source Software Box (FOSSBOX). It served as a 24-hour access space that was housed in the innovation center (also known as Fish Bowl). FOSSBOX used an IRC channel on Freenode to communicate when not in the designated space.
-As the first group to introduce hackathons to the student population, FOSSBOX's impact on RIT's culture continues as several hackathons are run every semester.
-FOSSBOX also ran several of their hackathons when they were active, such as [Election Night Hackathon](https://fossrit.github.io/events/2019/11/05/election-night-hackathon/) and Random Hacks of Kindness, as well as several others.
-The original Humanitarian Free and Open-Source Software (HFOSS) seminar class was accredited and students in that class commonly got introduced and involved in the student group as well.
-Remy and FOSSBOX started the [course-to-coop life cycle](https://opensource.com/education/10/3/course-co-op-lifecycle-openinnovationrit) where students in open-source would receive co-op offers from companies that were funding and interested in open-source at RIT. This cycle repeated as those students graduated and got full-time offers and referred those who were in the student club for co-op positions.
-FOSSBOX may have been an informal student group at first but it grew to the point where a full-time staff member was managing FOSSBOX and undergraduate students had part-time paid roles doing the secretarial work for FOSSBOX, both of which were funded by a yearly payment by Red Hat Corporation.
-The FOSSBOX community operated for 9 years, collaborating with organizations in the local area such as [Hacks/Hackers](https://www.hackshackers.com/), [BarCampROC](https://rocwiki.org/BarCamp_Rochester), and the student club [CodeRIT](https://github.com/codeRIT).
+Initially, it was set up as a semi-student club, but more of an informal student group called the Free and Open Source Software Box (FOSSBox).
+It served as a 24-hour access space that was housed in the Innovation Center (informally known as the Fish Bowl).
+FOSSBox used an IRC channel on Freenode to communicate when not in the designated space.
+As the first group to introduce hackathons to the student population, the FOSSBox's impact on RIT's culture continues as several hackathons are run every semester.
+FOSSBox also ran several of their hackathons when they were active, such as [Election Night Hackathon](https://fossrit.github.io/events/2019/11/05/election-night-hackathon/) and Random Hacks of Kindness, as well as several others.
+The original Humanitarian Free and Open Source Software (HFOSS) seminar class was accredited and students in that class commonly got introduced and involved in the student group as well.
+Remy and FOSSBox started the [course-to-coop life cycle](https://opensource.com/education/10/3/course-co-op-lifecycle-openinnovationrit) where students in Open Source would receive co-op offers from companies that were funding and interested in Open Source at RIT.
+This cycle repeated as those students graduated and got full-time offers and referred those who were in the student club for co-op positions.
+FOSSBox may have been an informal student group at first, but it grew to the point where a full-time staff member was managing FOSSBox and undergraduate students had part-time paid roles doing the secretarial work for FOSSBox, both of which were funded by a yearly payment by Red Hat.
+The FOSSBox community operated until approximately 2015, collaborating with organizations in the local area such as [Hacks/Hackers](https://www.hackshackers.com/), [BarCampROC](https://rocwiki.org/BarCamp_Rochester), and the student club [CodeRIT](https://github.com/codeRIT).
 
 
 
 ## LibreCorps
 
 Founded in 2012, LibreCorps' first purpose was as a co-op program after developing educational games under the 'One Laptop Per Child' program.
-LibreCorps serves as an experiential learning program where students are deployed to work on real-world open-source software and data projects, supporting faculty partners with direct software development as well as community management, documentation, design, and other forms of non-code contribution.
+LibreCorps serves as an experiential learning program where students are deployed to work on real-world Open Source software and data projects, supporting faculty partners with direct software development as well as community management, documentation, design, and other forms of non-code contribution.
 RIT LibreCorps has been partnered intermittently with the UNICEF Office of Innovation since 2014.
 As a successful pilot, LibreCorps reached up to 24 supported faculty-driven software projects!
 
@@ -68,9 +71,9 @@ The organization still had funding and students were still getting involved, eve
 ## Open@RIT
 
 In 2020, the [Alfred P. Sloan Foundation](https://sloan.org/) provided [financial support](https://sloan.org/grant-detail/10076) for an [open work](https://openworkdefinition.com/) organization led by the Rochester Institute of Technology’s Stephen Jacobs: [Open@RIT](https://openr.it/about/). 
-This program was situated just under Rochester Institute of Technologies Vice President for Research, [Ryne Raffaelle](https://www.rit.edu/directory/rprsps-ryne-raffaelle) and has been the home of open-source at RIT for the last four years. 
+This program was situated just under Rochester Institute of Technology Vice President for Research, [Ryne Raffaelle](https://www.rit.edu/directory/rprsps-ryne-raffaelle) and has been the home of Open Source at RIT since 2020.
 The program now participates in research projects, receives funding from grants, provides other organizations open source consultation, and hosts town halls for the open-source community on campus. 
-Although the name has changed to OPEN@RIT, the organization is still involved with faculty members of Magic.
+Although the name has changed to Open@RIT, the organization is still involved with faculty members of MAGIC.
 
 
 
