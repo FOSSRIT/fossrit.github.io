@@ -19,7 +19,7 @@ Sadly, the original history was based on an old [magic.rit.edu](https://web.arch
 
 
 
-## FOSSBox
+## FOSSBox (or FOSS@RIT)
 
 Estimated to have started in 2010, Stephen Jacobs hired Remy DeCausemaker (RIT alumni) to run the Open Source program.
 Remy was initially from the Fedora community so the club had a great foundation.
@@ -33,6 +33,8 @@ Remy and FOSSBox started the [course-to-coop life cycle](https://opensource.com/
 This cycle repeated as those students graduated and got full-time offers and referred those who were in the student club for co-op positions.
 FOSSBox may have been an informal student group at first, but it grew to the point where a full-time staff member was managing FOSSBox and undergraduate students had part-time paid roles doing the secretarial work for FOSSBox, both of which were funded by a yearly payment by Red Hat.
 The FOSSBox community operated until approximately 2015, collaborating with organizations in the local area such as [Hacks/Hackers](https://www.hackshackers.com/), [BarCampROC](https://rocwiki.org/BarCamp_Rochester), and the student club [CodeRIT](https://github.com/codeRIT).
+The organization is also commonly referred to as FOSS@RIT because of the Github organization created for all things Open Source at Rochester Institute of Technology. The Github Organization did come after (Jan 24, 2012) establishment of FOSSBox, however students at the time used the two names for the organization interchangably.
+During the period of renaming from FOSSBox to FOSS@MAGIC, the Open Source hub on campus was known under all three names.
 
 
 
@@ -52,15 +54,7 @@ The minor was brought about by additional courses offered by the School of Inter
 
 
 
-## FOSS@RIT:
-
-FOSS@RIT is the name of the GitHub organization for all things open-source at Rochester Institute of Technology, however, the organization isn't very official. 
-During the period of renaming from FOSSBOX to FOSS@MAGIC, this was what you would call the Open-Source hub, though interchangeable with the FOSS@MAGIC name.
-The FOSS@RIT community was full of people with an interest in free and open-source software at RIT. At the time, FOSS@RIT had the initial purpose of keeping FOSSBOX alive.
-
-
-
-## FOSS@MAGIC:
+## FOSS@MAGIC
 
 When MAGIC was conceptualized in the Simone Center for Student Innovation, it was established to prioritize game development.
 However, many of the same drivers and organizers of FOSS@RIT were deeply tied into MAGIC, which was how the Open Source was reborn on the RIT campus.
@@ -91,3 +85,5 @@ Although the name has changed to Open@RIT, the organization is still involved wi
 * axk4545
 * Adrian Edwards
 * Michael Nolan
+* Justin Flory
+* Joshua Talbot

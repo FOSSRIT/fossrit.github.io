@@ -30,7 +30,6 @@ seo_keywords: >  # this symbol ignores newlines
   "Stephen Jacobs"
 twitter_account: "@RITMAGIC"
 url: "https://fossrit.github.io"
-open@ritURL: "https://openr.it/"
 
 social:
   irc: https://web.libera.chat/#rit-foss
