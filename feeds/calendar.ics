@@ -4,6 +4,34 @@ PRODID:-//Free and Open Source Software @ RIT//https://fossrit.github.io//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+UID:https://fossrit.github.io/meetings-meetups/2024/08/23/foss-hours-fall-2024/
+DTSTAMP:20240823T000000Z
+DTSTART;TZID=America/New_York:20240828T180000
+DTEND;TZID=America/New_York:20240828T200000
+RRULE:FREQ=WEEKLY;UNTIL=20241205T000000
+ORGANIZER;CN="Free and Open Source Software @ RIT":MAILTO:sj@magic.rit.edu
+SUMMARY:FOSS Hours
+DESCRIPTION:Come meet other students and faculty involved with FOSS efforts at RIT!
+CLASS:PUBLIC
+LOCATION:SHED-1350
+URL:https://fossrit.github.io/
+CATEGORIES:FOSS@RIT,Free and Open Source Software @ RIT,MEETINGS-MEETUPS
+END:VEVENT
+BEGIN:VEVENT
+UID:https://fossrit.github.io/meetings-meetups/2024/02/21/foss-hours-spring-2024/
+DTSTAMP:20240221T000000Z
+DTSTART;TZID=America/New_York:20240221T180000
+DTEND;TZID=America/New_York:20240221T200000
+RRULE:FREQ=WEEKLY;UNTIL=20240425T000000
+ORGANIZER;CN="Free and Open Source Software @ RIT":MAILTO:sj@magic.rit.edu
+SUMMARY:FOSS Hours
+DESCRIPTION:Come meet other students and faculty involved with FOSS efforts at RIT!
+CLASS:PUBLIC
+LOCATION:SHED-1350
+URL:https://fossrit.github.io/
+CATEGORIES:FOSS@RIT,Free and Open Source Software @ RIT,MEETINGS-MEETUPS
+END:VEVENT
+BEGIN:VEVENT
 UID:https://fossrit.github.io/meetings-meetups/2020/08/27/foss-hours/
 DTSTAMP:20200827T000000Z
 DTSTART;TZID=America/New_York:20200827T170000
