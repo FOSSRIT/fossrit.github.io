@@ -10,3 +10,5 @@ sitemap: false
 
 ---
 Come meet other students and faculty involved with FOSS efforts at RIT!
+
+The room is located on the main floor of the SHED (same level as the glass box theater). The room is located next to the makerspace on the opposite side to the info desk.
