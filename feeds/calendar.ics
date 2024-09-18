@@ -94,7 +94,7 @@ DTEND;TZID=America/New_York:20200116T190000
 RRULE:FREQ=WEEKLY;UNTIL=20200305T190000
 ORGANIZER;CN="Free and Open Source Software @ RIT":MAILTO:sj@magic.rit.edu
 SUMMARY:FOSS Hours
-DESCRIPTION:Come meet other students and faculty involved with FOSS efforts at RIT!
+DESCRIPTION:Come meet other students and faculty involved with FOSS efforts at RIT!  The room is located on the main floor of the SHED (same level as the glass box theater). The room is located next to the makerspace on the opposite side to the info desk.
 CLASS:PUBLIC
 LOCATION:MSS-3190
 URL:https://fossrit.github.io/
