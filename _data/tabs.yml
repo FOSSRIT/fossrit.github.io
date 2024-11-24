@@ -6,6 +6,8 @@
   dropdown:
     - name: About
       link: /about/
+    - name: History
+      link: /history/
     - name: LibreCorps
       link: /librecorps/
     - name: Open@RIT
@@ -14,8 +16,6 @@
       link: /events/
     - name: Projects
       link: /projects/
-    - name: History
-      link: /history/
 
 - name: Announcements
   link: /announcements/
