@@ -34,6 +34,12 @@ url: "https://fossrit.github.io"
 social:
   irc: https://web.libera.chat/#rit-foss
 
+# --- calendar feed settings ---
+calendar_feed:
+  url: "https://fossrit.github.io/feeds/calendar.ics"
+  description: "Upcoming FOSS@RIT events in iCalendar format"
+  timezone: "America/New_York"
+  
 # --- events page settings ---
 
 page_events:
