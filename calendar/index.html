@@ -263,6 +263,9 @@ fetch('/feeds/calendar.ics').then((res) => {
                         case 'location':
                             obj.location = j[3];
                             break;
+                        case 'exdate':
+                            obj.exdate = j[3];
+                            break;
                         case 'rrule':
                             // RRULE will get interpreted from object later
                             // Just set special case var to trigger parsing later

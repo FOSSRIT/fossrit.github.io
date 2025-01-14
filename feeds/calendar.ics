@@ -4,6 +4,21 @@ PRODID:-//Free and Open Source Software @ RIT//https://fossrit.github.io//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+UID:https://fossrit.github.io/meetings-meetups/2025/01/16/foss-hours-spring-2025/
+DTSTAMP:20250116T000000Z
+DTSTART;TZID=America/New_York:20250122T180000
+DTEND;TZID=America/New_York:20250122T200000
+RRULE:FREQ=WEEKLY;UNTIL=20250501T000000
+EXDATE;TZID=America/New_York:20250312T180000
+ORGANIZER;CN="Free and Open Source Software @ RIT":MAILTO:sj@magic.rit.edu
+SUMMARY:FOSS Hours
+DESCRIPTION:Come meet other students and faculty involved with FOSS efforts at RIT!  This is also the home of Office Hours for IGME-582 (Humanitarian Free and Open Source Software Development).  The room is located on the main floor of the SHED (same level as the glass box theater). The room is located on the opposite side of the makerspace from the information desk under the big LED screen.
+CLASS:PUBLIC
+LOCATION:SHED-1350
+URL:https://fossrit.github.io/
+CATEGORIES:FOSS@RIT,Free and Open Source Software @ RIT,MEETINGS-MEETUPS
+END:VEVENT
+BEGIN:VEVENT
 UID:https://fossrit.github.io/meetings-meetups/2025/01/09/virtual-foss-hours-jan-15/
 DTSTAMP:20250109T000000Z
 DTSTART;TZID=America/New_York:20250115T180000
