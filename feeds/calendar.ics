@@ -14,6 +14,9 @@ DTSTART:{{ post.date | date: "%Y%m%d" }}{% endif %}{% if post.date-end %}
 DTEND;TZID=America/New_York:{{ post.date-end | date: "%Y%m%dT%H%M00" }}{% else %}
 DTEND:{{ post.date | date: "%Y%m%d" }}{% endif %}{% if post.rrule %}
 RRULE:{{post.rrule}}{% endif %}
+{%- comment -%} https://icalendar.org/iCalendar-RFC-5545/3-8-5-1-exception-date-times.html {%- endcomment -%}
+{% if post.date-except %}
+EXDATE;TZID=America/New_York:{{post.date-except | date: "%Y%m%dT%H%M00" }}{% endif %}
 ORGANIZER;CN="{{site.title}}":MAILTO:{{site.email}}
 SUMMARY:{{post.title}}
 DESCRIPTION:{{post.excerpt | strip_html | newline_to_br | replace: "<br />", " " | strip_newlines | strip}}
