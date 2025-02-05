@@ -5,9 +5,8 @@ permalink: /projects/roarday-url-creator
 authors:
 - Adrian Edwards
 excerpt: >
-    TeleIRC bridges communication between Telegram groups and IRC channels.
-    This bot was originally written for the RIT Linux Users Group Telegram group and IRC channel.
-    Today, it is used by communities all over the world.
+    The ROAR Day URL creator is a small web project built to help ROAR Day ambassadors more easily create donation links to send to their communities during RIT ROAR Day 2024. It eventually became the target for a redirect from the rit.edu domain to make it more accessible.
+
 images:
 - /projects/assets/roardayurlcreator/screenshot.png
 ---
