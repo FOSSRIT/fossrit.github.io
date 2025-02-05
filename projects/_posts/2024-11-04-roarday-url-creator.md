@@ -20,7 +20,7 @@ Prior to the existence of this tool, RIT was using a spreadsheet to store a list
 
 This URL creator is a simple tool built to essentially automate this process for people to make it far more user-friendly. By pulling the list of organizations from the spreadsheet using the google sheets API, the site is able to allow much faster, easier generation of these URLs.
 
-This project was done in collaboration with, and with the support of Victor Santiago from University Advancement.
+This project was done in collaboration with, and with the support of Victor Santiago from University Advancement and was eventually set as the target of a redirect from [https://rit.edu/ROARDayURLCreator](https://rit.edu/ROARDayURLCreator)
 
 ## Future plans
 
