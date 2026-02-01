@@ -78,6 +78,10 @@ This program was situated just under Rochester Institute of Technology Vice Pres
 Open@RIT participates in research projects, receives funding from grants, provides open source community consultation to faculty and staff, and hosts town halls for the Open Source community on campus.
 Although the name has changed to Open@RIT, the organization is still involved with faculty members of MAGIC.
 
+## End of the Minor
+
+In August 2025 the RIT website was [updated](https://web.archive.org/web/20250817063255/https://www.rit.edu/study/free-and-open-source-software-and-free-culture-minor) to mark the FOSS minor as no longer accepting new student applications. This came shortly after the retirement of Stephen Jacobs.
+
 
 
 ### Individuals Information Contribution Credit:
