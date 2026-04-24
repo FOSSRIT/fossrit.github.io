@@ -78,6 +78,45 @@ This program was situated just under Rochester Institute of Technology Vice Pres
 Open@RIT participates in research projects, receives funding from grants, provides open source community consultation to faculty and staff, and hosts town halls for the Open Source community on campus.
 Although the name has changed to Open@RIT, the organization is still involved with faculty members of MAGIC.
 
+## Current Situation of Open@RIT in 2025
+By 2025, Open@RIT had matured into RIT’s central hub for “open work”, covering:	open source software, open data, open research, open educational resources. 
+
+It wasn’t a student club—it was an institutional initiative that connected students, faculty, and external partners.
+
+Open@RIT actively supported student-facing groups, especially:
+
+ •	FOSS@RIT 
+
+ •	FOSS@MAGIC 
+
+In 2025, this relationship looked like:
+
+ •	Students joined via clubs (FOSS@RIT → “FOSSBox”-style onboarding) 
+
+ •	Open@RIT provided: visibility, mentorship connections, infrastructure, sometimes funding/support 
+
+Compared to its early phase (2020–2022), by 2025 Open@RIT had:
+
+
+ •	from a new initiative → a stable institutional program 
+
+
+ •	from software focus → broader “open ecosystem” 
+
+
+ •	from participation → measurable outcomes (projects, careers, research) 
+
+
+In 2025, Open@RIT was the backbone of RIT’s open culture.
+
+ •	connected students, faculty, and industry 
+
+ •	enabled real-world open work 
+
+ •	supported a thriving student ecosystem 
+
+ •	and turned open participation into tangible academic and career outcomes
+
 
 
 ### Individuals Information Contribution Credit:
