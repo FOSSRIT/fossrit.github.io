@@ -53,7 +53,6 @@ Beginning of the Fall 2014 Semester, Rochester Institute of Technology started t
 The minor was brought about by additional courses offered by the School of Interactive Games and Media ([IGM](https://www.rit.edu/computing/school-interactive-games-and-media)).
 
 
-
 ## FOSS@MAGIC
 
 When MAGIC was conceptualized in the Simone Center for Student Innovation, it was established to prioritize game development.
@@ -78,7 +77,10 @@ This program was situated just under Rochester Institute of Technology Vice Pres
 Open@RIT participates in research projects, receives funding from grants, provides open source community consultation to faculty and staff, and hosts town halls for the Open Source community on campus.
 Although the name has changed to Open@RIT, the organization is still involved with faculty members of MAGIC.
 
+## FOSS Minor While Now
+Now, following Stephen Jacob's retirement, this minor has been discontinued. Although, the immersion still exists but it is now managed by the ([Institute for Interdisciplinary Innovation.](https://www.rit.edu/liberalarts/institute-interdisciplinary-innovation)) The Free and Open Source Software and Free Culture Minor at RIT is no longer accepting new student applications.
 
+The minor is noted to be under modification to align with a new multidisciplinary immersion program, and a “minor 2.0” version was planned for Fall 2022 open. It’s possible that the updated version may have different requirements or be rebranded.
 
 ### Individuals Information Contribution Credit:
 
@@ -87,3 +89,4 @@ Although the name has changed to Open@RIT, the organization is still involved wi
 * Michael Nolan
 * Justin Flory
 * Joshua Talbot
+* jz1141-dotcom
